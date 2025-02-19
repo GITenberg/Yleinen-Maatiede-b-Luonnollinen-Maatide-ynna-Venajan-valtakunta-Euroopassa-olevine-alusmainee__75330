@@ -1,0 +1,26 @@
+_repo: Yleinen-Maatiede-b-Luonnollinen-Maatide-ynna-Venajan-valtakunta-Euroopassa-olevine-alusmainee__75330
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Korander, Lavus
+    gutenberg_agent_id: '57951'
+    url: http://www.gutenberg.org/2009/agents/57951
+description: ''
+gutenberg_issued: '2025-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75330'
+language: fi
+pgterms:marc905: 20250207041118korander
+pgterms:marc906: '1862'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aViipuri :$bN. A. Zilliakus, $c1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Yleinen Maatiede : $b Luonnollinen Maatide ynnä Venäjän valtakunta, Euroopassa
+  olevine alusmaineen, valtiollisesti'
+url: http://www.gutenberg.org/ebooks/75330

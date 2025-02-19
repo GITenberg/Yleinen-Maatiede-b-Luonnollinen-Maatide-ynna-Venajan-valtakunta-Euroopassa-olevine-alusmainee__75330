@@ -1,0 +1,2920 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75330 ***
+
+language: Finnish
+
+
+
+
+YLEINEN MAATIEDE
+
+Luonnollinen Maatiede ynnä Venäjän valtakunta, Euroopassa olevine
+alusmainensa, valtiollisesti
+
+
+Kirj.
+
+LAVUS KORANDER [Claes Fredrik Corander
+
+
+
+
+
+Viipurissa,
+N. A. Zilliakuksen kirjapainossa,
+1862.
+
+
+
+
+
+
+      Imprimatur: _Carl Reinh. Lindberg_.
+
+
+
+
+Johdatus.
+
+
+Kertoelma maasta, minkäläinen se on ja mitä siinä on, nimitetään
+_Maatieteeksi_, eli muukalaisella nimellä _Geografiaksi_. Maatieteen
+pää-aineena on siis maa; mutta maan täydelliseen tuntemiseen tarvitaan
+myös muutamia tietoja auringosta, kuusta ja tähdistä. Sentähden
+jutellaan tässä johdatuksessa vähän taivaankin rakennuksesta. Jos
+selkeänä talvi-yönä silmäillään taivaan kirkasta kantta, niin pian
+kyllä havaitaan sen muuttelevan muotoansa melkein joka silmäräpäys.
+Muutamat tähdet näkyvät nousevan idästä ja pyrkivän keskitaivaalle,
+josta taas toiset, yhtä kiireesti, katoavat länteen. Koko taivaan
+avara laki näkyy, paljain silmin sitä katsellessa, kiepuvan idästä
+länteen, vieden mukanansa auringon, kuun ja kaikki tähdet; vaikka ei
+olekaan niin. Tämän asian selvitykseksi, muistutetaan jo alussa, ettei
+ihmisen silmiin olekaan yksin luottamista, vaikka sanotaan, totuuden
+vakuutukseksi: "oma silmä näki". Sillä kaikista luojan antamista
+aistimista on _näkö_ useimmin pettävä. Se tarvitsee enemmin, kuin
+muut aistimet, ymmärryksen apua ja johdatusta, ettei se saattaisi
+meitä vääriin luuloihin. Jos esimerkiksi ajaessa istumme takaperin
+rattailla, niin emme älyäkään kulkuamme eteenpäin, vaan silmissämme
+näkyy ikäänkuin puut, huoneet ja muut paikallaan pysyväiset kappaleet
+pakenisivat meistä takaperin. Kun silmät näin vähällä matkalla
+meitä jo näin pettävät, miten paljon eivätkö sitten petä meitä
+taivasta katsellessa. Sillä samoinkuin, ankarasti ajaessa ja rajusti
+purjehtiessa, kaikki näkyy silmissämme meistä pakenevan, samoin näkyy
+taivaan lakikin kiepuvan idästä länteen, vaikka se tulee siitä, että
+maa kerran vuorokaudessa pyörähtää keskensä ympäri, lännestä itään.
+
+Jo kauan Kristuksen syntymää ennen arvelivat muutamat Greekan maan
+viisaat maan liikkuvan ja taivaan olevan liikkumatta, jota taas toiset
+väittivät vääräksi. Niin oli Greekalainen _Pythagoras_ sanonut:
+"miten se on mahdollista, että koko taivas kääntäiksen vuorokaudessa
+maan ympäri? Eiköhän se ole paljoa luonnollisempi, että maa itse
+käännäiksen, ja että aurinko, kuu ja tähdet siten näkyvät pyörivän
+maan ympäri". Vasta tuhansien vuosien kuluttua, tuli tämä tarkoin
+tunnetuksi. Preussin maalla majaileva Puolalainen Kopernikus oli
+ensimäinen, joka täydelleen oli vakuutettu maan liikunnosta lännestä
+itään; sanoen, auringon ja taivaan pyörimisen maan ympäri olevan, kuin
+se todella onkin, ainoasti pelkän eksyttäväisen näkövirheen.
+
+Taivaan pallot, eli tähdet taivaalla, ovat Kopernikuksen ja kaikkien
+nyky-aikaisien oppineiden selityksen jälkeen _Aurinkoja, Maita,
+Kuita_ ja _Tukkatähtiä_. Auringoilla on oma valonsa ja ne pysyvät
+keskenänsä aina yksillä paikoilla, jonka tähden niitä myös nimitetään
+_kiintonaisiksi_ ja _kiiltäviksi_ tähdiksi. Maat, jotka auringoilta
+lainaavat valonsa ja lämpymänsä, ovat, kuin meidänkin maa, itsestään
+tummeat ja auringoita kiertäväiset kappaleet, ja niitä nimitetään
+sentähden kiertotähdiksi eli kiertolaisiksi. Kuut taas seuraavat
+juoksussaan maita samoinkuin maat aurinkoja. Tukkatähtien perustusta ei
+vielä oikein tunneta; se vaan tiedetään, että ne kiertävät aurinkoa,
+samoinkuin maa, ja että heidän seurassansa on hajoitetun tukan näköinen
+sädevasta eli pursto, josta niitä myös nimitetään purstotähdiksi.
+
+
+
+Aurinko.
+
+
+Kiiltäviä ja kiintonaisia lähtiä on taivaalla lukematoin joukko, ja
+ne jaetaan erityisiin tähti-sikeröihin, niinkuin Otava seitsemin
+tähtineen, Seulajaiset, Wäinämöisen viitake ja monet muut. Näistä
+kiiltävistä tähdistä on aurinko meille likein.
+
+Huono ja vähäpätöinen on kynttilän valo ja tulisoihto, joilla yön
+pimeydessä nähdään, auringon valoa vastaan, ja melkein yhtä vähäinen
+on kooltaan auauringon suhteen koko maapallokin, jonka avaruutta
+ihmetellään. Siinä on jo jonkulainen kuva ja mitta auringon valolle,
+arvolle ja suuruudelle. Mutta matka maasta aurinkoon on vieläkin
+ankarampi: se on niin pitkä, että sitä tuskin numeroista voipi
+käsittääkään. Kotkan siivillä lentäen, tuhannen askelta minuutissa,
+viivyttäisiin kuitenkin viisi sataa vuotta, ennen kuin maasta aurinkoon
+ennätettäisiin; sillä matka maasta aurinkoon on 10 miljonaa Suomen
+penikulmaa. Mutta tämän pitkän matkankin uhalla rientää kuitenkin
+auringon valo maahan, ja vieläpä paljoa avarammallekin.
+
+Mutta tätä valon voimaa vastaa auringon avaruuskin. Puolen toista
+miljonaa saisi maan kokoisia palloja yhteen sovittaa, ennen kuin
+siitä syntyisi auringon kokoinen pallo. Sen suuruus on 12598 kertaa
+enempi, kuin maan pinta manterineen ja merineen. Maan pienoinen toveri
+aurinkoa kiertäissä, nimittäin kuu, on kyllä meistä 35 tuhannen
+Suomen penikulman päässä. Mutta jos aurinko olisi onsi sisältä, ja
+maa asetettaisiin aivan auringon keskelle, niin kuu sopisi siinäkin
+aivan hyvin tavallisessa kulkukehänsä laajuudessa maata kiertämään;
+sillä auringon keskuudesta on sen pintaan 64,312 suomen penikulmaa.
+Jos kaikki kiertotähdet ja meidänkin maa liitettäisiin yhteen, niin
+ne olisivat näin yhtenäkin, auringon rinnalla, ainoasti kuin luodin
+painoinen pallo sata naulaisen rinnalla.
+
+
+
+Maa.
+
+
+Jos kysytään lapselta taikka aikaiseltakin, joka ei luonnon lakia ole
+tutkinunna, kumpainenko on yläpuolella ja kumpainenko on allapäin,
+maako vai aurinko, niin hän epäilemättä sanoo, maan olevan alempana ja
+auringon ylempänä, koska tuo loistavainen aurinko, päivittäin kulkee
+päämme yli taivahan laella. Kuitenkin on tämä asia aika erhetys. Näin
+kaukaisia kappaleita katsellessa, ei olekaan luottamista omiin silmiin.
+Niin tiedetään, kuin jo sanottiin, auringon nousun ja laskun tulevan
+siitä, että maa vuorokaudessa pyörähtää kerran keskensä ympäri; ja
+kuin maa pyöriminen käypi lännestä itään, niin aurinko meidän silmissä
+näyttää pyörivän idästä länteen. Samoinpa myös auringon näkyminen
+yläpuolella on sama kuin maasta ulkopuolella näkyminen, eikä suinkaan
+niin, että maa olisi taivaan avaruudessa päivällä alempana ja yöllä
+ylempänä. Maan liikunto taivaan avaruudessa on kahtalainen: _se kiertää
+aurinkoa, ja pyörii_ samalla keskensä ympäri niin tarkasti aina saman
+suunnan pitäen, kuin sillä olisi akseli. Senpä tähden sanotaankin sitä
+maan läpi ajateltua viivaa jonka ympäri se pyörii, _akseliksi_. Jos
+pallon viskaamme eli kiekon lyömme ylös ilmaan, niin silläkin on ihan
+sama kahdenlainen liikunto, vaikk'ei silläkään ole akselia: se pyörii
+eteenpäin ja ympäri. Siitä näemme, että vahvalla voimalla pyörimään
+pantu kappale kiepuessaan ei kallista päitänsä sinne eikä tänne, vaan
+pysyy sunnnassaan ihan käänteleimättä, niin kuin olisi sillä akseli
+taikka napa. Ja tämä kerran saatu suunta ei muutu, jos ei voima,
+ensimäistä voimaa suurempi, sitä muuta. Niin pyörii maapalloki ihan
+kääntymättä, vaikka akselinsa on tyhjä, ainoastaan ajatuksen vetämä
+linja, jonka päitä kutsutaan yhtä _Pohjois_- ja toista _Etelänavaksi_.
+Maa kiepahtaa tämän akselinsa ympäri kerran vuorokaudessa, eli
+oikeittain 23 tunnissa ja 56 minuutissa, ja tämä pyöriminen on yksi
+maan liikunnoita; kiertäminen aurinkoa on sen toinen liikunto.
+
+Sadevesi, joka kesällä putoaa pilvistä, on, kuin muutkin sulat aineet,
+pienissä pyöreissä pisaroissa. Tähän on syynä se, että kaikenlainen
+aine, sulana tai muuten irrallaan ollessa, pyrkii kappaleen keskelle,
+ja joka pienimmänkin osan siihin pyrkiessä, tulee koko kappale
+ymmyrjäiseksi. Maa-pallossakin on tämmöinen keskus, johon kaikki maata
+pienemmät kappaleet pyrkiivät päästä, eli, kuin sitä tavallisessa
+puheessa sanotaan, "putoavat". Mutta samoinkuin maan keskus vetää
+luoksensa eli valtaa keveämpiä kappaleita, eli saattaa ne putoamaan
+maahan, samoin vetää myös aurinkokin luoksensa kaikkia sen ympärillä
+olevia maapalloja eli, kuin niitä myöskin nimitetään, kiertotähtiä. Ja
+niinkuin aurinko valtaa maata ja muita kiertotähtiä, niin valtaa maa
+taas vuorostansa kuuta, joka on maata paljoa pienempi pallo.
+
+Mutta voimme kysyä, miksikä ei silloin kuu putoa maahan kiini ja
+maa aurinkoon, niinkuin kivi putoaa maahan? Jos pöydälle asetat
+kerän ja töytäät sen yhdellä kädellä eteenpäin toiselle sivulle,
+niin se ei mene eteenpäin eikä sivulle, vaan väli suuntaa; jos taas
+valitseisit keskellä pöytää yhden paikan, jota kohti yhtätasaisella
+voimalla alituisesti työnteleisit kerää yhdellä kädelläsi samalla
+kun toisella kädelläsi sitä ajasit kohdastaan eteenpäin, niin se
+ei menisi kohdastaan edespäin eikä myöskään sitä merkittyä paikkaa
+kohden, vaan sen ympäri, Eli vielä selkeemmin, jos kerä ripustetaan
+lankaan ja ruvetaan viipottamaan, niin kerä ulostuu kädestäs niin
+kauas kuin lankaa piisaa, vaan kun lanka on kiinipitimenä, täytyy sen
+lentää käden ympäri. Että eteenmeno-vauhti on se, joka viipottaessa
+kerän ulostaa niin kovasti että lanka kiintenee, nähdään jos
+lanka silloin katkeaa. Kerä ottaa poislentäessään saman suunnan
+viipoitus-kehästä, kuin sivuavalla viivalla on ympyrän kehälle. Samoin
+kuin nyt eteenmeno-vauhti ulostaa kerän viipottavasta keskuksesta,
+samoin estää eteytyvän liikunnon voima kuun maahan ja maan aurinkoon
+putoamasta, jota vastaan keskuksen vetovoima estää ne kehistään pois
+sinkoamasta oudoille teille maailman avaruuteen. Alkuaikoina, ehkä
+jo mailman luomisessa, viskasi eli työnsi joku voima, jota tässä
+alkuvoimaksi kutsumme, maamme kulkemaan avaruudessa suoraan eteenpäin.
+Mutta kulullansa sattui maa lähestymään aurinkoa, joka jo tunnetulla
+vetovoimallaan tahtoi vetää tätä pientä palloa tyköönsä. Kaksi voimaa
+riiteli siis tässä, kuka vaan maata valtaansa saisi: toinen tahtoi
+sitä suoraan juoksemaan, toinen veti sitä tykönsä. Sille tuli siis
+täytyminen kiertää aurinkoa kehässä, niinkuin kerä kättämme, saatuansa
+viipotuksesta eteenmeno-vanhdin. Vaan kun siinä tyhjässä ja pimeässä
+avaruudessa, jossa maa ja kuu sekä monet taivaan pallot kulkevat, ei
+löydy ilmaa, sitä vähemmin muuta kovempaa, joka niiden kulkua estäisi,
+niin ei maa eikä kuu enemmän kuin muutkaan tähdet juoksussansa taukoa,
+mutta kiertävät alituisesti aurinkoa siinä kerran heille sattuneessa
+kulkukehässään. Tämä muuttumatoin aurinkoa kiertäminen on, niinkuin
+sanottu, maan toinen liikunto, ja täyttääkseen kiertokehänsä eli
+ehtiäksensä kerran auringon ympäri, tarvitsee maa 365 vuorokautta ja
+noin 6 tuntia, jota aikaa vuodeksi sanotaan. Me ihmiset vaellamme
+siis maan turvissa auringon ympäri, melkeen kuin tietämättämme; sillä
+sitäkään ei näkö-aistin meille järjen avutta ilmoita.
+
+
+
+Aurinko-kunta.
+
+
+Aurinkoa kiertää, paitsi meidän maa, koko joukko muita kiertotähtejä,
+toinen toistansa ulompana. Tässä emme aluksi mainitse muita
+kiertotähtiä, kuin niitä, joita paljainkin silmin voidaan nähdä. Niitä
+on 6, nimittäin _Merkurius, Venus, Maa, Mars, Jupiter ja Saturnus_.
+Maata seuraa ainoasti yksi kuu, se öitämme valaiseva tavallinen kuu;
+mutta maata suuremmilla kiertotähdillä on useampiakin kuita. Niin
+on Jupiterilla 4, Uranuksella 7 kuuta. Kaikki aurinkoamme kiertävät
+kiertotähdet ja heitä seuraavata 18 kuuta nimitetään yhteensä meidän
+_aurinkokunnaksi_. Mutta aurinkoja löytyy tähtien seassa useampiakin,
+joita kaikkia seuraa omituiset maansa ja kuunsa. Jokaisella auringolla
+eli kiiltävällä tähdellä on sillä tavoin oma aurinkokuntansa, ja kun
+auringoita on lukemattomia, niin löytyy aurinkokuntiaki käsittämätöin
+paljous. Moni monituinen näitä auringoita, tähtiä ja kuita on meidän
+aurinkoa, maatamme ja kuutamme paljoa isompi, vaikka kaukaisuus sen
+tekee, että näkyvät meistä kuin olisivat ainoasti pieniä kiiltäviä
+pilkkuja taivahalla. Aivan sama tapahtuisi maammeki kanssa, jos sitä
+voisimme kaukaa katsella. Jos ihminen taitaisi jollakin keinoin
+matkustaa ja päästä siihen avaruuteen, jossa kiiltotähdet ovat,
+ja sieltä silmäilisi meidän aurinkoa, maata ja kuutamme, niin ne
+näyttäisivät silmissämme ikäänkuin tuli-kipunat taivaan laella.
+
+Jotka eivät koti-tienojaan etempänä ole käyneet, eivätkä ole luonnon
+opissa harjauntuneet, niistä kuuluu kyllä kummalta jo se, kun
+puhutaan siitä polttavasta kuumuudesta, joka Joulu- ja Tammikuun
+aikana vallitsee eteläisellä maan puoliskolla, niinkuin Hyväntoivon
+niemellä, Australiassa ja Kiilissä (Chilissä). Kova pakkanen samoilla
+tienoilla Heinä- ja Elokuussa on heistä yhtä kummallinen. Kun jo
+tämä meitä oudostuttaa, niin miten emmekö hämmästyisi, jos voisimme
+muuttaa asuinsiamme siihen palavaan ilmapiiriin, jossa Merkurius
+kiepuu auringon ympäri, jossa auringon säteet ovat seitsemän
+kertaa niin kuumat, kun meillä täällä maan päällä, ja jos siitä
+sitten matkustaisimme aurinkokunnan vihdoin viimiselle rajalle ja
+kaukaisimmalle perälle, jossa Neptunus tiettävästi on viimeinen
+kiertotähti, ja jossa kaukaisuuspiirissä siis on yhdeksän sataa kertaa
+kylmempi kun meillä.
+
+Ne kiertotähdet eli planeetat, jotka maan tavalla hiukan soikeissa
+eli melkein ympyrjäisissä radoissa kulkevat auringon ympäri, jaetaan
+parhaiten kolmeen luokkaan. _Ensimäiseen luokkaan_ kuuluu neljä
+kooltansa keskinkertaista ja muiden suhteen joksensakin likellä
+aurinkoa olevaa tähteä, nimittäin: Merkurius, Venus, Maa (Cybele)
+ja Mars. Kolmekymmentä kertaa sen matkan päässä, kuin auringosta on
+maahan, on niin ikään neljä summattoman suurta kiertotähteä, nimittäin:
+Jupiter, Saturnus, Uranus ja Neptunus, jotka siis tekevät toisen
+tähtiluokan. Martin ja Jovin eli Jupiterin välillä on ääretöin avaruus,
+joka kuitenkaan ei ole tyhjä; sillä siinä kiepuu suuri joukko pieniä
+kiertotähtiä, ja ovat niin muodoin kolmas kiertotähtien luokka. Näiden
+pienien tähtien lukua ei vielä tarkoin tunneta, sillä vuosittain
+keksitään aina joku uusi tähti tässä luokassa. Tämän vuosi-sadan
+alusta, jolloin ensimäinen keksittiin, vuoteen 1860 on niiden luku
+noussunna niin, että tunnetaan näitä jo 58 kappaletta. Yleesen on siis
+66 tunnettua kiertotähteä meidän aurinkokunnassa: neljä suurta, neljä
+keskinkertaista ja viiskymmentä ja kahdeksan pientä tähteä.
+
+Neljä keskinkertaista kiertotähteä, vaikka yhteen luokkaan luettuna,
+eivät kuitenkaan ole keskenänsä yhtäsuuret. Ainoasti meidän maa
+ja Venus, eli kun sitä suomeksi sanotaan _kointähti_, ovat sekä
+suuruudeltansa että muussakin tarkoituksessa melkein yhtäläiset, paitsi
+kuitenkin sitä, että maalla on yksi kuu, mutta Venuksella ei yhtään,
+vaikka sillä on kauneuden jumalattaren nimi. Merkurius ja Mars ovat
+paljoa pienemmät. Edellinen on kooltansa ainoasti kuusitoistakymmenes
+osa maatamme, ja jälkimäinen, maahan verrattuna, on seitsemäs osa sitä.
+Siihen siaan ovat ne suuret ja kaukaiset kiertotähdet Jupiter 1,400,
+Saturnus 7 tai 8 sataa, Uranus 80 ja Neptunus 100 kertaa suuremmat kun
+maa. Me kun opimme tietämään, kesämme tulevan siitä, että auringon
+lämmittäväiset valosäteet kesällä sattuvat meihin suoremmin, niin
+tekisi mielemme päättää, että koko kesän lämmin tulee valosäteiden
+lyhennyksestä; vaan se ei kuitenkaan tässä paljo mitään tunnu. Mutta
+semmoisella matkalla se jotakin tekee, kuin on Merkuriuksen ja
+Neptunuksen välillä, sillä aurinko paistaa edelliselle 6000 kertaa
+lyhemmillä ja siis lämpeemmilläki säteillä kuin jälkimäiselle. Mutta
+kiertotähtien vuoden vaiheet eli ajat eivät synny ainoasti heidän
+kaukaisuudesta, mutta paraaksi osaksi kuitenkin monesta muustaki
+syystä, josta vasta jutellaan. Edeltäkäsin voimme kuitenki sanoa,
+että planeetat, vuoden vaiheiden suhteen, jaetaan kolmeen lajiin,
+vaikk'eivät kuitenkaan yhdy mainittuun jakoon, jos, niinkuin sanottu,
+ainoasti niiden suuruutta ja kaukaisuutta katsoisimme. Ensimäisellä
+lajilla on vuoden aiat yleesen yhtäläiset kuin maallaki, toisella taas
+on ihmeen suuret eroitukset ilmassa ja vuoden ajoissa, kolmannella on
+kyllä ilman vaiheita, mutta ei mitään eroitusta ajoissa yhden eli saman
+piirin alla.
+
+
+
+Vuoden vaiheet.
+
+
+Kun maa päättaä vuotuisen juoksunsa auringon ympäri, niin on juuri
+sentähden, että maan akseli aina pysyy muuttumatta yhtäälle päin
+kallellansa, kumpainenkin maan napa ja sen ympärillä olevat seudut
+kerran vuodessa käännetyt aurinkoa kohden. Niin saapi pohjimmainen maan
+puoli kesää puolen vuotta ja toinen eli eteläinen puoli taas toisen
+puolen vuotta. Tästä _maa-akselin muuttumattomasti kallellaan olosta_
+syntyy vuosi-aikojen vaiheet. Toinen vaihe on taas yön ja päivän
+välillä, joka tulee siitä, että _maa vuorokaudessa pyörähtää akselinsa
+ympäri_. - Tässä käsittääkseen voipi tehdä seuraavan kokeen auringon
+valolta suletussa huoneessa. Pöydälle vedetään isonlainen ympyrä ja
+vedetään kaksi viivaa sen läpi ristiin, niin että kehä jakautuu neljään
+osaan, ja palava kynttilä asetetaan muka auringoksi kehän keskelle.
+Maanpalloksi otetaan lankakerä, jonka läpi pistetään sukkapuikko,
+muka navaksi, että siinä kerää pyörittäessä voitasiin sama kallellaan
+olon suunta yhtä tarkasti muuttumatonna pitää, kuin maakin pitää sen
+pyöriessään ja kiertäessään auringon ympäri. Jos nyt ympyrämme kohdalla
+valon tasalle nostamme kerän, pitäen sitä yhden ristiviivan kohdalla
+ulospäin vähän kallellaan, niin sen valaistu puoli kuvaa nyt sitä maan
+puolta, jolla on päivä, ja toinen eli kerän pimea puoli sitä, jolla on
+yö. Jos panemme kerään merkin, tarkoittaen sillä tavoin sitä paikkaa,
+jossa itse asumme, niin näemme, miten sille paikalle aurinko nousee ja
+laskeutuu, synnyttäen päivän ja yön, jota vuorokaudeksi sanotaan. Mutta
+jos merkin panemme kerään kovin ylös, liki pohjoisnapaa, niin kynttilän
+valo ei tapaakaan sitä paikkaa, vaikka kerää kuinkakin pyöritetään
+akselinsa ympäri. Sillä kohdalla maata ei siis olekaan nyt auringon
+nousua, ei päivää eikä valoa. Niin se Suomen pohjoisimmassa tienossa
+eli Lapissa talvella todella onkin. Kerän yläisimmät tienot kuvailevat
+siis Lapin seutuja, joilla silloin on talvi ja viikkomääriä kestävää
+pimeyttä, sillä aurinko ei nouse näitä seutuja valaisemaan. Kerän
+pyöriessä näemme kynttilän valon ylimatkaan valaisevan kutakin paikkaa
+kerän ylapuolella lyhemmän ajan, kuin seutuja kerän ala-puolella.
+Me, jotka maan pobjoispuoliskolla asumme, tunnemme nyt pitkien ja
+kylmien öiden vaikutukset ja nimitämme tätä vuoden aikaa talveksi.
+Joulukuun 22 päivänä on tämä kallellaan olon vaikuttama yön ja päivän
+eroitus suurin. Silloin on _talvinen päivän-seisahdus_; sillä silloin
+seisahtuuvat meillä päivät lyhenemästä.
+
+Jos nyt kuletamme kerää pitkin ympyrän kehää eteenpäin, pitäen sitä
+samalle suunnalle kallellaan, niin kynttilän valo nousee nousemistaan
+aina likemmä ja likemmä pohjoisnapaa. Kun kerä näin on kiertänyt,
+neljännen osan, niin kynttilän valo jo tapaa itseä pohjoisnapaa. Se
+tapahtuu luonnossaki maaliskuun 21 päivänä, jota _keväiseksi päivän
+tasaukseksi_ nimitetään; sillä nyt valaisee aurinko ihan tasaisesti
+maan koko pintaa pohjoisnavasta etelänapaan asti: päivää nyt on joka
+paikassa, asukoon ihminen vaikka missä, tarkalleen 12 tuntia, ja yötä
+yhden verran. Kun kerää viedään vielä eteenpäin, niin kynttilävalo
+enenee pohjoisella puoliskolla samassa määrässä, kuin se häviää
+eteläpuoliskosta. Päivät pohjoisessa ja yöt eteläisessä muuttuuvat
+aina pitemmiksi: lämmin enenee pohjoisnavan tienoilla, jossa ei yötä
+enää tavatakaan ja vähenee etelänavan luona, jossa kuusi kuukautta
+pitkä yö jo on alkanunna. Neljännen osan kehää kuljettuansa, on taas
+kerän pohjoisnapa jo käännetty niin paljon kuin pääsee aurinkoon
+päin, mutta etelänapa on syvimmässa pimeydessä. Näin seisoo maa
+kesäkuun 21 päivänä, joka on kesäinen päivän seisahdus, sillä päivät
+seisahtuvat nyt pitenemästä, jota ne tähän saakka ovat tehnynnä. Nyt
+on siis kesä puolessa. Jos taas kerää kuletetaan pitkin kolmattakin
+kehän osuutta, niin päivien pituus vähenee pohjoispuoliskossa ja valo
+enenee enenemistään etelään, kunnes tämäki neljännes on kuljettu.
+Nyt valaisee kynttilä eli aurinko maapintaa jälleen aivan tasaisesti
+pohjaisnavasta etelänapaan saakka. Päivät sekä yö ovat taas 12 tuntia
+pitkät ympäri koko maan. Tämä tapahtuu Syyskuun 23 päivänä, jolloin
+on syksyinen päivän tasaus. Siitä kulettua viimeistäkin kehän osuutta
+aina eteenpäin lyhentyy päivä lyhentymistään sekä vähentyy lämmin ja
+valo vähenemistään pohjoisessa puolikossa, kunnes kerä on ehtinyt
+ensimäiseen viivaan, josta kulkeminen alkoi. Silloin ollaan taas
+talvisessa päivän tasauksessa; ja vuosi on nyt lopussa ja toinen tuleva
+yhdellä tavalla aljettavana.
+
+Tästä nyt sanotusta voipi ymmärtää, että kun meillä on kesä, niin
+maan eteläisemmassä osassa on talvi, kun meillä on syksy, niin siellä
+on kevät j.n.e. Samate ymmärretään, että päivien pituus enentyy
+pohjoisessa maan puoliskossa Joulukuun 22 päivästä alkaen Kesäkuun
+21 päivään saakka ja vähentyy vuoden toisina aikoina. Maaliskuun
+21 päivänä alkaa maan pohjaisnavassa päivä, jota kestää kokonaista
+kuusi kuukautta, ja etelanavassa taas yö, jota kestää yhden verran,
+aurinkoa silloin siellä ihan näkemättä. Mutta Syyskuun 23 päivänä
+alkaa kuuden kuukauden päivä etelänavassa ja puolen vuotta kestävä
+yö pohjoisnavassa. Napoja aivan likellä ei ihmisiä kuitenkaan löydy.
+Kerän kiertäessä kynttilää, näimme myös pohjoisnavan olevan kesä-aikana
+aurinkoa likempänä, kuin etelänavan; auringon säteet putoavat silloin
+pohjoisempiin tienoihin paljoa suoremmassa suunnassa, kuin etelänavan
+tienoihin, ja siitä se kuumuus ja lämmin tulee, joka kesän synnyttää.
+Samasta syystä on maan eteläpuoliskolla kesä meidän joulu-aikoina.
+
+Kevät on taas se vuoden aika, jona napapiirin alat pääsevät puolen
+vuoden pimeydestä yhtä pitkään valoon. Niihin koskevaiset lämpimät
+ilman alat, joissa toisessa me Suomalaiset asumme, vaihtavat silloin
+heidän 15 ja 20 hetkeä kestävät yönsä yhtä pitkiksi päiviksi. Lumi,
+joka on peittänyt koko kylmän alan ja osan lämmintäkin alaa, sulaa
+silloin pois. Puut alkavat viheriöidä ja ne kasvut, jotka talvi
+hävitti, kasvavat uudestaan siemenistään. _Syksy_ on se väli-aika,
+jolloin kesä talveksi muuttuu, jolloin puut ja ruohot tekevät siemeniä,
+jolloin koko luonto varustaiksen talven pakkaista kärsimään.
+
+Vuoden ajan vaiheet, talven, kevään, kesän ja syksyn nähtiin syntyvän
+maan akselin kallellaan olosta aurinkoa kohden, se vaikuttaa päiville
+muuttuvaista pituutta lämpimässä sekä kuumassa alassa, eikä yksin
+maan kiepuminen akselinsakaan ympäri voi estää sitä kestävää, kolmen
+kuukauden pitkää pimeyttä, jossa ihmiset elävät pohjoisimmassa maamme
+tienoissa. Mutta jos maa ei olisi kallellaan, niin myöskin yöt ja
+päivät olisivat aina ja joka paikassa yhtä pitkät, eika erotusta
+olisi kesän, syksyn, talven ja kevään valillä. Vaikkaki maan napojen
+keski välillä, niissä niin kutsutuissa kesä maissa, ei lumesta eika
+pakkaisesta mitään tiedetä, niin on sielläki muutamia kuukausia yhä
+kestävä sade-aika, joka erotaiksen kesän pitkällisestä ja polttavasta
+poudasta. Tämäkin eroitus on jo tarpeellinen, mutta vielä suuremmasta
+arvosta ihmiselle sekä koko luonnolle on vuoden aikojen täydellinen
+vaihe.
+
+Se runsas viljan tulo, joka Euroopassa ja Amerikassa antaa elatuksen
+neljännelle osalle ihmiskuntaa, tulee niin hyvin talven kylmyydestä,
+kuin kevään ja kesän lämpymästä. Se kuuluu kyllä kammalta, mutta
+on kuitenkin totinen tosi. Sillä jos kasvut eivät kuolisi talven
+kylmyydestä, niin ne eivät myöskään tekisi terää eikä tähkäpäitä.
+Tästä saadaan selvä, kun mennään kuumiin kesämaihin. Tuskin päästään
+semmoiseen lämpymään, jossa kasvuilla ei ole mitään haittaa talven
+kovuudesta, ennenkuin jo nähdään niiden viheriöitsevän kaiken vuotta,
+mutta tekemättä tahkäpäitä. Kasvu ikäänkuin aavistaisi siemenen
+teon tarpeellisuutta siinä, jossa ilman kovuus seisattaa kasvujen
+elon. Silmin nähtävä on tämä luonnon vaikutus korkeilla vuorilla
+kuumissa kesämaissa, joissa ilman erotukset ovat likempäna toisiansa
+ja selvemmin nähtävinä, kuin jos kulkisimmc kesämaista talvimaihin.
+Kylmilla vuorien rinteillä kesämaissa viljat tekevät tähkapäitä,
+mutta lämpimissa laksoissa vuoren juurella kasvaa vaan uusia olkia
+kasvun juuresta, ja laiho viheriöitsee viheriötsemistään siementä
+tekemättä. Ei ainoasti ilman kylmyys, mutta myös muukin vaikutus voipi
+pakottaa viljakasvuja terää tekemään. Niin on esimerkiksi havaittu,
+että Jamaikan saarella, jossa pitkällinen pouta vuosittain näännyttää
+kasvun, käypi viljaa viljeleminen, mutta ei niissä kesämaissa, joissa
+vettä sataa kaiken vuotta. Keväällä ja kesällä herättävät kylmien ja
+viileiden maiden pitkät päivät vilkkaamman elon ja vireyden eläimienki
+seassa. Maalla ja meressä vilisee silloin aina napapiiriin asti
+lukematoin eläimien paljous. Kaikki tämä jo mainittu eläimien paljous
+sekä etenkin niiden suuruus saattaa epäilemään, tokiko nuo kiitetyt
+kesämaat silloin voivat ottaa voiton kylmiltä mailta, liiatenkin
+jäämereltä. Mutta kun sitte se aika tulee, jolloin päivä ei paistakaan,
+lämmin vähenee, kun yöt pimenee ja päivät lyhenee ja se kaikkia
+kuolettava talvi tulee, niin silloin on polo Pohjolassa elo leivätön
+Lapissa.
+
+
+
+Miten maata kuvataan ja viivataan.
+
+
+Maata kuvataan ympyräiselle pallolle, josta syntyy pallo-kartta, taikka
+viivataan kaksi ympyrän kehää paperille; toiseen ympyrään kuvataan
+maan pallon toinen puoli ja toiseen taas toinen, ja niin saadaan
+kehä-kartta. Manner painetaan tavallisesti jollakulla värillä; vaan
+vesi jätetään enimmiten paperin karvaiseksi.
+
+Sekä pallo- että kehäkartoissa on monta viivaa. Näistä on se
+merkillisin, joka on viivattu maan ympäri idästä länteen, yhtä kaukana
+maan kummastakin navasta. Sitä sanotaan _Equatoriksi_ eli _päivän
+tasaajaksi_; sillä kun auringon säteet paistavat kohtisuoraan tätä
+viivaa vasten, niin päivä ja yö ovat yli koko maan yhtä pitkät, eli
+12 hetkeä kumpikin. Päiväntasaaja on noin 3600 peninkulmaa pitkä,
+ja jaetaan, kun muntkin ympyrät, 360:een yhtä-suureen osaan, joita
+sanotaan gradiksi eli asteiksi. Joka aste on siis 10 penikulmaa
+pitkä. Päiväntasaaja jakaa myös maapinnan kahteen yhtä suureen osaan,
+nimittäin: _Pohjois_- ja _Eteläpuoliskoon_. Pohjoispuolisko on se maan
+puoli, jonka keskellä pohjoisnapa löytyy. Eteläpuoliskoksi sanotaan
+taas etelänavan ympäristölle kuuluvaa maan puoliskoa.
+
+Maan navasta maan napaan, kohtisuoraan päiväntasaajata vasten,
+vedetaän 360 kaaren kalttaista viivaa, joita sanotaan _Meridianiksi_
+eli _puolipäivän-piiriksi_ sentähden, että kaikissa paikoissa yhden
+meridianin alla on yhtäaikaa puolen päivän aika. Puolipäivän piiriä
+voipi viivata minkä paikan lävitse tahansa mutta tavallisesti viivataan
+ensimäinen puolipäiväpiiri pienen Ferro-nimisen saaren sivutse, josta
+sitä sanotaankin _Ferron puolipäiväpiiriksi_. Siten jakaantuu maa
+uudelleen kahteen osaan _Itä- ja Länsipuoliskoon_. Itäpuoliskoksi
+sanotaan ensimäisestä puolipäiväpiiristä itään päin olevata maan
+puoliskoa, ja Länsipuoliskoksi sitä, joka samasta puolipäiväpiiristä
+jääpi länteen. Suurin osa manteretta on kahdessa jaksossa, yksi
+kummallakin maa-puoliskolla. Näistä sanotaan suurempata ja leveämpää
+vanhaksi mantereeksi sen suhteen, että vanhimmat tunnetut kansat
+ovat siinä pitäneet asuntoa; toista, keskeltään kapeaa ja ikään kuin
+kahdessa osassa olevata mannerta nimitetään _uudeksi mantereeksi_.
+Paitsi näitä on vielä itäisen maan-puoliskon kaakkois-reunalla
+isonlainen manner, nimeltä _Uus Holland_.
+
+Päiväntasaajan molemmin puolin on viivattu rinnatusten kulkevia
+yhtäsuuntaisia ympyröitä, joita sentähden sanotaan _leveys- eli
+tasa-piireiksi_. Näitä tasapiiriä on 90 pohjois-puolella ja
+yhden verran etelä-puolella päiväntasaajaa. Päiväntasaajasta 23
+1/2 astetta pohjoiseen ja etelään päin on kaksi ympyrää, joita
+sanotaan _käännepiireiksi_. Pohjois-puolimaisen erityinen nimi on
+_ravun_-käännepiiri ja etelä-puolimaisen _kauriin_-käännepiiri.
+Yhtä-pitkältä molemmista maan-navoista, kun käännepiirit ovat
+päiväntasaajasta, on taas toinen yhtä-suuntanen ympyrä-pari, nimittäin:
+napa-piirit, joista toista sanotaan pohjoiseksi toista eteläiseksi
+napapiiriksi.
+
+Käänne- ja napapiireillä jaetaan maan pinta viiteen _ilman-alaan_.
+Napapiireillä rajoitettuja aloja, joita on kaksi, sanotaan _kylmiksi_
+aloiksi eli _talvi-maiksi_; napa- ja käännepiirien välillä olevata
+kahta alaa nimitetään _lämpimiksi_ aloiksi ja käännepiirien väli saapi
+nimen: _kuuma-ala_ eli _kesä-maa_.
+
+
+
+Manner ja meri.
+
+
+Mantereita on kolme: _Vanha_- eli _Itä-manner_, _Uusi_- eli
+_Länsi-manner_, ja _Uusi-Holland_ eli _Kaakkois-manner_.
+
+Vanha- eli Itä-manner on maanpallon itä-puoliskolla, paitsi koillista
+niemekettä, jota on vähän länsi-puoliskollakin. Leveydellään
+täyttää se melkein koko itä-puoliskon, ja on suurimmaksi osaksi sen
+pohjois-puoliskolla. Ainoasti yksi vanhan mantereen niemi ylettyy
+eteläiselle maa-puolelle. Länsi reunallaan lähenee vanha manner
+ensimäistä puolipäiväpiiriä. Sen laajuus idästä länteen on melkein
+puolta suurempi, kun pohjoisesta etelään. Valtameren selkä tunkeiksen
+lännestä melkein vanhan mantereen keskelle. Sitä sanotaan sentähden
+_Väli-mereksi_. Toinen kaitanen lahti, nimeltä _Arabian-lahti_ eli
+_Punanen meri_, tulee etelästä niin likeelle Välimertä, että niihen
+välille jääpi ainoasti pari penikulmaa leveä _Suetsin_ taipale. Nämä
+vedet jakavat itä-mantereen kahteen osaan. _Urali_-vuoret, jotka
+menevät melkein suoraan etelästä pohjoseen, jakavat suuremman näistä
+osista vielä kahteen osaan. Siten jakaantuu vanha manner kolmeen
+maa-osaan, jotka nimitetään Aasia, Euroopa ja Afrika.
+
+Uusi- eli Länsi-manner on kokonaan maanpallon länsi-puoliskolla. Tämä
+manner on pohjosesta etelään aivan pitkä, mutta idästä länteen hyvin
+kapea. Sen koillis-puolella on maailman suurin saari Grönland eli
+Vihantamaa, jonka länsi-ranta, sikäli kuin se on tunnettu, kulkee
+aivan liki Ferron puolipäivä-piiriä. Uusi-manner on jaettu kahteen
+osaan, jotka Panama-taipale päiväntasaajan pohjois-puolella yhdistää.
+Pohjois-osa on kokonaan maanpallon pohjois-puoliskolla. Suurin leveys
+on pohjoisessa, josta se sitten kapenee vähitellen etelään päin.
+Etelä-osa on suurimmaksi osaksi maanpallon etelä-puoliskolla, ja
+sen itä-reunalla, ainoasti ylimmäinen reuna pistäiksen pohjoiselle
+maa-puoliskolle. Tämäkin osa uuden maailman manteretta on levein
+pohjoisessa ja kapenee etelässä kapenemistaan niin, että se näöltään
+on melkein kolmi-kolkkanen. Koko uusi-manner pidetään tavallisesti
+yhtenä maa-osana, nimeltä Amerika, jonka pohjois-puolta sanotaan
+Pohjois-amerikaksi ja etelä-puolta Etelä-amerikaksi.
+
+Uusi-holland on vanhasta mantereesta kaakkoseen päin, itäisen
+maa-puoliskon etelä-alalla. Laajuus poikki maan, idästä länteen, on
+suurin keski-paikalla. Halki maan, pohjoisesta etelään, on tämä manner
+lyhkäisempi, kuin poikelleen. Pohjoisin niemi on nimeltään Cap York,
+(lue Kaap Jork), ja etelin Cap Vilson, (lue Kaap Uïls'n). Uus-holland
+ja sen ympärillä oleva avara saaristo pidetään viidentenä maa-osana,
+nimellä Australia.
+
+Maa-osia on siis viisi, nimittäin: _Aasia, Afrika, Euroopa, Amerika ja
+Australia_.
+
+Aasia on vanhan mantereen koillis-puoli. Lännessä se yhtyy Euroopan
+kanssa, ja lounais-suunnalla Afrikan kanssa Suetsin taipaleen
+kautta. Bering'in salmi erottaa itä-pohjimmaisen kulman Amerikasta.
+Pohjoisimmat niemet ovat Cap Taimura ja Severovostotshnoi. Itäpuolella
+on kolme suurta niemi-maata: Tshuktshi'en maa, josta rannimmainen
+niemeke on Itä-niemi; Kamtshatka, jonka eteläisin niemi on Lopatka
+ja Korea. Etelä-rannalla on myös kolme vielä suurempata niemi-maata:
+Itäinen Indian niemi, josta toista ja pitempätä puolta sanotaan
+Malakka-niemeksi: Läntinen Indian niemi ja Arabian niemi. Länteen päin
+on ainoasti yksi niemi-maa Länsi-aasia, Pieni-aasia eli Natolia. Aasian
+maa-osaan Luuluvat seuraavat suuret saaret: Kypros, löytyvä Väli-meren
+koillis-päässä; Sokotora, Arabian etelä-puolella; Ceylon eli Seilan
+läntisen India-niemen etelä-rannalla; Suuret Indian eli Sunda-saaret,
+Sumatra, Borneo, Java ja Celebes, kaikki Itäisestä Indian-niemestä
+kaakkoseen; Pienet Sunda-saaret aivan perätysten Javan ja uuden
+Hollannin välillä Balista Timorihin asti; Molukki- eli Ryyti-saaret,
+Celeben saaresta itään; Philippi-saaret, Lutson- eli Manila ja Palavan
+(Paragoa), Borneosta koilliseen; Hainan ja Taivan, lähellä itärantaa;
+Japanin saaret (Kiusu, Sikokf, Nipon ja Jesso) ja Tarakai eli Sachalin,
+myös itä-rannalla; Uusi-sipirja, pohjois-rannalla.
+
+Afrika on vanhan mantereen lounais-osa. Suetsin taipale yhdistää
+sen Aasian kanssa. Pohjoisessa on Välimeri, idässä Punanen meri ja
+muuten Valtameri. Länsipuolella tekee Valtameri sen suuren Guinean
+lahden. Tämä lahti jakaa Afrikan kahteen suureen niemeen. _Läntinen_
+näitä niemiä, Väli- ja Valtameren välillä, on joksikin leveä ja
+rannoiltaan melkeen kaaren muotoinen. _Eteläinen_ taas, Valtameren
+välillä, on alussa aivan leveä, mutta kapenee etelässä ja loppuu
+ikäänkuin katkennut veitsen terä. Afrikan itäisin niemi on _Kap
+Guardafui_. Eteläisimmät niemet ovat _Hyväntoivon-niemi_ ja sitä vähän
+kaakkosempana _Cap Agulhas_ eli _Neula-niemi_. Länteisin on _Cap Verde_
+eli _Vihanta-niemi_. Luoteisin niemi, _Gibraltar_-salmen kohdalla,
+_Cap Spartel_ ja pohjoisimmat _Cap Bon_ ja _Cap Blanko_. Poikki-maisin
+Blanko-niemekkeestä Neula-niemekkeelle on vähäistä pitempi matka, kuin
+poikki-maisin Vihanta-niemestä Guardafui niemelle. Afrikaan kuuluu
+suuri _Madagaskar_-saari kaakkois-rannalla: _Masgarenhan_ saaret,
+joista _Mauritius_ ja _Burbon_ ovat suurimmat, Madagaskarista itään
+päin; ja luode-puolella _Asori_- eli _Terceira_-saaristo; Pohjoiset
+_Kanaria_- eli _Madeira_-saaret; _Eteläiset Kanaria-saaret_, Teneriffa,
+Ferro ja Kanaria, ja _Vihanta-niemen_ saaret.
+
+Euroopa on luode-osa vanhan maailman manteretta. Idässä se yhtyy
+Aasiaan. Rajana molempien maa-osien välillä on _Urali_-vuoret,
+_Urali_-virta, _Kaspin-meri_, _Kaukason-vuori_ ja _Musta-meri_.
+Väli-meri erottaa Euroopan Afrikasta. Lännessä ja pohjoisessa on
+Valta-meri. Suurin pituus on itä-pohjoisesta, Aasian rajalta, lounaseen
+niemeen _Cap Vincent_. Pohjoisin niemi mantereesta on _Nordkyn_, mutta
+_Magerö-saarelle_ on vielä pohjoisimpi niemeke _Nordkap_. Itämeri
+tunkeiksen lännestä Euroopan pohjoispuoleen. Itämeren ja Valtameren
+välillä on _Skandinavian_ ja _Juutin_ niemet, joista edellinen on
+jaettu kahteen valtakuntaan Ruotsi ja Norja; lännessä on _Pyrenean_
+niemi, eli Spanja ja Portugali; ja etelässä: _Italian, Greekan_ ja
+_Krimin_ niemet.
+
+Eteläisimmät niemen nenät eli niemekkeet ovat _Cap Matapan_ Greekan
+niemellä, ja _Cap Tariffa_ Gibraltarin salmen kohdalla, kaikkein
+etelin. - Suurin Euroopaan kuuluva saari on _Britannia_ eli England ja
+Skottland. Muita saaria on _Novaja Semljä_, koillis-rannalla: _Island_
+eli _Jäämaa_, meren selällä. _Huippu-saaret_ eli _Spetsbergen_, lähellä
+pohjois-napaa; Vihantamaan ja Norjan välillä; _Irland_, Britannian
+itä-puolella; _Tanskan_ saaret _Seeland, Fyen, Langeland, Laaland_
+ja _Falster_; Skandinavian ja Juutin niemen välillä; _Kandia_ eli
+_Kreeta_, Kaakkoseen Greekan niemeltä; _Negroponte_ eli _Egribos_,
+Greekan itärannalla; _Sicilia_, Italian ja Afrikan välillä; _Sardinia_
+ja _Korsika_, Italian länsi-puolella; _Baleari_-saaristo _Mallorka_
+(lue Maljorka) ja _Menorka_ ja _Pithiusi_-saaristo, _Ivitsa_ ja
+_Formentera_, Spanjan itä-rannalla.
+
+Amerika eli uuden maailman manner, on kokonaan maa-pallon
+läns-puoliskolla. Molemmat niemi-maat, _Pohjois_- ja _Etelä-amerika_,
+yhdistää _Panama_-taipale. Pohjois-amerikan suurin pituus on luoteesta
+kaakkoseen _Vales_- (Uels'n) niemesta Panama-taipaleelle. Etelä-amerika
+on pisin halki maan, pohjois-niemekkeestä _Cap Gallinas_ aina _Cap
+Horn_ niemekkeesen. Pohjois-amerikan länsirannalla on kaksi kaitaista
+niemi-suikaletta: _Alashka_ luodetta, ja _Kalifornia_ lounasta
+kohden. Itä-rannalla on 4 nientä: _Labrador_, leveä, koillista kohden
+käypä niemimaa, _Uusi-Skottland_, pienenläntä niemi Labradorin
+etelä-puolella, ainoasti kapealla taipaleella yhdistetty mantereesen.
+_Florida_ ja _Jukatan_ melkein vastatusten kaakkois-rannalla.
+Etelä-amerikassa ei olekaan suurempia niemi-maita. - Amerikaan kuuluu
+seuraavat suuret saaret: _Grönland_ eli Vihanta-maa, maailman suurin
+saari; _New-Foundland_, Labradorista etelään; _Suuret Antilli-saaret_,
+_Kuba, Jamaikka, Haiti_ eli _Hispaniola_ ja _Portoriko_ etelään
+ja kaakkoseen Florida-niemeltä; _Bahaman_ eli _Lukaijan_ saaristo
+edellisistä pohjoiseen; _Pienet Antillit_, Portorikosta Etelä-amerikaa
+kohden; _Falklannin_ saaristo eli _Maluinit_ Etelä-amerikan
+etelä-rannalla; _Tuli-maa_ ja _Gallapagon_ eli _Kilpikonnan_ saaret
+länsirannalla päivätasaajan alla; _Nutka_ eli _Qvadra-wancouerin_ saari
+Pohjois-amerikan länsi-rannalla; _Kuningatar Charlotan_ (Saarlotan)
+saari molemmat vähän pohjoiseen edellisestä; _Sitka, Kodjak_ ja
+_Aleutta_-saaristo, kaikki luodepuolella.
+
+_Australia_- eli _Oceania_-nimiseen maa-osaan kuuluu Uus-holland ja
+summaton joukko saaria, Aasiasta kaakkoseen päin, osaksi itäisellä
+ja toiseksi osaksi läntisellä maa-puoliskolla. Suurimmat saaret
+ovat: _Uusi Guinea_, Hollannin pohjois-puolella; _U. Britannia_
+ja _U. Irland_, molemmat Uuden Guinean itä-puolella; _Uusi
+Kaledonia_, Uudesta Hollannista itään päin; _Van Diemenin maa_,
+Uuden Hollannin kaakkois-rannalla; _Uusi Seeland_, Van Diemen maasta
+ulompana itään. - Merkillisimpiä tähän maaosaan kuuluvia saaristoja
+päivätasaajan pohjois-puolella ovat: _Marianit_ eli _Ladronit_
+(Varas-saaristo), _Filipin_-saarista ulompana itään; _Karoliinan_
+saaristo, edellisestä etelään; _Lord Mulgraven_ saaristo, osaksi
+päivätasaajan alapuolella; _Sandvikin_ saaristo, viimeisistä
+paljon koillista kohden; päivätasaajan etelä-puolella: _Salamonin_
+saaristo, Uudesta Britanniasta itään päin; _Uudet Hebridit_, itään
+päin Uudesta Kaledoniasta; _Ystävyys_-saaristo, etäälle itään
+Kaledoniasta; _Seuruus_-saaristo, Ystävyys-saarista vähän koilliseen;
+_Mendanna_-saaristo, koilliseen Seuruus-saarista: _Alainen_ saaristo,
+viimemainitusta kaakkoseen.
+
+Valta-meri jaetaan tavallisesti viiteen osaan, nimittäin
+_Pohjois-jäämeri, Etelä-jäämeri, Atlantin meri, Intian meri,_ ja
+_Tyyni_- eli _Aava meri_.
+
+Pohjois-jäämeri on pohjois-navan ympärillä, Euroopan, Aasian ja
+Amerikan pohjois-rantojen välillä. Molemmin puolin Jäämaan saarta eli
+Islannia, ja Barrovin kanavan kautta yhtyy tämä meri Atlantin meren
+kanssa. _Beringin_ salmi yhdistää sen Tyynen eli Aavan meren kanssa.
+Euroopan rannalla tekee Jäämeri suuren lahden, nimeltä _Valkea-meri_,
+ja Aasian rannalla _Obin_ lahden. Novaja Semljä-saarien ja mantereen
+välillä olevaa kaitaa vettä sanotaan _Kara-mereksi_. Jäämeren nimen on
+tämä Valtameren osa saanut sentähden, että se suurimmaksi osaksi on
+peitetty ikuisella jäällä. Merkillistä on kuitenkin, että perimmäisessä
+pohjoisessa, eli pohjois-navan ympärillä sanotaan oleva sula meri,
+vaikka ei välimatkalla sinne.
+
+Etelä-jäämeri piirittää etelä-navan, eikä koske mihinkään mantereesen,
+mutta yhtyy pohjoisessa Atlantin, Indian ja Tyynen meren kanssa. Tämä
+meri on myös koko vuoden peitettynä paksulla sulamattomalla jäällä.
+
+Atlantin meri on vanhan mantereen länsi-puolella ja uuden mantereen
+itä-puolella. Tämän meren itärannalla on siis Euroopan ja Afrikan
+maa-osat ja länsirannalla Amerika. Pohjois-jäämereen päästään tästä
+taikka Euroopan ja Vihanta-maan välitse, taikka _Baffin_ lahden ja
+Barrovin salmen kautta. Etelässä se yhtyy Etelä-jäämeren kanssa: Indian
+meren kanssa kaakkos-ilmalla, Afrikan alatse, Hyvän-toivon niemen
+kohdalla: ja Tyynen meren kanssa lounat-suunnalla, Amerikan alatse,
+Horn-niemekkeen paikoilla, ja _Magelhaenin_, (lue _Mageljaenin_) salmen
+kautta. Atlantin meren pohjois-puolta, joka on Jäämaan ja Britannian
+saarien ja Skandinavian ja Juutin niemien välillä, sanotaan _Pohjan
+mereksi_, ja sen eteläistä puolta, joka on Afrikan länsirannalla,
+_Etiopian_ mereksi. - Länteen päin tekee Atlantin meri Amerikan
+rannalla seuraavaiset lahdet: Baffirn lahti, joka Dawis-salmen kautta
+tunkeiksen svvälle Vihanta-maan ja niiden pohjassa olevien saarimaiden
+väliin; Hudsonin lahti ja Hudsonin salmi Baffin maan ja Labradorin
+välillä; Lorentso-lahti, New-Foundlannin ja Uuden Skottlannin välillä;
+Meksikon lahti Floridan ja Yukatanin välillä; Karaibian mereksi
+sanotaan sitä meren osaa, joka on Antilli-saarien etelä-puolella. —
+Itä-puolella on: Afrikan rannalla, päivätasaajan alla, Guinean lahti
+ja Euroopan rannalla Biskaijan eli Franskan lahti, Pyrenean-niemen
+pohjois-puolella.
+
+Pohjan merestä mänee _Skager-rack_ niminen lahti syvälle mantereesen
+Norjan ja Juutin niemen välillä; mutta Juutin niemen pohjois-päässä
+se käännäiksen kaakkoseen ja nimitetään Ruotsin ja Juutin välillä
+_Kattegatiksi_. Eteläpuolella on _Zuider-Zee_ (lue _Söider-see_).
+Britannian eteläpuolella yhtyy Pohjan meri Atlantin mereen _La Manche_
+salmen kautta. Salmen kapein paikka on _Pas de Calais_ (lue _Paa dö
+Kalee_), jota myös Franskan kanavaksi kutsutaan. _Irlannin_ meri
+erottaa Britannian Irlannista.
+
+Yhteydessä Atlannin meren kanssa ovat _Itämeri_ ja _Välimeri_.
+Itämereen tullaan Kattegatista kolmen salmen kautta: _Öresund_
+(Äyrisalmi), Ruotsin ja Seelannin saaren välillä; _Suuri Belt_,
+Seelannin ja Fyenin välillä; ja _Pieni Belt_, Fyenin ja Juutlannin
+välillä. Sittemmin jakaantuu Itämeri kolmeen lahteen: _Pohjan lahti_,
+pohjoiseen päin; _Suomen lahti_, itään päin ja _Riigan lahti_
+kaakkoseen päin. - Välimereen on ainoasti yksi kulku, Afrikan ja
+Pyrenea-niemen välillä, nimeltä _Gibraltarin salmi_. Pohjois-rannalla
+on kaksi suurta lahtea: _Arkipelagi_ eli _Egean meri_, pienen
+Aasian ja Greekan niemen välillä, ja _Adrian meri_. Italian niemen
+koillis-puolella on myös kaksi lahtea, nimittäin _Lionin_ ja _Genuan_
+lahdet, Franskan ja Italian rannalla. Etelä-puolella Afrikan rannalla
+on _Sidra-lahti_. _Tyrrenin mereksi_ sanotaan sitä Välimeren selkää,
+joka on Italian, Sicilian, Sardinian ja Korsikan välillä. Tältä meren
+selältä päästään Italian ja Sicilian välitse, _Messina-salmen_ kautta,
+Jonian mereen eli sille Välimeren selälle, joka on Greekan, Italian
+ja Sicilian välillä. _Jonian_ merellä on kaksi lahtea, nimittäin:
+_Tarento-lahti_ Italian etelä-rannalla, ja _Lepanto-lahti_, joka menee
+niin syvälle Greekan mantereesen, että se jakaa sen kahteen niemeen
+_Hellas_ ja _Peloponneso_. Näitä yhdistävää taipaletta sanotaan
+_Korintin_ taipaleeksi. Välimerestä päästään vielä _Dardanelli_-salmen
+kautta _Marmora_-mereen ja _Konstantinopolin_ salmen kautta _Mustaan_
+mereen, joka lännessä ja pohjoisessa koskee Euroopaan, mutta etelässä
+ja idässä Aasiaan.
+
+Indian meri on melkein itäisen maanpuoliskon keskellä. Sen rajana on
+lännessä Afrikan itä-ranta, pohjoisessa Aasian etelä-ranta ja idässä
+Uuden Hollannin länsiranta. Etelässä sitä kestää aina Etelä-jäämereen
+asti. Mutta se yhtyy myös, Afrikan etelä-puolella, Atlantin meren
+kanssa, ja Tyynen meren kanssa Uuden Hollannin sekä pohjois-puolella,
+Indian saarien välitse, että etelä-puolella Van Diemen'in maan
+seuduilla. Pohjoisessa on kolme suurta lahtea: _Arabianmeri_,
+Arabian etelä-puolella, Afrikan ja Indian välillä; _Bengalin_ lahti,
+molempien India-niemien välissä, ja _Kiinanmeri_, Kiinan ja Indian
+mantereiden ja Sunda-saarien välillä oleva meren selkä. Arabian
+merestä menee luoteesen päin kaksi pienempää lahtea: _Arabian_ lahti
+eli _Punanen meri_, aivan kapea, Arabian Afrikasta erottava lahti,
+jonka kulkua valtamereen sanotaan _Bab-el-Mandeb_-salmeksi, ja
+_Persian_ lahti, Arabian niemen itä-puolella, yhdistetty valtamereen
+_Ormus_-salmen kautta. Leveä salmi, nimeltä _Mosambik_-salmi, erottaa
+Madagaskar-saaren Afrikan mantereesta. Indian merestä Kiinan mereen
+on kaksi kulkua: _Malakka_-salmi, Malakka-niemen ja Sumatra-saaren
+välillä, ja _Sunda_-salmi, Sumatra- ja Jaava-saaren välillä. Kiinan
+merellä on kaksi lahtea: _Siamin_ ja _Tonkinin_ lahdet.
+
+Tyyni- eli Aava-meri peittää paremmin kuin puolen länteistä ja hyvän
+osan itäistäkin maa-puoliskoa. Tämä on suurin kaikista valtameristä,
+ja nimitetään senvuoksi myös _Aavaksi mereksi_. Idässä koskee
+tähän Amerikan länsi-ranta, lännessä Aasian ja Uuden Hollannin
+itärannat, pohjoisessa se yhtyy Pohjois- jäämereen Beringin salmen
+kautta, kaakkos-puolella Atlantin meren kanssa Magelhaenin salmen
+kautta ja Hoorn-niemen ympäritse; ja lännessä monen salmen kautta
+Aasian ja Australian välillä Indian meren kanssa. Etelässä ei ole
+mitään erinäistä rajaa, mutta tavallisesti sanotaan sen ylettyvän
+eteläiseen napapiiriin saakka. Itään päin mutkistaiksen tämä meri
+Amerikan rannalla ja tekee päivätasaajan yläpuolella kaksi lahtea:
+_Panama_-lahti, yhtänimisen taipaleen kohdalla, ja _Kalifornian_ lahti,
+yhtänimisen niemen ja mantereen välillä. Sitä meren selkää, joka on
+Alashka-niemen, _Repo ja Aleutti_-saarien pohjois-puolella, sanotaan
+Beringin mereksi. Länteen päin pistäiksen Tyyni-meri Aasian mantereesen
+kahdella lahdella: _Tunguusin eli Ochotskan_ meri, Kamtshatka-niemen
+länsi-puolella, ja _Hoang-hai_ eli _Keltameri_, Korea-niemen
+länsi-puolella. _Japanin_ mereksi sanotaan, yhtänimisien saarien
+ja mantereen välillä olevaa meren selkää. Etelässä Uuden Hollannin
+pohjois-rannalla on _Karpentaria_-lahti.
+
+
+
+Tuulet ja meren virrat.
+
+
+Kun, niinkuin luonnon opista tietty on, lämmin keventää ilmaa, niin
+nousee myös auringon vaikutuksesta ilma ylöspäin kuumassa ilma-alassa,
+tästä syntyy siis kaksi valtatuulta, yksi maan pintaa myöden, joka
+tuopi kylmää ilmaa maan napapiiristä päiväntasaajaa kohden, ja toinen
+joka sinne päiväntasaajasta siaan viepi lämmintä ilmaa, joka ollen
+keveämpi, kulkee päällitse, ja siis vastahakaan sitä napamaista aina
+päiväntasajaa kohden kulkevaa ilmakertaa. Päiväntasaajan tienoilla
+nousee lämmin ilma aina ylöspäin, että ei muuta tuulta tunnukaan. Tätä
+kestää noin 4 astetta molemmin puolin päiväntasaajata ja sanotaan
+_Tyyneen ilman alaksi_.
+
+Kun ilma maapallon kanssa pyörii sukkelammin päiväntasaajan, kuin
+napojen tienoilla, niin ei raskaampi pohjoinen ilma, joka pyrkii
+etelään, jaksakaan pyöriä niin sukkelaan, kuin maan koillis-kohdalla.
+Senpätähden pohjois-tuulet muuttuvat sitä itäisimmiksi, kuta enemmän ne
+lähestyvät käännepiirejä. Ja samaa syyn tähden muuttuvat etelä-tuulet
+länsi-tuuliksi, kuta likemmä ne tulevat tätä piiriä. Siten syntyy,
+molemmin puolin Tyyneen ilman alaa, semmoinen ala, jossa kaiken vuotta
+tuulee pohjois-puolella koillis-tuuli ja etelä-puolella lounas-tuuli.
+Kymmenennen ja kahden kymmenennen tasapiirin välillä on siis _pysyvien
+tuulien_ ala.
+
+Kuta enemmin tullaan pohjoiseen, sitä enemmin jähtyvät eteläiset
+lämpimät tuulet, ja laskeutuvat alemma. Kun he kohtaavat pohja-tuulia,
+niin siitä syntyy ikäänkun riita lämpimien ja kylmien tuulien välillä;
+milloin ovat eteläiset ja milloin pohjoiset tuulet voiton puolella
+ja niin syntyy _muuttuvaisien tuulien_ ala kolmannen kymmenennen
+tasapiirin yläpuolella.
+
+Kuun vetovoiman tähden, vetäikse meren vesi sille kohdalle, jossa
+on kuuta likempänä. Meren vesi nousee siis niillä paikoilla, joihin
+kuu lähenee, mutta alenee niillä paikoilla, joista kuu pakenee. Tätä
+sanotaan _vesi-paoksi_ ja _vesi-nousuksi_, ja sitä kestää 6 hetkeä
+kerrassaan, siis kaksi kertaa vuorokaudessa.
+
+Mutta samoin kuin lämpimen vaikutuksesta syntyi tuulet, niinpä
+myös syntyy meren virratkin. Vesi kuivaa ja nousee höyrynä ilmaan
+käännepiirien välillä kuumassa ilma-alassa ja kylmää vettä virtaa
+napapiirien tienoilta siaan ja siis keveämpi virta juoksee päällempänä,
+jonkatähden taas kylmempi vesi juoksee vastapäin. Mutta samasta syystä
+kuin yllämainitut kaksi pää- eli valtatuulta saivat, maan liikunnon
+tähden itäisen suunnan, niin virtaavat myös kylmät napavirrat ei
+suoraan pohjoisesta, mutta koillisesta, ja lämpimet virrat ei suoraan
+etelästä, mutta lounaasta. Vaikka nyt tuulien ja meren virtojen
+perisyy ja suunta on tämä, niin on kuitenkin monta sivu vaikutusta,
+joista suuntakin muuttuu. Niinpä käypi meren vedellekin Meksikon
+lahdessa. Varistunut vesi virtaa siitä pitkin Amerikan itä-rantaa,
+mutta käännäiksen enemmin itään päin, ja jakaiksen kahteen pienempään
+virtaan. Yksi virtaama-haara menee Atsori-saarien sivutse Pyrenean
+niemen rannoille; mutta toinen enemmin pohjoiseen Norjan rannoille.
+Yhtälaisia meren virtoja on myös muissakin valtamerissä, vaikka niitä
+ei muualla ole niin tarkoin tutkittu kuin Atlantin meressä.
+
+
+
+Vuoria ja tasamaita.
+
+
+Euroopassa: _Ural-vuori_, menee pohjoisesta etelään Aasian rajalla.
+Tästä etelään ja länteen päin, Itämerestä ja Suomen lahdesta aina
+Mustaan ja Kaspin mereen asti, on maa yhtä ainoata tasamaata. —
+_Kölen eli Turjan_ selänne kulkee Skandinavian niemen halki, alkaen
+Nordkyn niemekkeestä etelään aina Rörås (lue Röroos) nimisen kaupungin
+tienoille. Siitä se käännäikse _Dovrefieldin_ nimellä, länteen, mutta
+mutkistnu kohta _Langefieldin_ nimellisenä lounaaseen ja loppuu mereen
+_Lindesnäs_-niemekkeellä. - Britannian saaren pohjois-puoli on kokonaan
+täytetty _Grampian_-vuorilla. Saman saaren etelä-puolella kulkee halki
+maan eli pohjoisesta etelään _Peak_ (lue _Piik_) vuoret.
+
+Edellä mainittu Itä-euroopan tasamaa ylettyy Itä- ja Pohja-merien
+etelä-rannoitse aina Atlantin mereen saakka. Sitä vastoin on taas
+melkein koko etelä-puoli Europaa hyvinkin vuorista. Suurimmat
+Etelä-euroopan vuorien selänteistä: _Alppi-tunturit_, poikki maan
+idästä länteen, täyttävät koko Sveitsin ja etelä-osan Saksan maata.
+Niiden korkein kukkula Italian rajalla, nimeltä _Montblank_ on yli
+14 tuhatta jalkaa korkea; _Karpatit_ ovat kaaren muotoiset jyrkät
+vuoret edellisistä koilliseen päin; _Pyrenean_ vuoristo, yhtänimisen
+niemen pohjois-laidalla Biskaija lahden ja Välimeren välillä, on
+Alppien jälkeen Euroopan korkein vuoriharju. Italian niemen halki
+kulkee ikääskuin jatkona Alppituntureista _Apenninit_, joiden korkein
+kukkula on _Gran-sasso_; mutta erillään pääselänteestä ovat tulivuoret
+_Vesuvius_, Italian länsi-rannalla, ja _Etna_, Sisilian saaren
+itä-rannalla. Vielä juoksee yksi selänne Adrian meren pohjois-päitse
+ja kääntyy Greekan niemelle päin, jossa jakautuu. Yksi selänne juoksee
+Mustaan mereen päin _Balkanin_ nimellä ja toinen selänne eroaa siitä
+nimellä _Pindus_ ja menee Greekan niemimaan halki etelään päin.
+
+Aasiassa: Itä-aasian keskimäinen osa on maapallon korkeimpia
+paikkakuntia. Leveät ja pitkät vuoriharjut rajottaavat tämän ylängön
+sekä etelässä, että pohjoisessa.
+
+Pohjoinen vuoriharju alkaa Irtish virran itä-puolelta ja kulkee
+_Altain_-nimellä itään aina Baikal-järvelle asti. Tämän järven
+itä-puolella, Amur- ja Lena-virtojen välillä on _Da-ur_-niminen
+jylhä vuorimaa. Tästä vuorimaasta eroaa _Jablonoi-krebet_-niminen
+vuoriharju menemään koilliseen, mutta nimitetään Ohotskan meren
+tienoilla _Stanovoi-krebet_, jolla nimellä se menee aina Beringin
+salmelle saakka. - Eteläinen vuoriharju on, läntisen India-niemen
+pohjois-puolella Sind ja Bramaputra virtojen välillä, nimeltään
+_Himalaija_. Sen harjun, ja koko maanpiirin, korkein kukkula on
+_Everest_ yli 27 tuhatta jalkaa (Kintshindjunga ja Davala-giri ovat
+vähä matalampia).
+
+Nämä ovat Itä-aasian keskimäisen ylängön rajavuoriselänteet. Mutta tämä
+ylänkö ei ole mikään tasanen kangas, vaan siinä on monta korkeaakin
+vuoriharjua. Himalaijan länsi-puolimaisesta kulmasta kulkee vahva
+vuori-selkämä itään _Kuen-lyenin_ ja _Kulkunin_ nimellä ja menee itään
+Jan-tse-kiang ja Hoang-ho-virtojen pohjois-puolitse. Vastapäätä,
+Kuen-lyenin länsi-kulmasta, eroaa vuoriharju, nimeltä _Belur-tag_
+(eli _Sumu-harju_) etelästä pohjoiseen. Päästyänsä 41 tasapiirin
+kohdalle, loppuu se tykkänään, mutta siihen siaan erkanee tästä itään
+suuri vuoriharju, joka, nimeltä _Thian-shan_ (eli _Taivaan harju_) ja
+_Mussart (eli Jää-harju)_ loppuu _Kobi- eli Shamo_-nimisessä erämaassa
+_Siolkki_-vuorien länsi-reunalla. - Belurtagista länteen päin on
+Turanien alanko Aralinjärveä ja Kaspin merta vasten, jossa veden pinta
+on alempana, kun vesi Valtameressä. Läntinen puoli Keski-aasiasta
+ei siis ole mikään ylänkö, kuin sen itäpuoli, mutta ihan vastoin,
+kentiesi, maanpiirin matalin alanko. Himalaijan ja Kuen-lyenin välinen
+maa on vanhan mantereen korkein ylänkö.
+
+Siitä, jossa Belur-tag, Kuen-lyen ja Himalaija yhtyvät, eroaa vielä
+neljäskin vuoriharju, nimeltä _Hindukhu_ (eli _Indian harju_) länteen
+päin; mutta se alenee alenemistaan, _Kuur_-nimellä, ja muuttuu viimein
+ylängöksi. Mutta Kaspin meren kaakkois-puolella kohottaiksen vuori
+jälleen ja piirittää, _Albors_-nimisenä, tämän meren etelärannan.
+Korkein kukkula on _Demavend_. - Kaspin merestä lounaaseen ja
+Mustasta merestä kaakkoseen on _Armenian_ jylhä vuorimaa, jonka
+korkeimmalle kukkulalle, nimeltä _Ararat_, Noakin arkin luullaan
+seisahtuneen. Tästä pohjoiseen päin alenee maa syväksi laksoksi,
+jossa _Kuur- ja Aras_-virrat juoksevat, mutta kohoaa sitten jälleen
+korkeaksi vuoriharjuksi, nimeltä _Kaukaso_, jonka korkein kukkula on
+_Elborus_. Ararat-kukkulasta etelään päin on _Sagrosh_-vuoret aina
+Persian lahdelle asti. Tämän vuoren itä-puolella, Persian lahden ja
+Kaspin meren välillä, on _Iranin_ lakeus eli tasanen ylänkö. Saman
+vuoriharjun länsi-puolella on syvä alanko eli notko, jossa _Tigris-
+ja Eufrat_-virrat juoksevat. Viimeksi mainitun virran länsi-puolella
+alkaa yläinen erämaa, joka etelässä jatkaantuu aina Arabia-niemen
+etelä-reunalle. Välimeren itä-ranteella ovat _Libanon_-vuoret, josta
+kuningas Salomo tuotti sedripuita tempeli-rakennukseen Jerusalmiin. —
+Niemekkeellä Arabia-lahden päässä kohottaiksen Siinain-vuori, jossa
+Jumala Moseksen kautta ilmoitti käskynsä Israelin kansalle.
+
+Hindukhu-harjusta etelään ovat _Suleimanin eli Salomonin_-vuoret.
+_Vindhyan_-vuoret, jotka menevät poikki maan, jakavat Etu-indian
+niemen kahteen osaan, joista pohjois-puolimainen osa, näiden ja
+Himalaija-harjun välillä, on matalaa viljavaa laksoa, jossa Ganges
+virta monine haaroineen juoksee, mutta eteläinen osa on jotenki korkea
+ylänkö, nimeltä _Dekan_. - Altai- ja Daur-vuorista pohjoiseen päin on
+melkeen koko maa, nimeltä _Sipirja_, yhtä ainoata Jäämereen vierättävää
+alankoa, joka Jäämeren rannoilla muuttuu pelkäksi puuttomaksi lumi- ja
+jää-lakeudeksi. Yhtä alankoa kestää vielä Irtish-virran toisellakin
+puolella, aina Aral-järvellen asti.
+
+Afrikassa: Luode-reunalla, lounaasta kaakkoseen, kulkee
+_Atlas_-niminen, monikertanen vuoriharju aina Bon-niemekkeelle
+asti. Matalampi rantavuori, nimeltä _Harudsh_, kiertää Sidra-lahden
+etelä-rannatse ja levenee saman lahden itä-puolella tasaseksi
+ylängöksi, nimeltä _Barka_. Atlas- ja Harudsh-vuorien etelä-puolella
+on Sahara-niminen erämaa, eli koko maanpiirin suurin ja auhtoin
+hiekka-lakeus. Sitä kestää melkein poikki koko Afrikan, ja se
+on joksikin tasasta, eikä sanota kohoavan paljon meren pintaa
+korkeammalle. - Saharan ja Guinea-lahden välillä ovat _Kong_-vuoret.
+Arabia-lahden eteläpohjukan länsi-puolella on _Abysinian_ jylhä
+vuorimaa, josta matalampia vuorihaaroja eroaa pohjoiseen päin molemmin
+puolin Niili-virtaa. Itäinen haara on nimeltään _Mokattam_ ja läntinen
+_Libyan_ harju. Niili-virran lakso, _Egypti_, on hyvin alaista ja
+Afrikan paras vilja-maa. Etelä-afrika on ainoasti rannoilta tunnettu.
+Sen sisusta luullaan korkeaksi ylängöksi. Vuorista tunnetaan siellä
+ainoasti _Mandarra_-vuoret Tsad-järven etelä-puolella ja Kuu-vuoret
+päivätasaajan alla, sekä _Lupata_-vuoret itä-reunalla.
+
+Amerikassa: Amerikan eteläisimmästä niemestä aina Jäämereen asti,
+kulkee aivan länsi-rannatse katkeamaton vuoriharju, joka onkin
+maanpirin pisin vuoriselkämä. Sitä sanotaan Etelä-amerikassa nimellä
+_Cordilleras de los Andes_ eli _Vaski-harju_, mutta Pohjois-amerikassa
+on _Andes_-nimi aivan tuntematon. Etelä-osa tätä selännettä menee
+suoraan pohjoiseen. Keskellä selännettä on _Aconcagua_-niminen
+tuli-tunturi, uuden mantereen korkein kukkula, joka on yli 22 tuhatta
+jalkaa. Pohjoinen osa, joka mutkistuu vähän länteen päin, ei olekaan
+yhtä ainoata harjua, mutta paikoin kahta ja toisin paikoin kolmea
+rinnatusten kulkevata harjua, joiden välissä on syviä vuorilaksoja,
+niinkun _Titicaca_- (lue Titikaaka) järven lakso. Sen ympäristössä on
+_Pic-Sahaman_ 20 tuhatta jalkaa korkea tunturi ja vähän matalammat
+_Illimani_ ja _Nevada de Sorata_. Päiväntasaajan alla on Qvito-
+(lue Kiito) niminen 9 tuhatta jalkaa korkea ylänkö, jossa kasvaa
+Keski-euroopan hedelmiä. Qviton länsi-reunalla on _Cotopaxin_ hirmunen
+tuli-tunturi, ja _Chimborazon_ (lue Tjimboratso) 20 tuhatta jalkaa
+korkea kukkula. Tästä vähän pohjoiseen jakaantuu Cordilleras-vuori
+kolmeen harjuun. Itä-puolimainen, nimeltä _Suma Paz_, lähtee koilliseen
+Marakaybo-lahden itä-rannatse Orinoko-virran suulle; Keskimäinen,
+_Quin-diu_, menee Kauka- ja Magdalena-virtojen välillä, ja läntinen
+_Choco_-niminen haara kulkee pitkin länsirantaa Panama-taipaleesen.
+
+Pohjois-amerikassa, Meksiko-lahden ja Tyyneen meren välillä
+levittäiksen Cordilleri-vuoret _Meksikon_ ylängöksi, ja erottaiksen
+21 tasapiirin kohdalla kolmeen harjuun. Itä-puolimainen näistä,
+nimeltä _Cordilleras de Texas_, menee koilliseen Mississippi- ja
+Missuri-virtojen yhdyntä paikoille; läntinen, _Cordilleras de Sonora_,
+menee enemmin luoteesen ja loppuu Kalifornian lahden pohjois-päässä;
+mutta keskimäinen eli emäharju, nimeltä _Sierra Madre_, rientää
+suoraan pohjoiseen, tekee summattoman suuren 11 tuhatta jalkaa korkean
+pesävuoren, _Sierra Verde_, josta Pohjois-amerikan suurimmat virrat
+saavat alkunsa, ja menee siitä nimellä _Chippevai_, (lue _Tjippevee_),
+eli _Louhi_-harju Jäämeren rannoille. Kalifornian niemen eteläisimmästä
+päästä alkaa toinen vuoriharju, joka pohjoisessa särkeentyy
+lukemattomiin niemekkeihin ja saariin, ja loppuu Alashka-niemellä.
+Sille on annettu nimeksi Pohjois-amerikan _Ranta-alpit_, ja sen
+korkein kukkula, joka myös on Pohjois-amerikan korkein vuori on
+_Sant Elias_. Muuten on Pohjois-amerikan pohjois-puoli melkeen yhtä
+ainoata tasamaata Tyyneen meren ranta-kivistä alkaen aina Labradorin
+kivikkoiselle niemelle asti. Tällä lakeudella on paljo suuria järviä
+ja virtoja, josta syystä sitä on useasti verrattuna Suomen maahan.
+Pohjois-amerikan itä-puolella kulkee lounaasta kaakkoseen, vähän
+matkaa Altantin merestä, kahdet vuoriharjut, joista rannimmaista
+sanotaan _Sini-vuoriksi_ ja sisimmäistä ja korkeampata _Alleghany_-
+eli _Apalachi_-vuoriksi. Näiden ja läntisien rantavuorien välillä on
+maanpiirin suurin ja laajin tasamaa eli lakeus. Savanneiksi sanotaan
+täällä olevia puuttomia, mutta heinäkkäitä niittymaita, niinkin
+avaroita, ettei silmä kannata toiselta laidalta toisellen.
+
+Etelä-amerikaa silmäillessä, löydetään Karaibia-meren etelä- ja
+Marakaibo-lahden länsi-puolella, hyvinkin korkea lumitunturi, nimeltä
+_Sierra Nevada de Santa Marta_. Orinoko-virran itä- ja etelä-puolella
+on leveä _Guyanan vuorimaa_, jota kestää aina Amatson virran suuhun
+asti. Tämän vuorimaan länsi- ja etelä-puolella on avara alanko,
+jossa Orinoko ja Amatson virrat juoksevat. Amatson virran ympärillä
+on maailman avarimmat ja synkimmät metsät, eli kun täällä sanotaan
+_Selvas_. Orinoko-virran alangossa on taas äärettömiä, miehen korkuista
+heinää kasvavia niittuja, _Llanos_ (lue _Ljanos_), joita myös
+sanotaan _Ruoho-meriksi_ (mar de yerbas). Etelä-amerikan itä-puoli,
+Amatson-virran etelä-puolella, on taas _Brasilian ylänkö_, jossa on
+monta vuoriharjuakin, jotka kaikki kulkevat pohjoisesta etelään.
+Etelään päin alenee tämä ylänkö ja muuttuu vähitellen tasamaiksi,
+jota kestää aina Magelhaenin salmelle saakka. Plata-virran rannoilla
+sanotaan näitä tasamaita nimellä _Pampas_, jotka ovat yhtäläisiä,
+kun Pohjois-amerikan Savannit, nimittäin puuttomia ja pensaattomia
+niittymaita; jossa kesyttömiä hevos- ja lehmä-laumoja kulkee omassa
+vallassaan. Mutta etelämpänä Patagoniassa muuttuu tämä auhtoksi kivi-
+ja sora-peräiseksi maaksi, joka ei kasva paljon muuta ruohoa, kun
+ohdakkeita ja orjantappuroita.
+
+
+
+Järviä ja sisämeriä.
+
+
+Maan syvennöksiin seisattunutta ja seisovaa vettä kutsutaan järviksi,
+ja suurimpia sisämeriksi. Järven ja sisämerien vesi on tavallisesti
+mautonta, mutta meren vesi suolaista; mutta on niitäkin järviä, joissa
+vesi on suolasta. Suurimmat järvet Euroopassa ovat: Aalto-järvi
+eli Laatokka, Suomen lahden koillis-puolella; Ääninen eli Onega,
+edellisestä koilliseen; Saimaa eli Saimen ja Päijänne, molemmat Suomen
+lahdesta pohjoiseen; Ilmen (eli Ilmajärvi), Aaltojärven etelä-puolella;
+Peippoisjärvi, Suomen lahdesta etelään; Venern (lue Veenern), Vettern
+ja Mälarn, Ruotsissa; Balaton, ja Fertö-tava (eli saksaksi Platten ja
+Neusiedler järvet) molemmat Ungarissa Karpati vuorien etelä-puolella;
+Genevan, Neuchâtel ja Bodenjärvi, Lago Maggiore (lue Madjore), Lago di
+Como, Lago di Iseo ja Lago di Garda, kaikki Alppi-vuorien rinteillä.
+Aasiassa: Kaspin meri, kaikkein suurin järvi eli oikea sisämeri
+maanpiirillä; Aral, edellisestä itään; vielä etempänä ovat Balkash
+ja Baikal, Altai vuorien etelä-rinteillä; Lop-noor ja Kuku-noor,
+Keski-aasian ylängöllä; Van ja Urmia, Armenian vuorimaassa; ja Kuollut
+meri, lähellä Välimeren itä-rantaa. Afrikassa: Tsad, Keski-afrikassa;
+Tsana, Abysinian vuorimaassa; Njassi ja Ngami Etelä-afrikassa.
+Pohjois-amerikassa: Karhu-järvi, Orja-järvi, Atapescow ja Vinipeg ovat
+kaikki perätysten Jäämerestä etelään; Ylä-järvi, Kaspin meren jälkeen
+suurin maanpiirillä, Michigan (lue Mitjigan), Huron (lue Juuron), Erie
+(lue Iiri) ja Ontario, jotka kaikki viis ovat toisiinsa yhdistettynä
+kapeemmilla tahi leveemmillä salmilla; Nikaragua, kaidalla maapalstolla
+Panama-taipaleen pohjois-puolella. Etelä-amerikassa: Marakaibo,
+pohjois-reunalla; Titicaca, länsi-reunalla, ja Guanacache, etelässä.
+
+
+
+Virtoja.
+
+
+Euroopassa: Jäämereen laskee vetensä _Petshora_, tuleva Urali-vuorista.
+Valkeaan mereen menee _Viena_ (eli _Dvina_) ja _Onega_.
+
+Itämereen ja sen lahtiin juoksevat: Turjanharjulta tulevat _Tornion,
+Kainuun, Luulajan, Piitimen, Skelleften, Uumon, Ongermanin, Indalin,
+Niurundan_ ja _Daalin_ joet; Vetterin järvestä _Motala_; Suomen
+puolella _Kemin, Oulun, Kyrön_ ja _Kokemäen_ joet, jotka kaikki
+menevät Kainuun eli Pohjan lahteen. Suomen lahteen virtaavat: _Kymi_
+Päijänteestä, _Neva_ Aaltojärvestä ja _Narova_ Peippoisjärvestä.
+Aaltojärveen laskevat: _Vuoksi_ Saimaasta, _Syväri_ (venäjäksi _Svir_)
+Aänijärvestä, ja _Velhojoki_ (venäjäksi _Volkov_) Ilmenestä. Riigan
+lahteen juoksee _Väinö-joki_, (saksaksi _Dyyna_) Volkonski metsästä.
+
+Itämeren etelä-rannalta juoksevat: _Niemen_ (lue _Niimen_, venäjäksi
+_Nieman_), jota rannempana sanotaan _Memeliksi, Pregel, Vislaa_ (eli
+saksaksi _Weichsel_), joka alkaa Karpati- ja Sudeeti-vuorien vaiheelta,
+ja _Oder_, joka saapi alkunsa Sudeeti-vuorista.
+
+Pohjan mereen juoksevat: _Elbe_, joka alkaa Riesengebirgestä
+(Jättiläis-vuorista), ja saapi oikealta puolelta lisä-joet _Havel_
+ja _Spree_ ja vasemmalta puolelta _Moldau_ ja _Saale_; _Weser_
+Tyyringen metsäharjusta _Ems_ ja _Rein_ (eli _Reen_) joka alkaa _S:t
+Gotthard_-kukkulalta, juoksee Boden-järven läpi, saapi sieltä tultuansa
+_Aar_-nimisen lisä-virran, käännäiksen Baselin kaupungin kohdalla
+pohjoiseen, saapi oikealta puolelta _Neckar_- ja _Main_-nimiset
+lisä-virrat ja vasemmalta puolelta _Mosel_ ja _Maas_. Vähän matkaa
+tämän suusta laskeiksen myös _Schelde_, tuleva Ardennai-vuorista. —
+Kattegatin lahteen juoksee _Götha_, Venerin järvestä, ja _Glommen_
+Dowre-vuorista. Englannissa juoksee Pohjan mereen _Themes_ (lue
+_Teems_). Ja Kanavaan heittäiksen _Seine_ (lue _Seen_) virta _Côte
+d'or_-vuorista.
+
+Atlantin mereen menevät: _Loire_, (lue _Loar_), Sevenni-vuorista,
+_Garonne_ (lue _Garon_), Pyrenean vuorista, joka saapi oikealta
+puolelta suuren lisä-virran _Dordogne_ (lue _Dordonj_), ja nimitetään
+siitä lähtien _Gironde_ (lue _Shirongd_); Pyrenean niemellä
+juoksee niinikään Atlantin mereen: _Minho_ (lue _Minjo_), _Duero_
+(lue _Duuro_), _Taijo_ eli _Teijo, Guadiana_ (eli _Vadi-ana_) ja
+_Guadalqvivir_ (eli _Vad-al-Kiibir_).
+
+Välimereen menevät: _Ebro_, Pyrenean niemellä; _Rhône_ (lue _Roon_),
+Alppi-vuorista; _Arno_ ja _Tiiber_, Italian niemellä Apennini-vuorista.
+Adrian mereen menevät: _Adige_ (saksaksi _Etsh_) ja _Po_ (lue _Puu_),
+_Monte Viso_-kukkulalta Alppi-vuorista.
+
+Mustaan mereen menee: _Donau_ (eli _Donava_), joka alkaa
+_Schwarzwald'ista_ (eli Mustasta metsästä), saapi oikealta puolelta
+lisä-virrat _Lech, Isar, Inn, Drau_ eli _Drave, Sau_ ja vasemmalta
+puolelta _Theiss, Aluta, Sereth_ ja _Pruth_. Mustaan mereen myös
+_Dniester, Bog_ ja _Dnieper_, ja Asovan mereen _Don_.
+
+Kaspin mereen menee Euroopan suurin virta _Volga_ (latinaksi _Rha_),
+joka alkaa Volkonski metsästä, saapi oikealta puolelta suuren
+lisä-virran _Okâ_ ja vasemmalta puolelta vielä sauremman _Kâma_.
+Kaspin mereen juoksevat vielä: _Ural_ yhtänimisistä vuorista, _Kumâ_
+ja _Terek_ Kaukasus vuorista. Aasian ja Euroopan rajaa kuletetaan
+tavallisesti Kumâ-jokea myöten ja sittemmin pitkin _Kubanj_-jokea,
+joka, alkaen Kaukasus-vuorista menee Mustaan mereen.
+
+Aasiassa: Jäämereen juoksevat: Kaksois-virrat _Ob_ eli _Konda_
+ja _Irtish_, molemmat Altai-vuorista; Jenisei eli Kemi, jolla
+Altai-vuorista tulevalla virralla on kaksi suurta sisä-virtaa,
+nimittäin _Ankara_ eli _Ylä-tunguska_, joka juoksee Baikal-järven
+lävitse, ja _Ala-tunguska: Lêna_, joka alkaa Baikal-järven
+pohjois-puolella, ja ottaa oikealta puolelta Stanovoi-vuorista tulevan
+_Aldan_-nimisen sisä-virran.
+
+Ohotskan mereen menee _Amur_, jonka alku-purot, _Onon_ ja _Argun_,
+lähtevät Altai-vuorien itäisemmästä kulmasta.
+
+Keltamereen juoksevat _Hoang-ho_ (eli _Kelta-virta_) ja _Jan-tse-kiang_
+(eli _Sini-virta_), jotka ovat pisimmät virrat Aasiassa, ja alkavat
+Kuenlyen vuorien itäisimmästä osasta.
+
+Itäisestä Indian niemestä menee: _May-ka-ung_ Kiinan mereen,
+_Menam_ Siamin lahteen, _Saluen_ ja _Iravaddi_ Bengalin lahteen.
+Himalaija-vuorista juoksee niinikään Bengalin lahteen Brâmaputra ja
+Ganges, jotka rannempana ovat ihan suutasuksin. Araabian mereen juoksee
+Himalaija- ja Kuenlyen-vuorien vaiheelta Sind eli Indus, joka saapi
+idässä viisi haarasen lisä-virran Pendsnud eli Viis-virta.
+
+Persian lahteen lankeevat: _Degr_ eli _Tigris_ ja _Frat_ eli _Eufrat_,
+jotka saavat alkunsa Armenian vuori-maasta. Molempien yhteen
+jouduttua, saapi virta nimen _Schat-el-arabi_. Pienen Aasian emävirta
+on _Kisil-irmak_ (muinoin _Halys_), juokseva Taurus-vuorista Mustaan
+mereen. Belur-vuoren länsi-rinteiltä lähtevät _Siir_ ja _Aamu_ menemään
+Aral-järveen. Kaspin mereen tulevat Kaukasus-vuorista alkava _Kuur_ ja
+Ararat-kukkulalta lähtevä _Aras_.
+
+Afrikassa: Koillis-kulmassa on tämän maa-osan suurin virta _Niili_,
+joka syntyy kahdesta alku-purosta. Länsipuolimainen niistä, nimellä
+_Bar-el-abiad_ (eli _Valko-niili_), alkaa luultavasti Kuu-vuorista;
+itä-puolimainen, nimellä _Bar-el-azrek_ (eli _Sini-niili_), tulee
+Abysinin vuorimaasta. Atlantin mereen menevät _Senegal_ ja _Gambia_,
+molemmat Kong-vuorista. Guinean lahteen juoksee myös Kong-vuorista
+_Djoliba_ eli _Niiger_. Etelämpänä samalla rannalla ovat: _Kongo_ eli
+_Zaire_ ja _Coanza_ ja vielä etelämpänä _Oranje_- eli _Gariep_-virta.
+Indian mereen juoksee Ylä-afrikasta monta virtaa, mutta niitä ei vielä
+tarkoin tunneta. Jokseen tunnetuita ovat _Limpopo_ ja _Sambeze_, jotka
+molemmat juoksevat Motsambik-kanavaan.
+
+Pohjois-amerikassa: Chippevay-vuorista lähtee _Atapescow_-virta
+yhtänimiseen järveen, josta vesi _Orja_-virtaa myöten juoksee
+Orja-järveen ja siitä _Mackenzie_-virtaa myöten Jäämereen.
+Chippevay-vuorista tulee _Saskatshawa_-virta Vinipeg-järveen, josta
+_Nelson_-virta menee Hudsonin lahteen. Nelson-virrasta vähän pohjoiseen
+juoksee samaan lahteen _Missinippi_ eli _Churchil_ (lue _Tjörtjil_).
+Viidestä suuresta järvestä juoksee _Lorentso_-virta Lorentso- lahteen.
+Erie ja Ontario järvien välillä on maailman kuuluisin puote _Niagara_.
+Pohjois-amerikan suurin virta Missisippi, joka alkaa _Maaharjan_
+etelä-puolelta, saapi oikealta kädeltä Sierraverde-vuorista tulevan
+_Missuri_-haaran, ja sittemmin vasemmalta puolelta _Ohio_ (lue
+_Oheijo_), ja taas oikealta kädeltä _Arkansas_- ja _Puna_-virran,
+ja loppuu viimen Meksikon lahteen. Yhteen lahteen juoksee myöskin
+_Rio-del-norte_ Sierraverde-vuorista. Pohjois-amerikan länsi-rannalla
+ovat _Kolumbia_ eli _Oregan_ ja _Kolorado_ merkillisimmät.
+
+Etelä-amerikassa: Luode-kulmalla menevät _Magdalena_- ja _Cauca_-virrat
+suutasuksin Karaibia-mereen. Atlantin mereen juoksee _Orinoko_
+ruoho-niittyjen keskitse. Maapiirin suurin virta _Amatson_ eli
+_Marannon_ (lue _Maranjon_), alkaa liki länteistä rantaa _Lauricocha_
+(lue _Laurikotsha_) järvestä, saapi oikealta kädeltä _Ukajale, Madeira_
+ja _Topajos_ paitsi muita pienempiä ja vasemmalta puolelta _Rio-Negro_.
+Marannonin suuhun tulee myös etelästä _Tokantin_. Vähän etelämpänä
+juoksee _San Francesco_. Vielä etelämpänä on _La Plata_. Emä-virta
+on _Parana_, joka oikealta puolella saapi lisä-virran _Paraguay_, ja
+vasemmalta _Uraguay_, jonka jälkeen virta saapi nimen La Plata.
+
+Uuden Hollannin virrat ovat pienempiä, kun muiden maa-osien, ja
+pääliseksi vielä vähän tunnettuja.
+
+
+
+Ihminen.
+
+
+Ihmiskunnan alku oli kyllä yhdestä ainoasta parikunnasta; mutta
+erinäiset ilmalaadut, moninaiset elatuskeinot ja muut semmoiset syyt
+ovat ajanpitkään jakaneet sen moniin eri-lajeihin, jotka erottaiksen
+toisistaan ruumiin rakennuksessa, ihon karvassa, mielen laadussa,
+kielessä ja tavoissa.
+
+Näitä ihmislajia luetaan tavallisesti viideksi: 1. _Kaukaasialaiset_,
+jotka ovat valkea-ihosia ja kookkaita. Tätä lajia ovat enin osa
+Lounas-aasian asukkaita, asujamet Afrikan pohjois-rannalla ja suurin
+osa Euroopalaisia. 2. _Mongolilaiset_, jotka ovat vehnän karvasia ja
+ruumiikkaita. Tätä lajia ovat Koillis-aasian asukkaat ja kaikki kylmän
+ilma-alan ihmiset. 3. _Malayilaiset_, joita tavataan Malakka-niemellä
+ja Australian saaristoissa, ovat iholtaan tumman ruskeita. 4.
+_Neekeriläiset_, jotka ovat aivan musta-ihosia ihmisiä Afrikan
+maa-osassa. 5. Amerikalaisia, jotka iholtaan ovat vasken-karvasia ja
+varreltaan kehnoja. Tätä kantaa ovat Amerikan alku-asukkaat.
+
+_Kansaksi_ sanotaan ihmisiä, joiden yhtäheimoisuus näkyy kielen
+ja tapain yhtäläisyydessä. Kansoja ovat esimerkiksi Suomalaiset,
+Venäläiset ja Ruotsalaiset, asukoot vaikka missä valtakunnassa.
+
+Elatuskeinojen suhteen erottaiksen ihmiset kolmeen osaan: 1.
+_Kesyttömät_ eli _Villikansat_, jotka elelevät, jokainen erikseen,
+metsästämisellä, kalastamisella taikka metsän hedelmillä, ja vhdistyvät
+ainoasti vihollisia vasten. 2. _Karjankaitsiat_ eli _Paimenkansat_,
+joilla ei ole pysyväistä asunsijaa, vaan muuttavat majoineen ja
+karjalaumoineen paikasta paikkaan, etsistellen parempia laitumia. 3.
+_Sivistyneet_ kansat, jotka viljelevät maata, käyvät kauppaa, tekevät
+askareita, harjottavat tiedollisuutta valtakunnissa.
+
+_Valtakunnaksi_ sanotaan pienempää taikka suurempaa ihmisten yhteyttä,
+joilla on yhtäläiset lait ja omantakeinen hallitus. Mutta hallitusmuoto
+on monenlainen. Yksivallaksi sanotaan semmoista valtakuntaa, jossa
+yksi on hallituksen pää-miehenä. Tämmöisiä päämiehiä nimitetään millon
+Keisariksi, millon Kuninkaaksi, Ruhtinaksi, Herttuaksi ja Paaviksi
+j.n.e. Mutta yksivallat saattavat hallituksen suhteen olla joko
+_rajattomia_ taikka _rajotettuja_. Edellisissä on päällikön tahto
+valtakunnan lakina, jollon häntä myös sanotaan _Itsevaltaiseksi_;
+jälkimäisissä taas on päällikön tahto rajotettu perustuslaeilla, jotka
+määräävät kansan ja hallitsian välin. Kansan edusmiehet kokoontuvat
+tämmöisessä valtakunnassa päällikön kanssa lakia laatimaan, ja heillä
+on myös valta tutkia hallituksen tilin tekoa. _Tasavallaksi_ sanotaan
+taas semmoista valtakuntaa, jossa kansalla on ylimmäinen valta, vaan
+jossa hallitus on annettu yhdelle eli useammalle määrä-ajaksi valitulle
+_Esimiehelle_, joka on velvoitettu vuotuiseen tilin tekoon. Niin ovat
+esimerkiksi Euroopassa: Venäjän ja Turkin valtakunnat rajattomia
+yksivaltoja; England, Suomi ja Ruotsi rajotettuja yksivaltoja; Shveitsi
+ja muutamia muita pienempiä valtakuntia ovat tasavaltoja.
+
+Uskonnon suhteen sanotaan ihmisiä _pakanoiksi_, jos heillä on
+epäjumaloita, se on jos palvelevat kuvia, eläimiä taikka luonnon
+voimia. Mutta yhtä ja totista Jumalaa palvelevaiset ihmiset ovat joko
+_Israelilaisia, Kristityitä_ taikka _Mahomettiläisiä_.
+
+Näistä on Israelilaisien uskonto vanhin. Sen uskon opin ilmoitti
+Jumala, _Mooseksen_ kautta, Israelin kansalle, jonka tähden sitä
+myös sanotaan _Mooseksen_ uskonnoksi. Se perustaikse pyhän raamatun
+ensimäiseen osaan eli _Vanhaan Testamenttiin_, joka myöskin on
+alkuperäisesti kirjoitettu Hebrean kielellä.
+
+Tästä sai Ristin taikka Kristin uskonto alkunsa Wapahtajamme, Jesuksen
+Kristuksen, säätämällä. Se perustaikse sekä Vanhaan että paraiten
+_Uuteen Testamenttiin_, ja on yksi ja yleinen uskonto; vaikka se,
+aikojen kuluessa, on jakaunut moneen eri kirkko- (eli tunnustus-)
+kuntaan. Maailman suurimmat piispat, Roomin _paavi_ ja Konstantinopolin
+_patriarkka_, riitaantuivat keskenään, jota riitaa hierottiin pari
+sataa vuotta siksi, kun molemmat, vuonna 1054, tykkänään erosivat
+toisistaan. Niin syntyi _Greekan katoliikiläinen_ ja _Roomin
+katoliikiläinen_ uskokunta. Greekan katoliikin uskontoa tunnustavat
+Greekalaiset ja Venäläiset. Roomin katoliikin, eli kuin tavallisesti
+sanotaan paavin uskontoa, koska se pitää paavia Kristuksen siallisena
+maalla, tunnusti muinoin koko Länsi-euroopa. Mutta, viidennentoista
+sataluvun alussa, erosi siitä _evankeliumillinen Luteruksen puhdistama
+uskonto_ ja samoten _evankeliumillinen Kalviinin puhdistama uskonto._
+
+Mahometin uskonnon perusti Arabialainen kauppias nimeltä _Mahometi_,
+noin 622 vuotta jälkeen Kristuksen syntymää. Tämä Kristuksen, Mooseksen
+ja pakanoidenkin opetuksesta yhteen sovitettu uskonto perustaikse
+_Koran_-nimiseen, Arabian kielellä kirjoitettuun, kirjaan, joka on
+heidän raamattunansa.
+
+
+
+
+Suomen maa.
+
+
+
+I. Maa.
+
+
+1. Nimi ja ala. Euroopan pohjoisimmalla puolella, 60 ja 70 tasapiirin
+ja 38 ja 50 puolipäivä-piirin välillä on _Suomi_ eli _Suomen maa_.
+Meren vesi on kahden puolen maata nimittäin: _Pohjanlahti_ lännessä ja
+_Suomenlahti_ etelässä. Tästä niemen tapaisesta muodostaan sanotaan
+sitä myös _Suomen niemeksi_. Muukalaiset ovat antaneet sille nimen
+_Finland_ (vanhan aikuisesta islannilaisesta sanasta _Fen_, suomeksi
+suo. _Fen-land_), merkitsevä yhtä, kuin oma antama nimiki _Suomiehen
+maa_, josta sitten lienee saatuna Suomen maa.
+
+2. _Rajat_. Suomen rajaan koskevat, paitsi jo mainitut Pohjan ja Suomen
+lahdet: itä-puolella _Venäjän_ valtakunta, pohjois-kulmalla _Norja_ ja
+länsi-suunnalla _Ruotsi_.
+
+Venäjän rajana on ensin _Raja-joki_, jonka lähteiltä raja seuraa
+pienempien ojien varsia _Aalto-järven_ eli _Laadogan_ rannalle.
+Tämän järven halki kulettua _Viina-joen_ suulle, jossa parin syltä
+veden pinnasta kohotaiva _Variskivi_ on raja-pyykkinä, lähtee raja
+juoksemaan monessa mutkassa pohjoiseen _Kolmikunnan raja-kivelle_,
+jossa Wiipurin ja Kuopion läänit Suomen puolella ja Aunuksen
+kuvernementti Venäjän puolella kohtaavat toinen toisensa. Siitä se
+käännäikse luoteesen ja juoksee suoraan _Jonkerin kivellen_; tästä taas
+pohjoiseen _Maanselän harjua_ myöten _Kaarto-järvelle_. Mutta Maanselkä
+mutkistaikse luoteesen ja raja kulkee yhä pohjoiseen tunturi tunturilta
+_Enarin-järven_ itä-rannatse _Teno-joelle_ asti.
+
+Norjan Lappia vasten kulkee raja ensin lounaasen pitkin Teno-joen
+vartta aina _Lapin tuntureille_, josta käännäikse Lapin tunturia myöten
+kulkemaan luoteesen siksi, kuin se pääsee pienen _Jedekin-järven_
+rannalle.
+
+Tästä kääntyy raja etelään juoksemaan Ruotsin rajaa vasten: ensin
+_Könkämä_- ja _Muonio-joen_, sitten _Tornio-virran_ vartta myöten, aina
+sen suulle asti, Pohjan lahden pohjimmaiseen pohjaan.
+
+3. _Mantereen muoto_. Tuli ja vesi ovat ne kaksi ankaraa luonnon
+voimaa, jotka ovat antaneet Suomenkin mantereelle nykyisen muotonsa.
+Alimaiset kovat kivet ovat tulen synnyttämiä; mutta päällimäiset
+pehmeemmät kalkki- ja liitu-kerrat ovat taas veden valamia. Siitä
+nähden, että maanharjut ja vesi-urat etenkin ylämaassa, kulkevat
+rinnatusten, enimmäksen koillisesta lounaaseen, ja siitä, että vuorien
+ja mäkien koillis-kulma on jyrkkä ja tasainen, ikäänkuin veden
+silittämä, mutta toisahalta taas hyvin luisu, ovat luonnon tutkiat
+päättäneet, ankaran meri-virran ennen vanhaan kulkeneen halki maan
+koillisesta lounaaseen, eli toisin sanoin: Suomen maa on ennen vanhaan
+ollunna meren pohjana, ja vähitellen kohotainna veden pinnasta. Tätä
+todistaa sekin, että Suomen manner vielä nytkin kohotaikse korkiammalle
+meren pintaa. Niin on esimerkiksi muinaiset hyvät laivavalkamat nyt
+niin mataloineet, ettei niihin enään pääsekään. Missä vanhat miehet
+nuoruudessaan soutivat veneillä, käyvät heidän poikansa kuivin jaloin.
+Oppineiden luvun jälkeen kohoaa Suomen ranta Torniosta Waasaan asti 4 ½
+jalkaa sadassa vuodessa. Mutta etelässä Suomen lahden ranta ainoasti 2
+jalkaa vuosisadassa.
+
+Suomen manner on yleesen epätasaista maata: se on täynnä mäkiä, metsiä,
+jokia ja järviä, jotka viimeksi mainitut peittävät paremmin, kuin
+kahdeksanneksen koko mantereesta. Suomen vuorissa on, kuin pohjan
+mailla yleesen, harmaa ja ruskea kivi valtaava. Mutta harmaa ja ruskea
+kivi ei olekaan yhtä ainoata kivi-lajia, vaan siinä on sekasin kolmea
+eri kivettä. Näitä kiveitä sanotaan _paasiksi_, ruotsiksi _fältspat_,
+jos murtaissa lohkeavat sileä-pintaisiksi ja ovat näöltään valkeita,
+harmaita tahi punertavia; mutta _ukon-piiksi_ eli _ukon-kiveksi_,
+ruotsiksi _quartz_, jos murtuvat epätasaisiin muruihin eli rakeisiin.
+Ukon-pii on, kuin edellinenki, valkea tai harmaa. Mutta näiden seassa
+löytyy muita vielä pienempiä muruja, jotka, kynnellä eli veitsen
+kärellä painaessa, helposti murenevat hienoiksi levyiksi, ja ovat
+näöltään mustempia kuin edelliset. Niitä sanotaan _katin-kullaksi_,
+ruotsiksi _glimmer_.
+
+Maan laaduista ovat tavallisimmat savi, hiekka ja hiekka-multa,
+suon-muta, rusko-multa ja sora. Näistä on savi, hiekka-multa,
+suon-muta, ja rusko-multa soveljaita viljellä; mutta hiekka ja
+kivisekainen sora saadaan vaivoin kunnon viljaa kantamaan.
+
+4. _Maan harjuja_. Halki maan pohjoisesta etelään kulkee muutama
+monimutkainen, millon leveämpi millon kapeampi, paikoin vuorinen,
+hiekkanen ja sorainen, paikoin taas mutainen, soinen ja metsänen
+maanharju, nimeltä _Maa-selkä_. Se erkanee Ruijan tunturista Norjan
+maalta ja kulkee kaakkoiseen ensin Suomen rajana Norjaa vasten
+ja sitten Suomen rajain sisällä _Peltovuoma_-tunturille. Siitä
+itään päin muuttuu vuori yläiseksi tasamaaksi, vaan kohotaikse
+kohta taas harjanneeksi ja kulkee nimellä _Suola-selkä_ itään aina
+_Talkkuna-oivi_ kukkulalle, Venäjän rajalle. Talkkuna-oivilta menee
+Maanselkä etelään Suomen piirin sisällä siksi, kuin se uudestaan
+tapaa Venäjän rajan _Kuusamon_ 8 sadan jalan korkeilla kankailla.
+Kuusamossa jakaikse vuori kahteen haaraan, joista toinen nimellä
+_Kainuun selänne_, kulkee lounaaseen Oulu-järven rannoille; Mutta
+toinen Venäjän rajaa myöten etelään Jonkerikivelle asti. Mutta nyt se
+muuttaa monimutkaisen juoksunsa ensin länteen ja sitten lounaaseen,
+erottain, _Suomen selänteen_ nimellisenä, Pohjanmaan, Karjalasta,
+Savosta, Hämeestä ja Satakunnasta, ja loppuu _Pohjan_ ja _Hämeen_
+5 ja 6 sadan jalan korkuisilla kankailla Ikalisten ja Hämeenkyrön
+pitäjissä. Mutta ilmestyy jälleen Satakunnan vesien etelä-puolella,
+ja kulkee, _Salpaus-selänteen_ nimisenä, kaakkoiseen ja sitten itään
+Päijänteen ja Saimaan vesien etelä-rannatse. Tämä pohjan perillä
+tuhatta jalkaa korkea, vaan Kuusamosta Oulu-järven tienoille 8 sataa,
+ja sen ala-puolla 6 ja 7 sataa, mutta sitten 5 ja 4 sataa jalkaa korkea
+vuoriharju eroittaa Suomen alaiset ranta-maat ylä-maista, joilla
+järvenkin vesi on 2 ja 3 sataa jalkaa korkeampi, kuin meren pinta.
+
+Suomen selänteestä erkanee etelään, paitsi monta pienempätä,
+seuraavaiset kolme suurempaa sivu-haaraa, nimittäin: _Karjalan
+selänne_, joka eroittaen Savon ja Karjalan vedet toisistansa, kulkee
+Nurmeksen, Juuvan ja Kaavin pitäjien kautta etelään Orivirralle,
+ja sen etelä-puolla Kerimäelle. Toinen eli _Savon selänne_, joka
+Iisalmen pitäjästä kulkee Pielaveden, Kuopion, Pieksämäen, Mikkelin,
+Savitaipaleen ja Lemin pitäjien läpi Lappeenrannan tienoille, jossa se
+yhtyy Salpaus-selänteesen. Se eroittaa Savon vedet Hämeen vesistä, ja
+nimitetään sentähden _Veden jakajaksi_. Kolmas sivuhaara on _Hämeen
+selänne_, joka alkaen Soinin kappelista kulkee ensin pitkin Satakunnan
+ja Hämeen välillä olevaa rajaa, ja sitten Hämeen lävitse Uudenmaan
+rajalle, jossa se niinikään yhtyy Salpaus-selänteesen.
+
+Yksinäisistä vuoren kukkuloista ovat vielä mainittavat _Aavasaksa_,
+Tornion virran varrella, jolle kukkulalle muukalaiset matkustavat
+kesällä sydänyön aurinkoa ihailemaan. _Pelt-oivi_ Suomen korkein
+kukkula, Teno-joen ja Enari-järven vaiheilla, on arviolta 2,200 jalkaa
+korkea. _Ounas-tunturi_ 1,124 jalkaa ja _Jeris-tuntari_ 1,200 jalkaa
+korkea.
+
+Summatoin joukko kivi-karia, luotoja ja saaria löytyy Suomen
+etelä-rannoilla. Näitä sanotaan saaristoiksi, joista on kuuluisin
+_Ahven-maa_ eli _Oolannin-saaristo_, Pohjan lahden suussa. Muuten on
+Pohjan lahdessa saaristoa ainoasti harvassa siellä ja täällä, paitsi
+kuitenkin sen kapeimmalla paikalla, jota sanotaan _Merenkurkuksi_ ja
+ruotsiksi _Qvarken_.
+
+5. _Vesistöt_. Vettä on Suomen maassa erinomattain paljon, sillä
+melkeen kahdeksas osa Suomen aluuta on veden vallassa. Suomen emävuoren
+ja sen haarojen suhteen jakauntuu Suomen vedet viiteen eri vesikuntaan,
+joista yksi laskeiksen Jäämereen, kaksi Pohjan lahteen, yksi Suomen
+lahteen ja yksi Aaltojärveen.
+
+_Pohjois-Lapin vesikunta_, Lapintunturien pohjois-puolella. Suurin
+järvi tässä vesikunnassa on _Inari-järvi_, johon tulee _Ivalo-joki_
+etelästä ja _Vasko-joki_ lounaasta, joka vesi sitten Inari-järvestä
+laskeiksen _Paats-joen_ kautta Suomen rajan yli _Varanko-lahteen_
+Jäämereen. Suurin joki on _Teno-joki_, joka, saatuansa oikealta
+puolelta _Tseskem-joen_, juoksee Norjan rannalla olevaan _Teno-lahteen_.
+
+_Pohjan-maan vesikunta_, jonka vedet tulevat sekä Lapin-tunturista
+että Maanselältä. Merkillisimmät virrat ja järvet ovat: _Tornio-joki_
+ja sen itäinen lisä-joki _Muonio_, joka oikeistaan onkin emävirta.
+_Kemi-joki_, joka alkaa liki Venäjän rajaa siitä jossa Maanselkä
+keännäikse etelään; saapi oikealta puolelta yhdistetyn _Luiro_- ja
+_Kittisen-joen_, kulkee sitten _Kemi- järven_ halki ja saapi vielä
+oikealta puolelta Ounas-tunturilta juoksevan _Ounas-joen_ lisäjoeksi.
+— _Ii-joki_ yhtänimisestä järvestä Kuusamon kankailta. — Virtava
+_Oulun-joki_ lähtee _Niska-kosken_ kautta _Oulu-järvestä_, johon
+suuria lisävesiä tulee koillisesta _Kiehimä-jokea_ myöten, ja idästä
+_Ämmä-kosken_ kautta. — _Siika-joki_ tulee _Iso-Lamu_-järvestä. —
+_Pyhä-joki_ yhtä nimisestä järvestä. — _Kaksihaaranen Kala-joki_.
+— _Ähtävä_ (ruotsiksi _Esse_), _Lappa-järvestä_. — _Lapuan-joki
+Kuortaneen-järvestä_, ja viimein _Kyrön-joki_, joka alkaa
+_Laukas-vuorelta_ Pohjankankaalta, nimitetään alkujuoksullaan
+_Kauha-joeksi_, keski matkallaan _Ilma-joeksi_, ja suu puolellaan vasta
+_Kyrön-joeksi_.
+
+_Satakunnan vesikunta_. Pieni _Pyhä-järvi_, Tampereen kaupungin
+etelä-puolella on tämän vesikunnan sydänjärvi, johon lisävesiä
+tulee sekä pohjoisesta että etelästä. Pohjoisesta tulee _Etsäri,
+Toivesi, Keurus-vesi_ ja _Näsi-järvi_, joka Tammer-kosken kautta
+heittäiksen Pyhäjärveen. Etelästä tulee siihen taas: _Längelmä_- ja
+_Pelkäne-vesi, Roine, Mallas-vesi_ ja _Vanaja-vesi_. Nämä kaikki vedet
+juoksevat Pyhäjärvestä Nokia-kosken kautta _Kulo-veteen_, johonka myös
+_Kyrös-järvi_ tulee pohjoisesta, ja viimein _Kokemäen-jokea_ myöten
+Pohjan lahteen.
+
+_Hämeen vesikunta_. Tämän vesikunnan emäjärvi on 18 peninkulmaa
+pitkä _Päijänne_, johon pohjoisesta tulee _Kivi-järvi, Kolima ja
+Keitele_; koillisesta _Piela-vesi, Nilakka-vesi, Iis-vesi_ ja
+_Konne-vesi_. Kaikki nämä vedet yhtyvät _Leppä-veteen_ ja menevät
+siitä _Haapa-kosken_ kautta Päijänteesen. Tästä tulee niinikään
+Päijänteesen _Taino-kosken_ kautta _Kyy-vesi_ ja _Puola-vesi_ ja
+etelästä _Vesi-järvi_. Päijänteestä juoksee vesi _Kalkin-kosken_ kautta
+_Ruotsin-veteen_, joka _Jyrängön-virran_ kautta menee _Konne-veteen_.
+Tästä alkaa sitten _Kymin-virta_, joka välisten levenee järviksi,
+mutta hoikkenee kohta taas virraksi ja juoksee viimein viisihaaraisena
+Suomen lahteen, tehden kulullansa monta puotetta niinkuin: _Jyränkö,
+Keltin-koski, Anjala_ ja _Korkea-koski_.
+
+_Savon ja Karjalan vesikunta_. Emävesi tässä vesikunnassa on suuri
+Saimaa. Tähän emäveteen tulee suuria lisävesiä sekä Savosta että
+Karjalasta. Savosta tulee _Kallavesi_, johon pohjoisesta lankee
+_Onkivesi_, koillisesta _Syväri_ ja _Vuotjärvi_ ja idästä _Suojärvi_ ja
+_Suvasvesi_. Karjalasta taas tulee _Pielinen, Höytiäinen, Viini-järvi_
+ja _Ori-vesi_. Kaikki edellä mainitut sekä Savon että Karjalan vedet
+yhtyvät _Hauki-veteen_. Haukivesi menee sitten _Pihlaja-veteen_,
+joka _Puumala-salmen_ kautta yhtyy Saimaasen. Saimaasta lähtee
+_Vuoksen_-virta, joka Aalto-järveen mennessänsä tekee monta puotetta,
+joista _Imatran_-koski on kovin.
+
+6. _Ilman-laatu_. Näin pohjoisessa kuin Suomi on, ei ilma taida
+olla muuta kuin kylmää. Kuitenkaan ei ole missään muualla, paitsi
+Ruotsin ja Norjan maalla, saman tasapiirin alla, yhtä mieto ilma,
+kuin Suomessa. Talvi on pitkä ja kova, kesä lyhyt ja kuuma. Syksyä ja
+kevättä ainoasti muutamia viikkoja. Ja kuta korkeammallen pohjoiseen
+noustaan, sitä lyhyemmät ovat syksyt ja keväät. Kuitenkin ollaan viime
+vuosina havaittuna joitakuita muutoksia tässä asiassa. Talvet ovat
+tulleet myöhemmin ja olleet miedommat, kuin ennen vanhaan. Keväät
+ja syksyt pitemmät ja kesät vähemmin kuumat. Ilma on siis yleesen
+tasaunut, joka arvattavasti tulee siitä, että maata on enemmin
+viljelty, soita perattu, ja metsiä raivattu. Yöhallat turmelevat vielä
+nytkin monin paikoin viljoja; mutta harvenevat sitä myöten kuin soita
+ja korpia raivataan ja maata viljellään. — Muuten on suuri eroitus
+ilman välillä etelässä ja pohjoisessa. Sillä perimäisessä pohjoisessa
+ei ilmakaan voi olla yhtäläinen, kuin etelässä, jossa yön ja päivän
+vaihe on joka vuorokausi. — Eroitus on myöskin tehtävä ylämaiden ja
+rantamaiden välillä. Meren vesi, joka on huonompi lämpimen johdattaja,
+kuin mannermaa, pysyy syksyllä kauemmin lämpimänä kuin manner, ja
+hidastuttaa talven tulon rantamailla; mutta kerran taas kylmettyänsä
+pysyy se kauemmin kylmänä. Sentähden pääsee ruohot taas keväällä
+aikasemmin maahan ylämaissa, kuin rantamaissa. — Kuta korkeammalle
+pohjoiseen tulemme, sitä pikemmin joutavat kasvut ja viljat. Torniossa,
+jossa päivää on neljä tuntia pitemmältä, kun etelä-suomessa, tekee
+ohra tähkäpäitä viidennellä viikolla ja valmistuu yhdeksännellä ja
+kymmenellä, sitä vastoin kuin se etelässä vaatii 14 ja 16 viikkoa
+kypsyäksensä. — Talvea kestää pohjoisessa 7 ja 8 kuukautta, etelässä
+5 ja 6 kuukautta. — Ilma on yleeseen puhdas ja raitis. Välistä
+ilmaantuneet surmaavaiset kulkutaudit ovat enimmiten tulleet
+katovuosina nautituista sopimattomista elon-aineista. Kolera-ruttokaan
+ei ole tehnyt Suomessa niin suurta rasitusta, kuin muilla mailla, eikä
+päässyt leviämäänkään rantamaista ylemmälle. Tavallisimmat taudit
+ovat pistokset, kuumetaudit, kolotus ja luuvalo, jotka tulevat ilman
+kylmyydestä, tahikka paremmin sanoakseni huonoista vaatteista ja
+asuinsioista ja liiasta suolan syömisestä.
+
+
+
+II. Asukkaat.
+
+
+1. _Kansakuntia: Lappalaisia_ sanotaan Suomen vanhimmiksi asukkaiksi,
+jotka Suomalaisien maahan muuttaissa olivat ottaneet pakonsa
+perimäiseen pohjoiseen. Jos tällä puheella on perää, niin se on
+niin ymmärrettävä, että kala-lappalaisia on ennen asunut järvien
+rannoilla ja jokien varsilla; mutta peura-lappalaisia el Suomesse ole
+ollutkaan, sillä peura kuolisi täällä nälkään, kun ei ole kylliksi
+peuran jäkälää, jolla tämä eläin paraittain elättää henkensä. Heitä
+ei nyt enään ole kuin 1000 henkeä Suomen piirin sisällä. Suomalaiset
+ovat ottaneet melkein koko maan haltuunsa. Mutta maassamme löytyy myös
+_Ruotsalaisia asukkaita_. Näihin joukkoon on luettava melkein koko
+vallassäätymme. Ruotsalaisia talonpojan säädystä asuu Suomen lahden
+rannoilla, Kymivirrasta alkaen aina Turun tienoillen. Koko Ahvenanmaa
+ja Turun saaristo on myos heidän hallussa. Niinikään puhutaan ruotsia
+Pohjan lahden rannoilla, Satakunnasta Kokkolan kaupunkiin asti.
+Samoin kun nämä Ruotsin vallan aikana tulivat maahamme, niin on, nyt
+Venäjän hallituksen alla, heitäkin muuttanut Suomeen. _Venäläiset_
+ovat enimmiten kauppioita kaupungeissaimme. Venäläisiä maanviljeliöitä
+tavataan ainoastaan _Pyhäristin_ pitäjässä Wiipurin läänissä; mutta
+heidän uskolaisia eli Greekan uskon tunnustajoita, on Suomalaisestaki
+suvusta pitkin Venäjän rajaa. _Mustalaisia_ tavataan siellä ja täällä
+sydänmaan kylissä. _Saksalaisia_ on vähän Wiipurissa ja Helsingissä. Ja
+joku _Juutalainenki_ suurimmissa kaupungeissa.
+
+Vuonna 1855 nousi Suomen asukkaiden mnäärä 1,688,705 hengen paikoille,
+joita 818,867 oli miespuolta ja 859,838 naispuolta. Kansakunnittain
+jaettuna on Suomalaisia 1,502,515 henkeä, Ruotsalaisia 125,000.
+Venäläisiä 7000. Lappalaisia 1000. Mustalaisia arviolta 1000 ja
+Saksalaisia 400. Viimeisinä aikoina on vuosittain syntynä noin 50 ja 60
+tuhatta henkeä; kuolluna on ainoastaan 30 ja 40 tuhatta, jonkatähden
+väkiä on lisääntynä 18 ja 20 tuhatta yhteen vuoteen.
+
+2. _Säätyjä._ Suomen asukkaat ovat jaettuna neljään eri säätyyn, jotka
+ovat: _aateli_-sääty, _papin_ sääty, _porvarin_ sääty ja _talonpojan_
+sääty. Aatelin äsenet, jotka ovat ruhtinoita, kreivejä, vapaa-herroja
+eli paroneja ja aatelis-miehiä, ovat vapautetut henki-rahan maksusta,
+saavat hallita vapaita tiloja, joista ruunullen ei makseta veroa.
+Papis-sääty on samoin vapautettu henki-rahoista ja saavat hallita
+puustellia ilman verotta. _Porvari-säädyllä_ on yksinänsä lupa pitää
+julkinaista kauppaa, tehdä käsitöitä kaupungeissa, muiden työmiesten ja
+kauppioiden siitä estämättä. Talonpojat ovat ruunun tilalaisia, jotka
+viljelevät ruunun maata, vero-tilalaisia, jotka viljelevät omaa ostamaa
+maata, josta he maksavat veron ruunullen, ja vapaa-tilalaisia, jotka
+viljelevät alkujansa aatelistolle kuuluneita maita.
+
+3. _Elatuskeinoja._ Ikivanhoista ajoista asti ovat Suomalaiset olleet
+ahkeroita maanviljeliöitä ja maanviljelystä on Suomessa jo satoja
+vuosia pidetty parhaana sekä elatus-keinona että rahanki saaliina.
+Suomalaisien suurimmaksi ansioksi on se ehkä luettava, että ovat
+levittäneet maanviljelyksen perimäiseen pohjoiseen. Sillä ei missäkään
+muualla, paitsi Norjassa, eikä sielläkään muualla, kun Suomen kylissä,
+viljellä maata yhtä ylhäällä pohjoisessa, kun meidän maassa, nimittäin:
+Enontekissä, Muonio- joen varrella, 68 tasapiirin alla, ja Kyrön
+kylissä, Ivalo-joen ranteilla, Inari-järven etelä-rannoille asti,
+lähellä 69 tasapiiriä. Mutta kun maa oli laiha ja kivinen, josta töin
+tuskin saatiin kunnon peltoa, niin ovat Suomalaiset jo ikivanhoista
+ajoista viljelleet maata omalla tavallansa, nimittäin sillä lailla,
+että metsä kaadetaan kaskeksi, kaski poltetaan ja siihen kylvetään
+ohraa tahi ruista, ja sitten kauraa ja tattaria. Pari tahi kolme viljaa
+kun maasta- on niin otettu jätetään se karjan laitumeksi. Kun tälläinen
+kasken hakkuu ja poltto raiskaa metsää, jota tarvitaan muihinkin
+tarpeisiin, niin on hallitus koetellut estää paloviljellystä, minkä on
+taitanut. Huhtaa ei siis enään hakata paljon muualla, kuin Itä-suomessa
+eli Savossa, Karjalassa ja Kainuun maalla. Toinen ja etusampi
+keino viljellä maata on suon perkuu; sillä se antaa eloa, muuttaa
+hallaperäset suot niituiksi ja tekee ilman raittiimmaksi. Sentähden
+auttaa hallitus tämänlaista maaviljelystä monin tavoin. Pellon viljelys
+on kuitenkin nykyjään paras ja tavallisin. Tavallisimmat viljat ovat
+ruis, ohra ja kaura. Vehnää viljellään ainoasti Etelä-suomessa, ja
+tattaria kaakkos- puolella. Ruista viljellään kaikkien enin, sen
+jälkeen ohraa ja sitten kauraa. Keski-suomessa ei vehnä enään tahdo
+loistaa, Pohjos-savossa loppuu kaura ja ruis Kainuun maalla, mutta
+ohraa viljellään vielä Lapissakin. Vanhuudestaan ovat Suomalaiset
+viljelleet nauriita, jotka kasvavat kaikin paikoin, mutta tällä
+vuosisadalla ovat potaatit Etelä- ja Länsi-suomessa vähentäneet nauriin
+viljelyksen. Herneitä ja papuja viljellään myös enimmiten etelässä,
+eivätkä menesty enään pohjois-puolella Oulua. Pellava, joka on parasta
+Hämeessä, muuttuu pohjois-puolella Waasaa karkeaksi, mutta hamppua
+kasvaa ylempänäkin pohjoisessa.
+
+Karjan korjuu on maanviljellyksen rinnalla myös paraita elatus-keinoja,
+etenkin Karjalassa, jossa on vähän peltoa, mutta paljon vuoria eli
+vasta viljeltyjä ahoja, jotka ovat hyviä karjan laitumia. Hevoset ovat
+hyviä, vaikka pieniä. Savon ja Karjalan hevosia sanotaan paraiksi.
+Niitä myödään paljon Venäjälle.
+
+Metsästäminen oli ennen aikaan oivallinen elatuskeino; mutta on nyt,
+metsien hävitettyä, vaivaa tuskin maksava askaroiminen. Kuitenkin
+pyydetään vielä nytkin kettuja sangoilla, jäniksiä langoilla, karhuja
+ja susia kaadetaan keihäillä, oravia, kärppiä, ahmoja, ilveksiä,
+saukkoja ja majavia, joiden nahkoja myödään Venäjälle, mutta tuodaan
+sieltä Suomeen takasi turkkina. Samoin ammutaan ja pyydetään paljon
+lintuja, joita niinikään viedään Venäjälle. Rantamaissa ammutaan myös
+hylkeitä.
+
+Rautaa saadaan sekä Uuden maan ja Perisuomen vuorista, että Savon ja
+Karjalan järvistä. Vaskea valmistetaan _Orijärven_ kaivannossa Kiiskon
+pitäjässä Uudella maalla, josta saadaan noin 300 leiviskää vuosittain
+ja _Pitkärannassa_ Impilahden pitäjässä Aaltojärven rannalla. Vuonna
+1850 saatiin 1,171 puutaa. Kultaa ja hopeata on siellä ja täällä
+löydetty; mutta ei missään niin, että olisi palkinnut tekovaivaa.
+
+Jos on vähä kultaa ja hopeata, niin on sitä enemmän kiveä, jotka
+ovat soveljaita komeisiin rakennuksiin. _Pyterlahden murroksesta_,
+meren raunalla Wirolahden pitäjässä Wiipurin ja Haminan välillä,
+särjetään ja viedään summattoman paljon kiviä Pietariin ja Retusaaren
+linnaan. Pyterlahdesta on se Keisar-Aleksanderin muistopylväski, joka
+seisoo Aleksanderin torilla Pietarissa talvilinnan edessä, niin myös
+Iisakin kirkon patsaat eli pilarit ja vieläpä Keisari Napoleonin
+muistopatsas Pariisissaki. Pienemmistä murroksista Wiipurin, Wirolahden
+ja Wehkalahden pitajistä ovat Neva-joen ja kaivantojen rannekivet.
+Vanhan Wiipurin puistosta ovat patsaat Kasanin kirkkoon otettuna.
+Säkkijärvellä ja Wirolahdessa särkevät myös yksityisetki miehet kiviä
+ja myövät Pietariin ja Retusaareen. Ruskeat perustuskivet, jotka
+kannattavat Iisakin kirkkoa, ovat tuotu Impilahdelta. Sortavalasta on
+saatu sinertävää marmorikiveä marmorihovin rakennuksiin. _Marmorikiveä_
+löytyy paljon Sortavalassa ja Ruskialassa, josta sitä viedään Iisakin
+kirkon rakennukseen. _Kalkkia_ melkein joka paikassa. Astioiksi
+kelpaavaa _savea_ monin paikoin.
+
+Metsän hoito on Suomessa vielä huonolla jalalla, sillä, metsiä on
+tähän asti raiskattu, huolimatta siitä, että metsät hoidettuna
+tuottavat asukkaille hyvän rahan tulon. Suomen metsissä valtaava
+puu on petäjä, kuusi ja koivu. Kuusia kasvaa Inarijärven rannoilla
+68 tasapiirin alla. Siitä pohjoiseen kasvaa vielä mäntyjä, jotka
+Utsjoella ovat huonoja, miehen korkuisia. 70 tasapiirin kohdalla
+on ainoasti vaivais-koivuja. Notkoissa ja joen ranteilla kasvaa
+vielä paju-pensaita, leppiä, tuomia ja haapoja. Kataja kasvaa sekä
+alangoilla että vuorilla. Leppä, haapa, pihlaja, tuomi, raita ja paju
+kasvaa samoin jokapaikassa, mutta ei missään niin, että tekisivät
+metsiä. Puista, joita ei kasva jokapaikassa, ovat: härkäpuu,
+orastuomi, pajatin, orjantappura, kuusain, höysipuu, siestain eli
+musta viinamarja, taikinainen, pähkinäpuu, omenapuu, tammi, vaahteri,
+niinipuu eli lehmus, saarni, jalava. _Tammi_ kasvaa Peri-suomessa aina
+Porin tienoille, ja siellä täällä pitkin Suomen lahden rantoja _Lehmus_
+eli _Niinipuu_ kasvaa vielä Kuopion tienoilla Savossa ja Ilmajoella
+Kainuun maalla. _Vaahteria_ sanotaan kasvavan eteläisessä Satakunnassa,
+Hämeessä, Savon linnassa ja Walamon saaressa Aaltojärvellä. _Jalava_
+Sääksmäellä, Wanajassa, Hollolassa, kuin myös Walkjärvellä,
+Pyhäjärvellä, Sortavalassa ja Walamon saaressa. _Saarni_ ei muualla
+kuin Ahven-maalla. _Pähkinäpuu_ pitkin Suomen lahden rantaa. _Omenapuu_
+kasvaa monin paikoin Etelä-suomen metsissä, vieläpä Hämeessä ja Savossa
+Vuonna 1788 istutettiin Ruunun kustannuksella Saksan kuusia Uuden
+kirkon pitäjään, ja ovat nyt jonkunlainen metsä.
+
+_Kasviston_ ja _puiston_ viljelykselle tahtoo ilmoista olla este.
+Merkillisimmät kasvistot ovat tohtori Sahlbergin istuttama kasvisto
+Yläneen kappelissa Pöytyän pitäjässä, _Monrepos_ Wiipurissa ja
+_Yliopiston_ kasvisto Helsingissä.
+
+Maanviljelystä ja muita talouteen kuuluvia askareita varten
+perustettiin vuonna 1797 Turkuun _Huoneen hallitus seura_. Vuonna 1836
+perustettiin _Mustialaan_ Tammelan pitäjääsen _maaviljelys koulu_.
+
+4. _Käsitöitä_ ja _keinotöitä_. Talontarpeita, työkaluja ja vaatteita
+askaroidaan kaikin paikoin Suomessa, paitsi Wiipurin läänissä, jossa
+tavallisimpiaki sekä kaluja että vaatteita ostetaan Venäjältä.
+Muistettava on kuitenkin Walkialan pitäjä, jossa lattian peitteitä
+valmistetaan kaupaksi, jotka välisten maksavat 45 Suomen markkaa
+kappale. Muutamissa Mikkelin läänin pitäjissä, niinkuin Mikkelissä,
+Kangasniemessä ja Korpilahden kappelissa kudotaan pellava- liina-
+ja villa-vaatetta, joita myödään Mikkelin talvi-markkinoilla.
+Uudella maalla, Peri-suomessa ja Kainuun maalla kudotaan puumuli-
+ja puolivilla-vaatetta, joita myödään sekä Suomessa että viedään
+Pietariin, Räveliin ja Riikaan. Rauman ja Uuden kaupungin tienoilla
+tehdään puu-astioita, joita viedään Tanskan pääkaupunkiin. Raumaan
+ympäristöllä kudotaan myös pitsiä, joita myödään Suomessa ja viedään
+Venäjälle 1,500 hopea ruplan edestä vuosittain. Pohjalaiset ovat
+yleensä sukkelia kirvesmiehiä ja nikkaria. Turun, Helsingin ja Wiipurin
+ja muiden kaupunkien laivaveistämillä tapaa enimmäksen pohjalaisia.
+Mutta Haminassa pidetään kymiläisiä yhtä taitavina laivantekiöinä kuin
+pohjalaisetkin.
+
+Yleiseen ovat käsi- ja keinotyöt huonolla kannalla, sillä ulkomailta
+tuodut teokset ovat sekä somempi tekoisia että huokeampia, kun oman
+maan käsityöt. Käsitöillisiä ammattia on noin 50 eri-lajia. Vuonna 1851
+oli maalla 10,961 ja kaupungissa 7,324 käsityön tekiätä. Vaprikoita eli
+tehtaita oli kyllä vuonna 1851 148; mutta enin osa vasta alkavia, jotka
+eivät voi mihinkään määrään täyttää kotimaan tarvista. Paraimmat ovat
+_Tampereen puumuli-tehdas. Suotniemen Vajansi_- ja _posliini-tehdas_
+Kaukolan kappelissa Räisälän pitäjässä, liki Käkisalmea. _Leistilän_
+ja _Jäppilän lasi-tehtaat_ Uudella kirkolla Wiipurin läänissä.
+Verka-tehtaista on kaksi merkillistä nimittäin _Jokioisten_ vaprikka
+Tammelassa ja _Littoisten_ vaprikka Liedossa. _Havin kynttilä_-vaprikka
+Wiipurin pitäjässä. Sepän pajoista on _Fiskarin_ paja paras.
+Paperi-tehtaista on kaksi oivallista, toinen _Tampereella_ toinen
+_Tervakoskella_ Janakkalan pitäjässä. Monista lasi-tehtaista on
+Nuottajärven tehdas Turun maalla merkillisin. Ainoa sokeri-tehdas on
+_Tölön_ vaprikka lähellä Helsinkiä. Tupakka-tehtaista on _Rettigin_
+tehdas Turussa paras. _Oldenburgin_ tikkutehtaasta Porissa laitetaan
+tulitikkuja kaiken maailman markkinoille.
+
+Käsi- ja keino-työn tekiöitä varten on joka kaupungissa sunnuntaikoulu,
+ja paitsi niitä on Turussa, Helsingissä ja Waasassa teollisuuskoulu.
+
+5. _Kauppa._ Suomesta viedään muille maille enimmäkseen metsän ja
+karjan antimia. Lautoja, malkoja, lankkuja, viedään muille maille
+etenkin Wiipurista ja Porista; pikiä, tervaa ja potaskaa Kainuun
+maalta etenkin Oulusta; ruoteita ja puu-astioita Raumaasta ja Uudesta
+kaupungista. Polttopuita viedään Suomen lahden ja Aaltojärven
+rannoilta Pietariin. Viime vuosina on myös ruvettu viemään ulkomaille
+kattopäreitä. Myös rakennetaan laivoja kaupaksi. Raavaita, lampaita,
+sikoja, raavaan-, lampaan- ja sian-lihaa, voita, juustoa ja talia,
+vuotia ja nahkoja viedään Itä-suomesta Venäjälle ja Länsi-suomesta
+Ruotsiin ja vähän muihinkin maihin. Kaloja ylettyy ulkomaille:
+silakoita eli hailia, lahnoja ja siikoja, muikkuja- ja muikun mätiä,
+muita mainitsematta. Muuten viedään ulkomaille myös hylkeen rasvaa,
+turkiksia, lintuja, palttinaa, puumuli-vaatetta, sukkia, vanttuita,
+peuran nahkasia kinttaita, ikkuna-lasia ja rautaa.
+
+Muualta tuodaan: suoloja, rautaa, rauta- ja teräskaluja, vaskea ja
+muita metallia, kaloja erittäinki silliä, paineita eli väri-aineita,
+viinoja, puun hedelmiä, ryytiä, tupakkata, kahvea, teelehtiä, sokuria,
+silkkiä, puumulia, puumuli-, pellava- ja villa-vaatetta, lasia ja
+posliinia, apteeki tavaroita, paperia m. m. ja katovuosina eloakin,
+suurimoita (ryyniä) ja jauhoja.
+
+Suomen alukset, joita ennen sotaa oli päälle 5 sataa, purjehtivat
+kaikilla valtamerillä, ympäri koko maanpalloa. Enimmäkseen käydään
+kuitenkin Spaniassa suoloja noutamassa. Pienemmillä aluksilla kuljetaan
+ahkerasti, usein kahdesti kesässä, Tanskassa, Saksassa, Hollannissa,
+Belgiassa, Englannissa ja Franskassa; suuremmilla taas Italiassa ja
+Spaniassa. Muissa maanosissa käydään Brasiliassa, Etelä-amerikassa,
+kahvea ja tupakan lehtiä noutamassa; Itä-intiassa silkin nounnissa
+ja Pohjois-amerikassa valaskaloja pyytämässä. Erinomattain etuisaksi
+sanotaan rahdin tekoa, ja niin on Suomen laivat ulkomailla useasti
+monta vuotta kuljettamassa vieraita tavaroita toisesta valtakunnasta
+toiseen, ja ansaitsevat sillä lailla runsaan rahan saaliin. Paitsi
+jo mainituita kauppioiden laivoja on Suomessa noin 1000 pienempätä
+talonpojan alusta, jotka käyvät kauppaa Itämeren satamissa.
+
+Taitavien laivan päällikköjen valmistusta varten on meillä kolme
+merimies koulua: Helsingissä, Turussa ja Waasassa.
+
+Kotimainen kaupan liike on, muihin maihin verrattuna, vielä huonolla
+jalalla, kun ei ole niinkuin muualla rautateitä, eikä kylliksi
+kaivantoja, joilla kovat kosket kierettäisiin. Kuitenki on kosken
+perkuilla ja kaivantojen kaivamisella, koeteltu auttaa kotimaista
+kaupan kulkua. Monet hallaperäiset suot ovat sillä muuttuneet
+viljamaiksi. Mainiommat elikkä paraat kaivannot ovat: Kainuun maalla,
+lähellä Kajanin linnaa _Ämmäkosken kaivanto_ ja _sulku-laitos_,
+Oulu-järven ja Nuas-järven välillä. _Satakunnan kaivanto_, joka,
+katkaisemalla Kangasalan maanharjun, yhdistää Längelmä-veden ja Roineen
+toisihinsa. Savossa _Konnuksen_ ja _Taipaleen_ eli Warkauden kaivannot
+sulkuinensa, joilla pohjois- ja etelä-Savon vedet yhdistetään.
+Lappeenrannan ja Wiipurin välillä on suuri 5 peninkulmaa pitkä _Saimaan
+kaivanto_.
+
+6. _Uskonto._ Kaikki uskonnot ovat Suomessa tavalliset, vaan
+_evankeliumillinen Luteruksen puhdistama uskonto_ on toki maamme
+pää-uskonto. Siihen kastettu ja siinä kasvatettu ihminen ei saa luopua
+siitä, eikä antaida toiseen uskoon, maanpakolaisuuden haastolla.
+Yhteen laskettuna oli Suomen väkiluku vuonna 1855 1,688,705 henkeä.
+Näistä tunnustaa 1,589,771 Luteruksen puhdistamaa uskontoa, ja muut,
+eli 37,352 henkeä, _Greekan uskontoa_. Vanhassa voittomaassa on myös
+vähän katoliikiläisiä, joilla on oma kirkko Wiipurissa. Lisäksi vielä
+on Helsingissäkin Suomen valtavaroilla rakennettu katoliikin kirkko;
+Juutalaisilla on Sveaporissa ja Wiipurissa oma pappinsa ja rukoushuone
+eli synagoga.
+
+Uskonnon ja kirkon hoito on arkkipiispan ja Porkoon ja Kuopion
+piispojen hallussa, joilla kullaki on tuomiokapituli apuna. Maa
+jaetaan sen suhteen kolmeen hiippakuntaan. Turun hiippakuntaa on
+Peri-suomi, Ahvenanmaa, Satakunta, Waasan lääniin kuuluva osa Kainuun
+maata ja länteinen osa Hämettä ja Uutta maata. Porvoon hiippakuntaa
+on itä-puolella Hämeen harjua oleva osa Hämettä, Uutta maata
+Helsingistä asti itään, Mikkelin ja Wiipurin lääniin kuuluvat osat
+Savoa ja Karjalata. Kuopion hiippakuntaa on Oulun ja Kuopion läänit
+eli pohjimmaiset osat Savoa, Karjalaa ja Kainuun maata sekä Lapin
+maa. Joka hiippakunta on taas jaettuna _provastikuntiin_, joissa
+kihlakunnan provasti on esimiehenä. Joka provastikunnassa on erimäärä
+kirkkoherrojen hallittavia emäpitäjiä. Yhteen emäpitäjääsen kuuluu
+useasti joku kappeli-seurakunta. Provastikuntia on yhteesen 41 eli
+Turun hiippakunnassa 18, Porkoon 14 ja Kuopion 9.
+
+Suomessa olevien Greekalaisien seurakuntien kirkollinen päämies on
+_protojerei_ eli tuomioprovasti Wiipurissa ja metropoliita Pietarissa.
+Greekan uskolaisia seurakuntia on kolmessa paikassa: Pyhäristin pitäjän
+kylässä asuvaiset Venäläiset, joilla on oma kirkko; Taipaleen kylä
+Liperin pitäjässä, moniaita kyliä Ilomantsin pitäjässä; koko Suistamon,
+Suojärven ja Salmen pitäjät sekä Kitelän kappeli Impilahden pitäjätä.
+Paitsi näitä maa-seurakuntia on heillä kirkkoja Helsingissä, Haminassa,
+Wiipurissa, Käkisalmessa, Savolinnassa, Sortavalassa ja Kuopiossa.
+Heillä on myös kaksi luostaria Walamon ja Konevitsan saarissa, molemmat
+Aaltojärvessä.
+
+7. _Sivistys._ Jo ikivanhoista ajoista on Suomalaisilla ollunna
+jonkunlainen omituinen kansallinen sivistys. Sen aikunen viisaus, eli
+esivanhempamme mieliala ilmotaiksen vanhoissa runoissa, tavoissa,
+arvoituksissa ja sananlaskuissa. Mutta Ruotsista tuotiin maahamme
+kristin uskonto ja sen kanssa toisenlainen sivistys. Tämän uuden
+opin tulkit ovat _Pyhä Raamattu, Wirsikirja ja Katkismus_. Näitä ja
+muita jumalisia kirjoja luetaan jotenkin ahkeraan, ja harvassa on
+niitä, jotka ei näitä kirjoja voi lukea; mutta muihin tieteellisesti
+sivistäviin kirjoihin ei kansa vielä tahdo mieltyä. Kristillisyyden
+levitessä on vanhan aikuinen kansallinen viisaus hävinnyt; mutta
+on kuitenkin siellä ja täällä niin säilynyt, että viime-aikoina on
+kansan suusta koottu ja präntätty viisi arvoisata kirjaa: Kalevala,
+_Kanteletar, Sananlaskuja, Arvoituksia ja Satuja_.
+
+Tieteellistä sivistystä varten on Suomessa yksi yliopisto Helsingissä.
+Sitä lähin ovat lukiot eli gymnasiumit ja sitten koulut. Lukioita
+on 6, nimittäin: Turussa, Porvoossa, Wiipurissa, Hämeenlinnassa,
+Waasassa ja Kuopiossa. Ylä-alkeiskouluja on 15: Kokkolassa, Waasassa,
+Porissa, Turussa, Hämeenlinnassa, Tampereella, Helsingissä, Porvoossa,
+Haminassa, Wiipurissa, Savonlinnassa, Heinolassa, Jyväskylässä,
+Kuopiossa ja Oulussa. Ala-alkeiskouluja on joka kaupungissa.
+Naiskouluja 7: Turussa, Waasassa, Helsingissä, Haminassa, Wiipurissa,
+Kuopiossa ja Oulussa. Merimiehen kouluja 3: Helsingissä, Turussa ja
+Waasassa. Kauppakouluja Turussa ja Waasassa. Keino- ja käsityöläisiä
+varten on sunnuntaikouluja joka kaupungissa, ja heidän täydellisempätä
+oppia varten on 3 _teollisuus_-koulua: Helsingissä, Turussa ja
+Waasassa. Haminan kaupungissa on sotakoulu, jossa Venäjän sotaherroiksi
+aikoville annetaan tarpeellista opetusta. Tammelan pitäjässä Hämeessä
+on _Mustialan maaviljelys_-koulu. Paitsi näitä on myös kansan
+opetukseksi joka läänissä kaksi pienempätä maaviljelys-koulua, sekä
+muutamia lapsukais-kouluja ja pitäjä- ja kylä-kouluja. Sivistystä
+levittävistä seuroista ovat mainittavat _Suomalaisen kirjallisuuden
+seurat_ Helsingissä ja Wiipurissa, sekä _Talous-seura_ Turussa.
+
+
+
+III. Maan jako.
+
+
+1. _Historiallinen jako._ Suomen kansan sanoimme olevan kolmea eri
+sukukuntaa, nimittäin: _hämäläisiä, karjalaisia ja kainuulaisia_. Vaan
+jo vanhoista ajoista on Suomen maa jaettu yhdeksään eri maakuntaan,
+joiden asukkaat erottaiksen toisistansa kielen murteessa, ruumiin
+rakennuksessa, tavoissa ja elatuskeinoissa. Ruotsin vallan aikana
+annettiin kullenkin maakunnalle omituinen kunnianimi. Niin ovat
+_Peri-suomi_ eli _Turun maa, Satakunta_ ja _Karjala herttuakuntia;
+Ahvenmaa, Uusmaa, Häme, Satakunta_ ja _Kainuu reivikuntia_; mutta
+Lapin maalle ei tämmöistä kunnianimeä annettukaan. Muuten tavallinen
+maan jako on kun puhutaan vanhasta ja uudesta voittomaasta. Vanhalla
+voittomaalla ymmärretään se osa Suomen Suuriruhtinakuntaa, joka
+ennen Haminan rauhaa oli Venäjän vallassa: se on maa Kymin virran
+itä-puolella ja Savonlinnan etelä-puolella.
+
+2. _Kirkollinen jako._ Katso uskonto.
+
+3. _Laillinen jako._ Oikeuden valvonnon suhteen on Suomi jaettu
+kolmeen hovi-oikeuskuntaan, nimittäin: _Turun, Waasan ja Wiipurin_.
+Hovi-oikeudessa istuu esimies ja neuvot ja asessorit. Hovi-oikeuden
+alle kuuluu kaikki ala-oikeudet maalla ja kaupungissa. Ala-oikeudet
+maalla ovat kahta laatua, nimittäin: _lakikunnan_ ja _kihlakunnan
+oikeudet_, joiden esimiehet ovat _lakikunnan_ ja _kihlakunnan
+tuomarit_. Kunkin tuomarin apuna on 12 lautamiestä. Suomessa 6
+lakikuntaa ja 49 kihlakuntaa. Kaupungissa on lain ja oikeuden hoito
+_raastuvan oikeuden_ hallussa, jonka esimies on pormestari ja
+neuvomiehet. Yhdeksässä suuremmassa kanupungissa on myös alaisempi
+oikeus, nimeltä _kämnerin_ oikeus. Tätä paitsi pidetään Suomessa myös
+_maajaon_ oikeutta.
+
+Kolmen hovi-oikeuden välillä on maa niin jaettu, että Turun
+hovi-oikeuteen tulevat asiat Turun, Hämeen ja Uudenmaan läänistä,
+joissa on 2 lakikuntaa, 19 kihlakuntaa ja 11 kaupunkia; Waasan
+hovi-oikeuteen vedotaan Waasan ja Oulun läänistä, joissa on 2
+lakikuntaa, 11 kihlakuntaa ja 11 kaupunkia; ja Wiipurin hovi-oikeuteen
+vedotaan Kuopion, Mikkelin ja Wiipurin läänistä, jotka ovat jaetut 2
+lakikuntaan, 19 kihlakuntaan ja 10 kaupunkiin.
+
+4. _Vallallinen jako._ Vuonna 1831 annetun julistuksen jälkeen,
+jaetaan Suomi kahdeksaan maaherran lääniin, jotka nimitetään _Oulun,
+Waasan, Turun, Uudenmaan, Wiipurin, Kuopion, Mikkelin ja Hämeenlinnan_
+lääni. Oulun lääniä on Suomen Lappi, pohjois-osa Itäistä pohjan
+maata ja Suomeen kuuluva osa Läntistä pohjan maata; Waasan lääniä on
+etelä-osa Itäistä pohjan maata, Keurun pitäjä Satakuntaa, ja luode-osa
+Hämettä; Turun lääniä on Peri-suomi, Ahvenmaa, paras osa Satakuntaa
+ja länsi-puoli Uuttamaata; Uudenmaan lääniä on keskimäinen ja paras
+osa Uuttamaata, ja kaakkois-osa Hämettä; Wiipurin lääniä on itä-puoli
+Uuttamaata, etelä-osa Karjalaa ja Savoa sekä Walkialan pitäjä Hämettä;
+Kuopion lääniä on pohjois-osa Karjalaa ja Savoa, sekä koillis-puoli
+Hämettä; Mikkelin lääniä on keski-osa Savoa ja länsi-puoli Hämettä; ja
+Hämeenlinnan lääniä on lounat-osa Hämettä ja itä-puoli Satakuntaa.
+
+Joka lääni jaetaan sitten _voutikuntiin_, ja ne taas nimismieskuntiin.
+Kaupungissa on hallitus _majistraatilla_ ja _pormestarilla_. Mutta
+Sortavalassa, Heinolassa ja Mikkelissä ei olekaan pormestaria eikä
+majistraatia, vaan siihen siaan _järjestys-mies_ ja _järjestys-oikeus_.
+Turussa, Helsingissä ja Wiipurissa on myös poliisi-kämneri ja
+poliisi-mestari.
+
+
+
+IV. Hallitus.
+
+
+Suomen Suuriruhtinanmaa on _perustuslaillinen_, vuonna 1809 Venäjän
+valtakuntaan yhdistetty _yksivalta_. Venäjän keisari on Suomen
+Suuriruhtinas; mutta Suomea hallitaan omien lakien jälkeen, varsin
+eritavalla kuin Venäjätä. Meidän peruslakimme ovat vuonna 1772 Elokuun
+21 päivänä annettu _hallitusmuoto_, ja vuonna 1789 Huuhtikuun 3 päivänä
+annettu _yhdistys- ja vakuutuskirja_, jotka molemmat Venäjän keisari
+on entiseen voimaansa valallansa vahvistanut. Näiden lakien jälkeen on
+hallitsialla korkein tuomio- ja toimitus-valta; mutta lakia laativa
+valta on jaettuna hänen ja suomen säätyjen välillä ja veron määrääminen
+on säätyjen vallassa. Suomen säädyt, nimittäin aatelimiehet, papit,
+porvarit ja talonpojat, kokoontuvat _valtio-päiville_, eli niinkuin
+ennen sanottiin "herrojen päiville", keskustelemaan valtakunnan
+yhteisistä asioista, ja laatimaan lakia ja uusia asetuksia; vaikka
+Suomen säädyt Venäjän vallan ailkana eivät ole olleet koolla, kuin
+yhden kerran Porvoon kaupungissa vuonna 1809 Maaliskuun 25 päivästä
+Heinäkuun 19 päivään.
+
+Pietarissa istuva _Suomen valtio-ministeristö_ ja siihen yhdistetty
+_Suomen asiain toimikunta_, joiden molempien esimiehenä eli puheen
+johdattajana on _valtio-ministeri_, valmistaa ja esittelee Keisarille
+ne asiat ja jutut, jotka ovat hänen itsensä päätettäviä. Mutta
+ylimäisen maassa olevan hallituksen esimiehenä on _Kenraali Kuvernöri_.
+Kaikki ne asiat, jotka eivät ole hallitsian itsensä päätettäviä,
+ratkaisee Keisarin nimessä Suomen Senaati, joka on jaettu kahteen
+osastoon, nimittäin: _Oikeus- ja Hallitus-osasto_. Kummassakin
+istuu 9 Keisarin määräämää jäsentä. Paitsi semmoisia asioita, jotka
+ovat päätettävät molempien osastoin yhteisessä istunnossa, eli
+_in pleno_, on oikeus-osastolla ylimäinen lakia käyttävä valta ja
+hallitus-osastolla korkein hallitusvalta, jonka vuoksi se on jaettu
+seitsemään toimikuntaan, nimittäin: _kanslia-, rahasto-, tilinteko-,
+sota-, kirkko-, talous- ja prokuraatorin_-toimikunta.
+
+_Sotavoima._ Suomalaista sotaväkeä on _Henkivartion tark'ampuva
+tappelu-joukko_ ja _meriväestö_ molemmat Helsingissä, tuhannen miestä
+kummassakin ja 9 tappelu-joukkoa _ruotuväkeä_, nimittäin: Turun,
+Waasan, Oulun, Kuopion, Mikkelin, Hämeenlinnan, Porin, Uudenmaan ja
+Wiipurin tappelu-joukko, jossa kussakin on rauhan aikana 320 miestä.
+
+_Rahavarat_. Suomen omituinen raha on _markka_, joka vastaa Venäjän
+25 kopekkaa, eli Franskan rahaa yhden frankin. Markka jaetaan sataan
+penniin, ja niin vastaa yksi penni yhden franskan centimin eli yhden
+neljänneksen Venäjän kopeikkaa. Suomen kruunun tulot ovat: Maaveroja
+624,400 rupl. Tehdasveroja 23,100 rupl. Henkiveroja 305,100 rupl.
+Välillisiä veroja ja ulostekoja 1,827,800 rupl. Satunnaisia tuloja
+225,450 rupl. eli yhteensä 3,005,870 rupl. taikka yli 12 ½ miljoonaa
+markkaa suomen rahassa. Menot ovat: Ylimäisille virkakunnille 22,470
+rupl. Oikeushoidon virastolle 108,990 rupl. Sotilas-virastolle 57,990
+rupl. Yhteiselle siviili-virastolle noin 762,700 rupl. Kirkollisille
+ja Opetus-virastoille noin 328,000 rupl. joista ainoastaan 2,175 rupl.
+kansan opetukseen. Laupeihin laitoksiin ja yhteisen järjestyksen
+hoitoon noin 269,000 rupl., joista likimäärin 115,000 rupl. vankien
+hoitoon. Kauppa ja elatus-keinoihin noin 297,000 rupl. Lahjoituksiin ja
+apuihin 157,570 rupl. ja yhteisiin ylimääräisiin menöihin yli 530,000
+rupl., joista yli 322 tuhatta ruplaa menee, sen suureksi osaksi viime
+vuosikymmenellä syntyneen valtio-velan kasvu-maksuun ja kuoletukseen;
+joten vuotuiset menot ovat ylimäärään 2,831,500 rupl. taikka likimäärin
+11 1/3 miljoonaa markkaa suomen rahassa.
+
+Suomen Suuriruhtinakunnan vaakuna eli sinetti on punaselle pohjalle
+maalattu, ruusujen keskellä pystyssä seisova jalopeura: Oikeassa
+käpälässä pitää se ylöspäin käännettyä miekkaa ja vasemmassa alaspäin
+käännettyä sapelia, jonka hamaralla se seisoo takajaloillansa.
+Maakunnilla, läänillä, kihlakunnilla, kaupungeilla ja virkakunnilla on
+omat sinettinsä.
+
+
+
+V. Muistettavia paikkoja.
+
+
+1. Uudenmaan läänissä: _Helsinki_ (Helsingfors), pääkaupunki, Senaatin
+ja kenraali-kuvernörin asunto, yliopisto, Suomen kirjallisuusseura
+ja monta koulua, 20 t. asujanta. — _Wiapori_ (Sveaborg), hyvästi
+varustettu linnoitus, puolen peninkulmaa Helsingin rannasta. —
+_Tammisaari_ (Ekenäs), Hankoniemen seuduilla, hyvä nahkasormikkaiden
+tehdas, hyviä kilohailia, 1,300 a. — _Porvoo_ (Borgå), yhtänimisen joen
+rannalla, piispa, lukio, ylä- ja ala-alkeiskoulu, likimäärin 3 t. a. —
+_Loviisa_ (Lovisa) hyvä kauppa, 2,600 a.
+
+2. Turun läänissä: _Turku_ (Åbo), Aurajoen suussa, entinen pääkaupunki,
+maaherra, hovi-oikeus, arkkipiispa, lukio ja monta koulua, hyvä kauppa
+ja tehdas-paikka, 18 t. a. — _Naantali_ (Nådendal), täällä neulotaan
+paljon sukkia ja vanttuita, 600 a. — _Uuskaupunki_ (Nystad), hyvä
+satama, väkevä kauppa etenkin puu-astioille, 2,900 a. — _Rauma_
+(Raumo), yhtäläinen kauppa kuin edellisellä, täällä neulotaan hienoja
+pitsiä, 2,500 a. — _Pori_ (Björneborg), Kokemäenjoen varrella, maan
+paraita kauppapaikkoja, lavea tikku-tehdas, 6,400 a. — _Tampere_
+(Tammerfors), Tammerkosken rannalla, suomen paras tehdaspaikka, 3,800
+a. — _Marianhamina_ (Mariehamn), nykyjään perustettu.
+
+3. Hämeenlinnan läänissä: _Hämeenlinna_ (Tavastehus): maaherran ja
+lukion istuin; 3,100 a. — _Anjapelto_ kylä Päijänteen etelä-rannalla,
+höyrylaivan satama.
+
+4. Wiipurin läänissä: _Wiipuri_ (Wiborg), tukevasti varustettu
+muureilla. Siinä on vanha Wiipurin linna, maaherran, hovi-oikeuden
+ja lukion istuin, suomalainen kirjallisuudenseura, monta suomalaista
+koulua, Suomen paraita kauppapaikkoja, 8 tuhatta 5 sataa asukasta.
+Lähellä kaupuntia on _Vanha Wiipuri_ eli _Monrepos_-niminen puutarha.
+— _Hamina_ (Fredrikshamn), varustettu sotakoulu, hyvä kauppa,
+2 tuhatta 9 sataa asukasta. — _Ruotsin salmi_ (Svensksund) eli
+_Kotka_, pieni varustuksilla vahvistettu kaupunki Kymivirran suussa.—
+_Kymin linnoitus_, yhtänimisen virran varrella. — _Lappeenranta_
+(Willmanstrand), Saimaan etelä-rannalla, pieni kaupunki, 900
+a. Kaupungin vieressä on vanha linnoitus, joka nyt on naisväen
+kuritushuoneena. — _Käkisalmi_ (Kexholm), Wuoksen entisessä suussa,
+1,500 a. — _Sortavala_, Aaltojärven pohjois-rannalla, 500 a. —
+Wiipurin läänissä on vielä merkittävä: _Pyterlahden_ kivi-murros
+Wirolahden pitäjässä. _Ruskialan_ marmori-murros Aaltojärven rannalla.
+_Pitkärannan_ vaski-kaivanto Impilahden pitäjässä. — Ja _Rokkalan_
+lasi-tehdas Kakin pitäjässä. — Tähän lääniin kuuluvista saarista ovat
+suurimmat: _Koivisto, Suursaari, Lavansaari ja Tytärsaari_ Suomen
+lahdessa, ja _Walamo_ ja _Konevitsa_, Aaltojärvessä, joissa viimeksi
+mainituissa on Greekan katoliikiläinen luostari. — _Lauritsala_,
+laivasatama, Saimaan kanavan niskassa.
+
+5. Mikkelin läänissä: _Mikkeli_ (S:t Michel), Saimaan lahden
+rannalla, läänihallituksen istuin, hyvä jyvä- ja voikauppa, 700 a. —
+_Savonlinna_ (Nyslott), Haukiveden ja Pihlajaveden välisessä saaressa,
+ylä-alkeiskoulu, jonkunlainen kauppa, 1000 a. — _Jyränkö_ (Heinola),
+yhtänimisen virran varrella Heinolan pitäjässä, ylä-alkeiskoulu,
+1000 a. — Historiallisesti muistettavia paikkoja: _Haapaniemi_,
+Haapaveden rannalla, Rantasalmen pitäjässä, sotakoulu vuodesta 1781
+vuoteen 1818. — _Parkumäki_, Rantasalmen pitäjässä, tappelu v. 1789. —
+_Punkaharju_, kaunis puistikko. — _Puumalan salmi_, meritappelu 1789,
+nyt höyrylaivojen pysäyspaikka. — _Porosalmi_, 7 virstaa Mikkelistä
+etelään, tappelu 1789. — _Raahen linna_ Ristiinan pitäjässä, kuninkaan
+kartano ja linnan jäännökset, sotakoulu muutettiin täältä vuonna 1781
+Haapaniemeen.
+
+6. Kuopion läänissä: _Kuopio_, Kallaveden kainalossa, Hiippakunnan
+ja läänin hallituksen istuin, lukio ja monta koulua, merikauppa,
+4000 a. — _Pielisensuu_ eli _Pielisen Joensuu_, merikauppa, 600 a. —
+_Laivalinna_ eli _Warkaus_, Leppävivirran varrella, alkava kauppala,
+hyvä rautatehdas. — _Iisalmi_, kauppala yhtänimisessä pitäjässä.
+— _Virtasilta_, Iisalmen kirkon pohjois-puolella, tappelu 1808. —
+_Toivalan_ kylä, niinikään kuulusa 1808.
+
+7. Waasan läänissä: _Waasa_ (Wasa), Maaherran ja Hovi-oikeuden
+istuin, lukio ja monta koulua, hyvä kauppa, 3,500 a. — _Ristiina_
+(Christinestad), hyvä satama, lavea kauppa, 2,300 a. — _Kaskinen_
+(Kaskö), Pohjanmaan paras satama, vähä kauppa, 700 a. — _Lapuansuu_
+eli _Lapuan Joensuu_ (Ny Carleby), pieni kauppa, 1,200 a. —
+_Pietarsaari_, (Jacobstad), hyvä kauppa, 1,800 a. — _Kokkola_ (Gamla
+Carleby), kohtuullinen kauppa, suomalainen ylä-alkeiskoulu 2,300 a. —
+_Jyväskylä_, Jyväsjärven rannalla Päijänteen pohjoispäässä, ensimäinen
+suomalainen ylä-alkeiskoulu, 800 a. — Historiallisesti muistettavia
+paikkoja: _Oravaisten_ kylä Wöyrin pitäjässä, kova tappelu v. 1808.
+— _Iso-kylä_ Lapualla, _Ruonan silta, Salmi ja Alavo_, Kuortaneen
+pitäjässä, niinikään tappo-tanteria 1808.
+
+8. Oulun läänissä: _Oulu_ (Uleåborg), yhtänimisen joen suussa,
+maaherran asunto, Suomen paraita kauppapaikkoja, suurin tervahovi
+maanpiirillä, ylä-alkeiskoulu, 6,300 a. — _Tornio_ (Torneå),
+yhtänimisen joen suussa, pienenläntä kauppa, lukio ja lapin tavaraa,
+600 a. — _Raahe_ (Brahestad), Salon pitäjässä, hyvä satama ja kauppa,
+2,400 a. — _Kajaani_ (Kajana), pieni kaupunki Koivukosken rannalla,
+900 a. — _Sauvonsaari_, äsken perustettu kauppala Kemivirran suussa.
+— Historiallisesti muistettavia paikkoja: _Siikajoki, Revonlahti ja
+Pulkkila_, tappelupaikkoja Siikajoen varrella. — Olkijoen kylä Salon
+pitäjässä, jossa tehtiin sotalahko 19 p. Marraskuuta 1808.
+
+
+
+
+Venäjän valtakunta.
+
+
+
+I. Maa.
+
+
+1. _Piiri ja rajat._ Venäjän valtakunta on avaruudeltaan suurin,
+kuin maalla ihmismuistiin on ollunna. Se sisältää puolen Euroopaa,
+kolmanneksen Aasiaa ja osan Amerikaa. Mitaten on se 392 tuhatta
+maatieteellistä eli 280 tuhatta Suomen pelispeninkulmaa. Asujamia
+siinä on 66 miljoonaa, jotka puhuvat 40 erikieltä, ja ovat kaikki
+yhden keisarin vallan alaisia. Mutta tässä jutellaan ainoasti Venäjän
+keisarin vallan alaisista maista Euroopassa, jotka ovat laajuudeltaan
+50 neliöpeninkulmaa, ja jossa asuu 62 miljonaa ihmisiä.
+
+Venäjän vallan alaisien maiden rajana on pohjoisessa: Jäämeri kolmine
+lahtineen _Kara, Tsheskaja ja Valkia-meri_, jolla viimeksi mainitulla
+taas on kolme lahtea: _Vienan, Onegan ja Kannan_ lahdet. Luoteessa
+erottaa Teno-joki Venäjän aluuden Norjan valtakunnasta. Lännessä ovat
+Muonion ja Tornion virrat luonollinen raja Ruotsia vasten. Tornion
+virran suusta kulkee raja Pohjan lahden ja Itämeren halki lähelle
+Memel-virran suuta. Siitä menee raja monessa mutkassa Preussin ja
+Itävallan valtakuntia vasten Pruth-virran ylävarrelle, joka erottaa
+Venäjän Turkin valtakunnasta. Pruth-virran keski-varrelta kääntyy
+raja itään Mustaan mereen, jonka meren koillis-rannalta se kulkee
+Kuban-virtaa myöten ja sitten Terek-virtaa myöten Kaspian mereen. Tämän
+meren pohjois-rannasta käännäikse raja pohjoiseen, ensin Ural-virtaa
+myöten ja sitten Ural-vuoria myöten Kara-joen suuhun Kara-lahteen.
+
+2. _Valtakunnan osat._ Edellä rajotetun piirin sisällä on kolme eri
+valtakuntaa, nimittäin: _Venäjän keisarikunta_, johon myöskin Aasiassa
+ja Amerikassa olevaiset maat luetaan, ja joissa keisarilla on rajaton
+valta; _Puolan kuninkaallinen valta_ ja _Suomen Suuriruhtinanmaa_,
+joilla kumpasellakin on omantakeiset valtakunnalliset asetuksensa.
+
+Ensimäinen näitä, eli Venäjän keisarikunta, jaetaan taas seitsemään
+eri-osaan, jotka nimitetään: _Iso-venäjä_, keskimäinen ja
+pohjois-puoli; _Itämeren maat_, jotka paraaksi osaksi ovat vanhaa
+Ruotsin aluuta; _Länsi-venäjä_, Puolalta voitettu maa; _Pieni-venäjä_,
+Ison Venäjän etela-puolella; _Etelä-venäjä_, Mustan meren rantamaat,
+jotka ennen olivat Turkin vallan alaisia; _Astrakan_ ja _Kaukaasia_,
+kaakkois-puoli, ja _Kasan_ ja _Permia_, itäinen osa, jotka samoin kuin
+kaakkois-puolikin ovat Mongoleilta valloitettuja maita.
+
+3. _Mantereen muoto, vuoret ja virrat._ Maa on paraaksi osaksi
+summattoman suuri tasamaa. Itä-reunalla on jo mainitut kultarikkaat
+Urali vuoret. Muuten kulkee lounaasta koilliseen metsänen maanharju,
+jonka korkeinta kohtaa, Ilma-järven etelä-puolella, jossa Dyna-,
+Dieper- ja Wolga-virrat saavat alkunsa, sanotaan _Waldai- eli
+Volkonski_-metsäksi. Tämä maaharju jakaa Venäjän kahteen osaan, joista
+eteläinen on vierettävä Mustan ja Kaspian merelle, ja toinen eli
+pohjois-puoli taas Jäämerelle.
+
+Pohjois-puoli on hyvin metsänen, järvinen ja soinen maa. Täällä on
+Euroopan suurin järvi: _Laatokka_ eli _Aaltojärvi_, johon Saimaasta
+juoksee Wuoksen virta, _Äänisestä eli Onegasta Syväri eli Svir_ ja
+_Volkova (Velho-joki), Ilma-järvestä_. Kaikki Aaltojärveen yhtyneet
+vedet juoksevat sitten _Nevan-virtaa_ myöten Suomen lahteen. Laatokan
+jälkeen suurin järvi Euroopassa on _Onega_. Paitsi näitä on vielä
+mainittavat _Bjeloje-osero (Valkea-järvi), Peippunen_, josta _Narvan_
+joki juoksee Suomen lahteen, ja Lapin maassa _Imandra_, joka on sulana
+ainoasti muutamia kuukausia vuodessa.
+
+Suurimmat virrat. Itämereen menevät: _Niemen eli Nieman_, jolla on
+lisäjoki _Wiilia; ja Dyyna (Wäinö-joki)_, joka juoksee _Riigan_
+lahteen. Jäämereen menevät: _Onega, Wiena_, jonka alkuvirrat ovat
+_Suchôna_, Kubinkan järvestä, ja oikean puolimainen lisävirta
+_Wytshegda; Mesen ja Petshora_, jotka molemmat juoksevat tasasta
+autio-kangasta myöten.
+
+Etelä-osa Venäjätä on, niinkuin vasta sanottiin, myöskin pelkkää
+tasasta Mustalle merelle vierettävää kangasta. Jos pohjois-puolella oli
+avaroita järviä, niin täällä taas on ankaroita virtoja. Mustaan mereen
+juoksee mainion Donavan vasemman puoleinen sivuvirta Pruth, joka alkaen
+Itävallan maista, on keski-varrellaan rajana Turkkia vasten. Samoten
+Itävallasta tulee Mustaan mereen juokseva _Dnjester_. Mutta tykkänään
+Venäjän piirissä ovat seuraavat myöskin Mustaan mereen juoksevaiset
+_Bog ja Dnieper_, joka viimeksi mainittu, alkeen Volkonski-metsästä
+on 160 suomen peninkulmaa pitkä, ja saapi oikealta puolelta _Beresina
+ja Pripet_ ja vasemmalta kädeltä _Desnâ ja Workslâ_-nimelliset
+sivuvirrat. Assovan järveen juoksee 130 peninkulmaa pitkä _Don_,
+johon vasemmalta puolelta tulee lisävirrat _Koper ja Medveditsa_, ja
+oikealta kädeltä _Donets, eli Pieni Don_. Mustaan mereen juoksee vielä
+ennenmainittu _Kuban_-niminen rajajoki. Kaspin mereen juoksevat myös
+ennenmainittu rajajoki _Terek_, ja ahovirta _Kumâ_, joka, juostuansa
+50 peninkulmaa, ei ennätä mereen, vaan katoaa hiekkakankaalle liki
+meren rantaa. Euroopan suurin virta on _Wolga_. Alkaen pienestä
+järvestä Volkonski-metsästä, juoksee tämä kalanen 240 peninkulmaa pitkä
+virta ensin itään, saaden tällä matkalla vasemmalta kädeltä tulevan
+_Tvertsâ_ ja oikealta puolelta tulevan _Okâ_ nimiset lisävirrat;
+sittemmin käännäikse emävirta etelään, ja saapi vasemmalta tulevan
+_Kaama_-virran, jolla taas on kaksi lisävirtaa: _Wjätkä_ oikealla ja
+_Bjelaja_ vasemmalla puolella. Viiminen Kaspin mereen juokseva virta on
+_Ural_, joka alkaa yhtänimisistä vuorista, ja on 130 peninkulmaa pitkä.
+
+4. _Ilma_. Venäjän maa, joka ylettyy Jäämeren puuttomilta
+lumi-tunturilta aina Mustan ja Kaspin meren ruohottaville rannoille,
+on ilman suhteen hyvinkin erikaltaista. Yleesen ei ilma täällä
+ole yhtä mieto ja ihana, kuin Länsi-Euroopassa yhden leveyden eli
+tasapiirin alla. Niin ovat esimerkiksi Franskan maa ja Musta meri
+yksien tasapiirien välillä; kuitenkin pysyvät Franskan satamat kaiken
+vuotta sulana, kun Mustan ja Kaspin meren rannat ovat jäässä melkein
+yhtä kauan kuin Itämeren etelärannat. Samoin on syksy ja kevät Venäjän
+avoilla kankailla tuskin tuntuvakaan. Kylmä talvi seuraa äkkiää kuumaa
+kesää. Sentähden kohtaavatkin kameli ja peura toinen toisensa melkein
+yksillä kankailla.
+
+Jäämeren rannoilla, jossa talvea kestää yhdeksän kuukautta, ennättää
+maa lyhyen kesän aikana tuskin sulaakaan. Vuoren tunturit ovat kaiken
+vuotta lumen vallassa. Pellon viljelystä ei ole sanottavaksikaan. Maa
+kasvaa ainoasti karpaloita, muuramia, sammalia, jäkälöitä, kanarvia,
+paju-pensaita ja vaivais-koivuja, eikä ole niitäkään perimmäisessä
+pohjoisessa. Kesyjä eläimiä ei täällä pidetä muuta kuin koiria ja
+poroja, joita kumpasiakin valjastetaan pulkka-reen eli ahkion eteen,
+lumikankaita ajeltaessa. Mutta siihen siaan on paljon metsäeläimiä,
+kuin karhuja, susia, ilveksiä, kettuja, majavia, näätiä, saukkoja ja
+kärppiä. Ihmisistä ei moni ole eläissänsä päässyt leivän makuun. He
+elelevät peuran lihalla, kaloilla ja karpaloilla. Hylkeen rasva on
+heidän paras herkkunsa.
+
+Maaharjua lähetessä muuttaa maa luontonsa, vaikk'ei se vieläkään ole
+varsin viljavata, kun se paraaksi osaksi on hiekkaharjua ja rahkasuota;
+mutta kasvaa kumminkin avaroita metsiä, joissa on, paitsi Suomessa
+tavallisia havu- ja lehti-puita, myös paljon saksan kuusia. Peltoa,
+missä sitä vähän on, siinä viljellään ohraa, ruista, kauraa, tattaria,
+potaattia ja hamppua. Mutta oikea viljamaa alkaa vasta 60 tasapiirin
+etelä-puolella, jossa tavallisinakin vuosina saadaan ruista, vehnää,
+tupakkaa, sipulia, kaalia, juuri-kasvuja, palko-viljaa ja puu-hedelmiä
+niin runsaasti että riittää muuallekin myödä.
+
+Mustan meren rannoilla on ilma aivan mieto ja mielusa. Täällä on
+ihanoita puutarhoja, kellertäviä peltoja, joissa kasvatetaan vehnäsä,
+mais-, hirsi- ja riisi-jyviä, melonia, arbuusia, persikoita, aprikosia,
+viikunoita, viinaa, mantelia, ja silkki-pensaita. Mutta toisin paikoin
+tahtoo liika kuivuus niin vaivata maata, ettei viinin kasvatus eikä
+pellonkaan viljelys tahdo menestyä. Kaspin meren rannoilla on maa niin
+suolaista ja ilma niin kuumaa, että suola-lähteistä kuivataan suoloja.
+Sulan maan aikana, jota kestää 9 kuukautta, on maa hyvä karjalaidun,
+talvella taas on koko kangas lumen vallassa. Rajut itä-tuulet ajaa
+pölyyttävät lumen koviin nietoksiin, niin että se on laineissa kuin
+aava meren selkä kovalla myrskyllä.
+
+
+
+II. Asukkaat.
+
+
+1. _Kansoja._ Venäjän avarassa maassa asuu monta eri-kansaa. Enin osa,
+47 miljonaa, on _Venäläisiä_, joita sanotoan _suuriksi, pieniksi ja
+valkeiksi Venäläisiksi_ sen paikan nimeltä, jossa asuntoa pitävät.
+Näihin on luettava myös _Kasakoita_ joku 3 miljonaa, jotka majailevat
+Dnieper-virran tienoilla, Don ja Ural-virtojen varsilla ja Mustan meren
+koillis-rannalla. Siihen vielä _Lettiläisiä ja Litauvilaisia_ 1 ½ milj.
+_Turkkilaisia_ Krimin niemellä ja Tauriassa 1 ¼ milj. _Suomalaisia_,
+maanharjun pohjois-puolella ja Wolga-virran varsilla, yli 2 milj.
+_Juutalaisia_ siellä täällä ja enin Puolan raja-maissa 1 ½ milj.
+_Saksalaisia, Mustalaisia, Kalmukkeja_ ja muita muukalaisia yhteesen 2
+miljonaa. Koko väkiluku nousee Euroopassa 64 miljonaan.
+
+Kun Venäjällä asuu paljon meidän heimolaisia, niin liitetään tähän
+erityinen luettelo, osottava mitä sukua ne ovat ja kuinka paljon
+kutakin sukua.
+
+      _Selviä Suomalaisia_:
+
+  Wirolaisia, Wirossa 633,500.
+  Karjalaisia, Arkangelin, Nougorodin, Aunuksen
+    ja Tverin läänissä                             171,700.
+  Savakoita, Äyrämöisiä ja Inkeriläisiä, Inkerissä  90,200.
+  Wepsäläisiä, Aunuksen ja Nougorodin läänissä      15,600.
+  Watjalaisia, Pietarin läänissä                     5,200.
+  Liiviläisiä, Liivin ja Kuurin maalla               2,100.
+                                          Yhteensä 918,300.
+
+_Suomalaisia heimokansoja_ noin 1 ½, miljonaa, joiden seassa
+Mordvalaisia 480,000; Tshuvasheja 430,000; Wotjakeja 187,000;
+Tsheremissejä 165,000; Syrjänejä ja Permiläisiä 124,000 j.n.e.
+
+2. _Säätyjä._ Vapaa sääty on Venäjällä kahtalainen, nimittäin:
+_suku-aateli ja virka-aateli_. Ensimäinen näitä, johon kaikki vanhimmat
+ja kuulusimmat suvut kuuluvat, saadaan jo syntyessä, ja kulkee
+miespolvesta miespolveen; toiseen päästään kruunun palveluksella, sillä
+kaikki sekä sota-upseerit että virkamiehet ovat aatelin arvoisia,
+ja jaetut 14 arvo-luokkaan. Upseerien lapset ovat myös aatelia,
+ja virkamiehien 8 ensimäisessä luokassa; mutta ei 6 ala-luokan
+virkamiehien lapset. Suku-aatelista on enin osa _ruhtinoita_, ja vaan
+pienempi osa _kreiviä ja parooneja_. Venäjän vapaa sääty on hyvin
+rikas ja heidän hallussa on melkein koko maa. Muuten ei vapaalla
+säädyllä ole muuta etu-oikeutta, kuin ettei heitä tehdä sotamiehiksi.
+_Porvarien_ sääty on jaettu kuuteen luokkaan, heistä saapi ainoasti
+kauppamiehet lunastaa itsensä vapaiksi sotaväestä. _Talonpojan_ sääty
+on kahta laatua: 1) _vapaita_ talonpoikia, johon luokkaan luetaan
+kaikki ne, joilla on oma ostama maa, kaikki muualta muuttaneet siirto-
+eli maja-miehet, ja kaikki veroa maksavaiset paimenkansat Tauriassa
+ja Sipirjassa, ja 2) _kruunun_ talonpoikia, johon luokkaan luetaan
+ne, jotka viljelevät kruunun maata, sijoteltu sotaväki, palveluksesta
+eronneet sotamiehet ja niiden lapset, käsitöillä eläväiset talonpojat
+ja Sipirjaan tuomitut asukkaat.
+
+3. _Elatuskeinoja._ Paras elatuskeino ja rahan saalis on maaviljelys,
+joka menestyy paraiten keski- ja länsipuolella. Vaikka sitä ei
+sielläkään harjoiteta yhtäläisellä taidolla ja ahkeruudella, kun
+muissa Euroopan sivistyneissä maissa, niin saadaan kuitenkin eloa 350
+miljonaa tynnyriä vuodessa, ja venäjän jauho-kulia kuletetaan ympäri
+Euroopaa. Pellavaa ja hamppua kasvatetaan Länsi Venäjässä noin 2
+miljonaa leiviskää, ja humaloita ja tupakkaa paljon Pienessä Venäjässä.
+Nummi-juuria, joista tehdään sokeria, viljellään myös paljo. Kasviston
+ja puistoin hoito on Krimin niemellä aivan hyvä. Silkkiä kasvatetaan
+Kaukaasiassa noin 6 tai 7 tuhatta naulaa.
+
+Karjan kaitseminen on maaviljelyksen rinnalla paraita, ja paikka
+paikoin, niinkun kaakkos-kankailla, ainoa elatuskeino. Hevonen
+on siellä mieluinen eläin. Suuria hevois-laumoja juoksentelee
+kankailla, niinkuin muitaki metsän eläimiä. Kun eivät ole kenenkään
+omia, niin kasakat ja muut asukkaat pyytävät niitä permillä eli
+ansoilla ja totuttavat työhön. Sarvi-karja on suurta ja hyvää,
+etenkin Etelä-venäjässä. Lampailla on yleesen karkea villa, mutta
+hieno-villasia lampaita on viime vuosina tuotu ulkomailta. Tauriassa
+on kuitenkin hieno-villasia lampaita ja silkki-karvasia vuohia. Sikoja
+syötetään paljon Don-virran varrella. Mehiläisiä, joista saadaan
+hunajata, hoidetaan paljon. Kameelit ja aasit ovat etelässä tavallisia
+eläimiä.
+
+Kalan saalis on hyvä, etenkin sampi-saalis Wolga- ja Ural-virroissa
+ja Kaspin meressä, joista kapa-sampia ja sammin mätiä eli "kaviaria"
+viedään ulkomaillekin. Muuten pyydetään sorvia ja sardellia Mustasta
+merestä, silliä ja makrilliä ynnä muita tavallisimpia meri-kaloja
+Valkeasta merestä ja lohia Vienan virrasta.
+
+Metsästäminen on yhtä hyvä ja etusa, kun kalan pyyntö, mutta ainoasti
+pohjos- ja kaakkos-puolella, jossa on paljon lintuja ja muita metsän
+eläimiä, joiden nahoista venäläiset saavat hyviä turkin aineita sekä
+itselleen että muillekin myödä. Etelä-venäjässä ajetaan villisikoja ja
+Jäämerestä pyydetään hylkeitä ja valaskaloja.
+
+Ural-vuorista, etenkin niiden keski-osasta, kaivetaan paljon
+kultaa, hopeaa, platinaa, vaskea, rautaa, lyijyä ja kalliita kiviä.
+Marmori kiveä, kalkkia ja kivihiiliä saadaan Ural-virran rannoilta,
+ja alabaster-kiveä Okâ-virran varrelta. Salpetteriä valmistetaan
+pienessa Venäjässä. Suoloja sekä säretään Ural-vuorista että kuivataan
+sula-lähteistä kaakkois-kankaalla.
+
+Työ-tehtaita eli vaprikoita on kyllä 8 tuhatta; mutta ne eivät
+riitä koti-tarpeeksikaan. Niissä valmistetaan enimmiten puumuli- ja
+silkki-vaatetta, nahkoja, kynttilöitä, öljyä, karkeita hamppu- ja
+pellava-palttinoita, köysiä, lasia, peiliä, posliinia ja tupakkaa.
+
+4. _Kaupan käynti_ on Venäjällä joksenkin vilkas, mutta enimmiten
+vieraiden vallassa. Muiden maiden kauppiaat lähettävät laivansa
+Venäjän satamoihin, ostamaan sieltä kaikenlaista valmistamatonta,
+eli luonnon kasvattamaa ainetta, joita he sitten, vuoden tahi parin
+kuluttua, tuovat takaisi valmistettuna tarvekaluiksi. Niin noutavat
+ulkomaalaiset Jäämeren rannoilta, _Arkangelin_ satamasta, metsän
+antimia, niinkun laivan aineita, tervaa, potaskaa, hylkeen rasvaa ja
+turkiksia; vähän hamppua, purjevaatetta, köysiä ja rautaa. Itämeren
+valkamoista, _Pietarista, Tallinnasta eli Räävelistä, Riigasta ja
+Liibausta_ tuotetaan, paitsi metsän antimia, myös paljon eloa, pellavaa
+ja hamppua, pellavaan ja hampun siemeniä ja niistä tehtyä öljyä,
+talia, saipuata, raavaan vuotia, pajutettuja nahkoja, turkiksia,
+purje-vaatetta, ja köysiä sekä vähän metallia ja metalli-kaluja. Mustan
+meren satamoista, jotka ovat _Odessa, Taganrog ja Kertsh_, kuletetaan:
+vehnää, pellavaa, villoja, talia ja pajutettuja nahkoja. Kaspin meren
+rannoilta, _Astrakan_- ja _Kisliär_-nimisistä satamista, tuodaan
+rautakaluja ja kankaita. Maata myöden viedään Preussin maalle lautoja
+ja malkoja, Itävaltaan pajutettuja nahkoja ja raavaita, Turkin maalle
+ja Aasiaan puumuli-vaatetta ja muita teoksia. — Ulkomailta tuodaan
+Venäjälle juomia, paineita eli väriä, puumulia ja puumuli-kankaita,
+silkkiä ja silkki-vaatetta, valmistamatonta eli hiekka-sokeria, kahvia,
+ryytiä ja muita siirtomaiden tavaroita. Teelehtiä tuodaan maa-matkaa
+Kiinan maasta.
+
+Sisämainen kaupan käynti on joksenkin vireä Wolga-, Dyna- ja
+Wiena-virroilla, niinkun myös kanavilla ja Pietarissa Moskovaan
+saattavalla rautatiellä. Yleesen ovat kaikki Venäjän virrat, paitsi
+Dnieper, aluksilla kulettavia. Laiva-liikettä varten on Dnieper-virran
+koskia perattuna ja sulku-laitoksia tehtynä. Paitsi sitä on kaivettu
+830 penikulmaa kanavia, joista paraimmat ovat: _Kubinskan, Marian ja
+Wishnii-volotshotskan_ kanavat, jotka yhdistävät Wolga-virran haaroja
+Suomen lahteen ja Jäämereen menevien virtojen kanssa. _Aaltojärven_
+kanava, jolla vältetään vaarallinen kulku Aaltojärvellä, menee Wolkovan
+suusta Nevajoen niskalle. _Beresinan_ kanava, Dnieper-virtaan juoksevan
+Beresinan ja Dynan välillä. Näiden kanavien avulla käypi Pietarista
+aluksilla kulkeminen sekä Jäämereen että Mustaan ja Kaspin mereen.
+
+5. _Uskonto. Greekan katoliikiläinen_, eli niinkuin Venäläiset itse
+sitä nimittävät,_"oikea uskonto"_ on valtakunnan pää-uskonto, sillä
+siihen kerran kastettu ei saa enään siitä luopua. Sitä tunnustaa 48
+miljonaa ihmistä, joiden luku nousee vuodesta vuoteen myös siten,
+että lapset, jotka syntyvät vanhemmista, joista toinen, olkoonpa
+mies tahi vaimo, on Greekalainen, ristitään siihen uskontoon.
+Mutta laillinen turva ja suojelus on sallittuna kaikille muillekin
+uskon tunnustajoille, kuitenkin muutamilla välipuheilla. Niin
+eivät esimerkiksi muut, kuin Greekan uskolaiset saa pitää kirkon
+kelloja Pietarissa ja muissa paikoissa, jossa Greekan uskonto on
+pää-uskontona. _Luterilaisia_ asuu 1 ¾ miljonaa Itämeren maissa.
+_Roomin katoliikiläisiä_, eli kuin tavallisessa puheessa sanotaan
+_paavin uskolaisia_, on noin 3 miljonaa Länsi-venäjässä. _Mooseksen
+uskolaisia_ 1 miljona myös Länsi-venäjässä. _Mahometin_ oppilaisia
+liki 3 miljonaa Tauriassa ja Krimin niemellä, ja _pakanoita_ 1 miljona
+Aasian raja-maissa.
+
+Greekan uskonnon ylimäinen päämies eli patriarkka on keisari itse, ja
+kirkon hengellinen oikeus on Pietarissa asuntoa pitävä _pyhä johdattava
+synodi eli kokous_. Synodin alla on 51 hiippakuntaa ja konsistoriumia,
+joiden päämiehet ovat taikka _metropoliitoja, arkkipiispoja tai
+piispoja_. Metropoliitoja on 3, nimittäin Pietarissa, Moskovassa ja
+Kiievassa, arkkipiispoja 28 ja piispoja 38, tavallisia pappia 120,000,
+kirkkoja 34,000 ja rukoushuoneita 9,000. Luostaria, joiden päämiehet
+ovat _arkkimandriitoja, igumeneja_ ja _igumenjoja eli nais-igumeneja_
+on noin 500. — Katoliikiläisillä on 6 piispaa, 100 luostaria ja 900
+pitäjän kirkkoa. — Luterilaisilla on 3 hiippakunnan hallitusta. —
+Juutalaisilla 600 synagoogaa, 2,000 rukoushuonetta, 950 rabbiinia eli
+pappia ja 3,900 koulua. Mahomedin uskolaisilla 4,700 moskieta eli
+kirkkoa.
+
+6. _Kansallinen sivistys_ on vielä huonolla kannalla. Harva talonpoika
+taitaa kirjaa lukea ja vielä harvempi kirjottaa. Mutta kansakouluja
+laitetaan ehtimiseen, joista on toivo, että sivistys on nousemassa.
+Korkeampata eli tieteellistä sivistystä varten on 6 yli-opistoa,
+nimittäin: _Pietarissa, Tartolinnassa eli Dorpatissa, Moskovassa,
+Kasanissa, Kiievassa ja Charkovassa_, 4 lyseumia, 65 lukioa ja monta
+koulua. Paitsi näitä on vielä erinäisiä oppineiden seuroja ja erinäisiä
+säätyjä varten perustettu oppilaitoksia, niinkuin papin seminariumia,
+maaviljelys-, vuorityön-, kaupanteon-, merimiesten- ja käsitöiden-,
+sekä monta sota-koulua.
+
+
+
+III. Hallitus.
+
+
+1. _Hallitus-muoto_ on yksvaltanen, hallitus-istuin perittävä
+ja hallitsia itsevaltanen. Hänen vallassa on siis korkein sekä
+lakia-laativa että ylimäinen tuomio- ja toimitus-voima. Keisarin
+apuna hallituksessa on _Valtioneuvosto_, jolta keisari kysyy
+neuvoa uutta lakia laatiessa ja asetuksia antaessa. Jäseninä siinä
+ovat kaikki lailliseen ikään ehtineet _suuret ruhtinat_, kaikki
+valtakunnan ministerit, ja muita keisarin nimittämiä suuri-sukuisia
+ja korkea-arvoisia herroja, yhteesen 40 henkeä. Kirkollisia asioita
+hoitaa _Pyhä Synoodi_, jossa keisari itse, kuin kirkon patriarkka,
+istuu esimiehenä. Muita jäseniä ovat Nougorodin Pietarissa asuva
+metropoliita, 3 arkkipiispaa, 1 piispa, nimittäin keisarin
+rippi-isä, 1 arkkimandriita, ylimäinen sota-pappi ja 1 protohierei
+eli tuomio-rovasti. Lain asioissa on _Johdattava Senaati_ korkein
+tuomio-oikeus, ja talouden asioissa on _Valtio-ministeristö_ ylimäinen
+toimitus-oikeus. Venäjällä on jo vanhastaan ollut, ennen kuin muissa
+maissa, _oman tunnon eli sovinto-oikeuksia_, joiden tarkoitus on
+sovittamalla estää riitoja nousemasta.
+
+2. _Hallitsia_ on _Aleksander Toinen_ ja hänen lyhyin ja tavallisin
+nimityksensä: _kaiken Venäjän keisari ja itsevaltias, Puolan tsaari
+ja Suomen suuriruhtinas_; mutta laveammassa nimityksessä luetellaan
+melkeen kaikki valtakunnan maakunnat ja lopussa nimittäiksen keisari
+Norjan perilliseksi, Shlesvigin, Holsteinin ja Oldenburgin herttuaksi.
+Keisarin pojat ja tyttäret ovat _suuria ruhtinoita_ ja _suuria
+ruhtinattareita_, ja vallan perillistä sanotaan _cesaarevitsiksi_.
+Keisarit asuivat ennen _Kremlin_ linnassa Moskovassa, vaan nykyjään
+tavallisesti _talvi-hovissa_ Pietarissa.
+
+3. _Tulot ja menot._ Valtakunnan tuloja ovat: _henki-rahat_ miesväeltä
+sekä maalla että kaupungissa, josta maksusta kuitenkin ovat vapaat
+kaikki vaimoväki, koko vapaa sääty, papit ja rikkaammat porvarit, jotka
+viimeksi mainitut siihen siaan maksaavat porvari-rahaa; _aprakka_,
+jota kannetaan kaikilta kruunun maata viljeleviltä talonpojilta, mutta
+herrojen talonpojat maksavat aprakkansa heille; _viina- ja suola_-vero,
+sillä Venäjällä ei saa syödä muuta suolaa eikä juoda muuta viinaa, kuin
+kruunun tehtaissa valmistettua; _tulli-rahat_ ulkomailta tuoduista
+ylellisyyden tavaroista, kartta-paperin, valtuus- ja palkinto-kirjojen
+_lunastus; voitto_ postin kuletuksesta; _metsä-vero_ ja Wolga-virran
+ja Kaspin meren _kala-arenti; tulot_ kruunun ruuti-, salpetteri- ja
+peili-tehtaista, kulta-, hopea-, vaski- ja rauta-kaivannoista, ja
+_vuokra_ kruunun myllyistä, aitoista ja muista rakennuksista. Kaikki
+kruunun tulot yhteesen nousevat vuodessa noin 290 miljonaan hopea
+ruplaan. — Menot ovat monenlaisia ja vaikeammat määrätä, sillä toisena
+vuonna menee enemmän ja toisena vähemmän. Vuonna 1860 tekivät 305
+miljonaa ruplaa hop., joista 101 milj. meni sotaväelle. Valtiovelkaa
+on, paitsi 644 milj., joka on kiertävässä paperirahassa, noin 980
+miljonaa, joiden vuotuinen korko tekee 58 milj. rupl. hop.
+
+4. _Sotaväki_. Vuonna 1689, ensimäisen Pietarin noustessa
+hallitus-istuimelle, ei Venäjällä ollut yhtäkään sota-alusta, eikä
+seisovaa sotaväkeä muuta, kun 15 tuhatta jousimiestä, joiden sanotaan
+olleen yhtä vahingolliset omalle hallitukselle, kun vihollisillekin.
+Mutta Pietari hankki ensimäisen sota-aluksen Hollannista, erotti
+kunnottomat jousimiehet palveluksesta, ja asetti heidän siaan hyvin
+harjotetun pyssy-väestön, joka hänen viime vuosina sanotaan nousneen
+200 tuhanteen mieheen. Siitä ajoin on Venäjän sotaväkeä lisättynä
+lisäämistään niin että se ennen viime sotaa nousi noin miljonan
+paikoille. Nykyjään on paitsi kosakkeja, noin 577,000 sotamiestä.
+Sota-aluksia oli sillon suurempia ja pienempiä yhteesen 8 sataa vaan
+nykyjään 313. Sotamiehiä otetaan sitomalla tarpeen mukaan, millon
+enemmän millon vähemmän. Rauhan aikona on otettuna tavallisesti 8
+ja välistä vaan 4 miestä tuhannesta; mutta sota-aikona 10 ja 12
+tuhannesta. Linnotuksia eli västinkiä on monta, joista paraimmat ovat
+Ruotsilta, Puolalta ja Turkilta voitetuissa raja-maissa, niinkun
+_Kronstadt_ Retusaarella, _Riiga_ Liivinmaalla, _Brezc-litovsk_
+Litauvin maalla, _Sevastopol_ Krimin niemellä. Sota-satamia on
+niinikään monta. Paraimmat ovat: Suomen lahden rannoilla _Retusaari
+ja Tallinna_; Mustan meren rannoilla _Sevastopol, Nikolaijev, Kerson
+ja Taganrog_; Kaspin meren rannalla _Astrakan_ ja Jäämeren rannalla
+_Arkangeli_.
+
+
+
+IV. Paikka-kuntia.
+
+
+Itämeren maat.
+
+1. _Inkerin maa_, Suomen lahden, Rajajoen, Aaltojärven, Peippusen
+ja Nevanjoen välillä, on tasasta alankomaata, joka kasvaa avaroita
+havu-metsiä. Asukkaat ovat Suomalaisia ja tunnustavat Luteruksen
+pahdistamaa uskontoa. Venäläisiä ja Saksalaisia asuu kaupungeissa. Tämä
+maa on Pähkinä-linnan rauhasta, eli vuodesta 1323, ollut Venäjän vallan
+alla; tuli vuonna 1617 Ruotsin vallan alle; mutta voitettiin heiltä
+taas takasin vuonna 1703.
+
+Kaupunkia: _Pietari_, perustettu vuonna 1703 Nevajoen suuhun, on
+Euroopan suurimpia ja kauniimpia kaupunkia, keisarin ja Inkerin läänin
+kuvernörin istuin, yliopisto, monta akatemiaa ja koulua, metropoliita
+ja korkein papillinen hallitus, hyvä tehdas- ja kauppa-paikka,
+500 tuhatta asukasta. Komeita kartanoita on monta: _talvi-hovi_,
+jossa keisari tavallisesti asuu; _eräkäs-hovi_, jossa on puutarha
+yläkerrassa; _marmori-hovi_, joka on tehty pelkästä kivestä ja
+metallista, puuta siinä ei ole kipenettäkään; _Iisakin kirkko_,
+suurin pohjos-euroopassa, rakennettu marmori kivestä 56 jalkaa
+korkeiden kivi-pylväiden päälle; _Tsaari Pietarin_ vaskesta valettu
+_kuva-patsas_ ja _Keisar Aleksanderin muisto-patsas_, tehty yhdestä
+84 jalkaa pitkästä kivestä, on yli puolentoista sataa jalkaa korkea.
+Tämä on korkein ykskivi-teos koko mailmassa. _Keisarin huvitus-hovin_
+tienoolla on: _Gatshina ja Tsaarien hovi eli Tsarkoje-selo_, molemmat
+Pietarista vähän etelään; _Pietarin hovi eli Petterhof_ ja _Rampova
+eli Oranienbaum_, molemmat Suomen lahden rannalla; _Kamennoi Ostrova_,
+saari Nevan suussa. Kaikissa näissä on hyviä kasvistoja ja kauniita
+puistoja.
+
+Muita kaupunkia on vielä: Retusaari eli Kronstadt, vahvasti perustettu
+linnoitus Suomen lahden pohjassa, sota-laivaston satama, 50 t.a.
+Pähkinä-linna eli Shlysselburg, vanhan aikunen linnoitus Nevan
+niskalla. Täällä tehtiin Ruotsin ja Venäjän välillä ensimäinen rauha
+v. 1323, jollon Suomen kansa jaettiin kummankin vallan välillä niin
+että Ruotsi sai nykysen Suomen Suuriruhtinanmaan, ja Venäläiset kaikki
+ne Suomalaiset, jotka asuvat nykysestä Suomen rajasta itään ja etelään
+päin, 5 t.a. Narva, varustuksilla vahvistettu kaupunki Narva-virran
+suussa, muistettava tappelutanner vuonna 1700, 5 t.a.
+
+2. _Wiron maa_, tasanen ja joksensa viljava alanko. Narva-virran
+länsi-puolella. "Maa-rahvas" eli Wirolaiset ovat Suomen heimoa ja
+tunnustavat Luteruksen puhdistamaa uskontoa, mutta herrat maalla ja
+kaupunkilaiset ovat Saksalaisia. _Hiidenmaan_ (Päiväsalon) saaressa
+asuu ruotsalaisia.
+
+Kaupunki: _Tallinna eli Rääveli_, vanhan aikunen, Tanskan kuninkaan
+Woldemarin vuonna 1218 perustama kauppa-kaupunki, hyvä satama, jossa
+osa Venäjän sota-laivastoa lepää talvella, viepi ulkomaille pellavan ja
+hampun siemeniä, eloa ja nahkaa, 23 t.a.
+
+3. _Liivin maa_, Peippusen, Riigan lahden ja Dyyna-virran välillä, on
+epätasaista ranta-maata, mäkiä, kankaita, soita, järviä ja peltoja
+on vuorotellen. Ikivanhat asukkaat _Liiviläiset_, jotka ovat Suomen
+heinoa, ovat häviämässä. Uudemmat asukkaat _Lettiläiset_ ovat Venäjän
+sukua. Aatelisto ja kaupunkilaiset ovat _Saksalaisia_. Uskonto
+Luteruksen puhdistama. Tähän kuuluu myös _Kurensaaren eli Saarenmaan_
+viljava saari.
+
+Kaupunkia: _Riiga_, lähellä Dyyna-virran suuta, kuvernörin asunto,
+lavea kauppa, sokeri- ja verka-tehtaita, 60 t.a. — _Tartolinna eli
+Dorpat_, ihanassa laksossa liki Peippusen rantaa, vanha ruotsin vallan
+aikaan perustettu yli-opisto, peili-tehdas, 12 t.a.
+
+4. _Kuurin maa_, Riigan lahden ja Itämeren välillä, on yleesen
+tasasta ja viljavata maata, mutta keskellä on hiekka-harju. Asukkaat
+Kuurilaiset ovat Venäjän heimoa, vapaa sääty osaksi Puolalaisia
+ja toiseksi osaksi Saksalaisia. Kolmannes osa kansaa pysyy Paavin
+uskonnossa, mutta kaksi kolmannesta tunnustavat Luteruksen puhdistamaa
+uskontoa.
+
+Kaupunkia: _Mitau_, hiekka-kankaalla, pienen puron varrella, oli ennen
+omantakeisien iso-herttuiden, vaan nyt ainoasti maaherran asunto, 30
+t.a. — _Libau_, Itämeren rannalla, hyvä kauppa, 12 t.a.
+
+
+Suuri-venäjä.
+
+Wolkonski-metsä jakaa sen kahteen palstoon. Pohjos-osa, ja etenkin
+sen koillis-puoli on yhden muotoista metsätöntä alamaata ja kolkkoa
+kangasta. Etelämpänä, maa-harjun rinteillä kasvaa avaroita metsiä,
+joista pyydetään paljon kallis-nahkasia eläviä. Walkea-meren rannoilla
+ja Wiena-joen varsilla käypi jo maata viljeleminen. Asukkaat, joista
+enin osa tunnustaa Greekan uskontoa, ja muutamat ovat vielä pakanoita,
+ovat enimmäkseen Suomen sukua. Walkean meren länsi-puolella majailee
+_Lappalaisia_ ja sen itä-puolella _Samojediläisiä_. Lappalaisista
+etelään päin asuu _Karjalaisia_ ja Samojedien etelä-puolella
+_Syrjäläisiä eli Syrjäniä_. Venäläisiä asuu ylen ympäriseen.
+
+Kaupunkia: _Arkangel_, 9 peninkulmaa Wiena-virran suusta, maaherran
+asunto, Pohjos-venäjän paras kauppa-kaupunki, josta Englannilaiset
+ja Hollannilaiset noutavat tervaa, talia, hylkeen rasvaa, rautaa ja
+turkiksia. Tehtaissa valmistetaan sokeria, purjeita ja köysiä. —
+_Mesen_, yhtänimisen virran varrella, myöpi muukalaisille turkiksia,
+mursun hampaita, hylkeen rasvaa ja höyheniä. — _Kolari_, Turjan
+niemellä, kauppa yhtäläinen, kuin edellisellä. — _Savodoi eli
+Petruska_, Äänisen länsi-rannalla, Aunuksen läänin maaherran asunto,
+puuskien eli tykkien valanto, 7 t.a. — _Nougorod_, Wolkova-joen
+niskalla, kävi ennen laveata kauppaa, maaherran asunto, 10 t.a.
+— _Pleskova_ (suomeksi Pihkava), Welika-joen suussa, maaherran
+asunto, oli ennen varakas, jota isot markkinat vielä muistuttaa, nyt
+pienenlainen, 10 t.a. — _Wologda_, Suchoona-virran varrella, maaherra,
+15 t.a.
+
+Saaria: _Novaja Semlja_, on kymmenen kuukautta lumen alla, melkein
+autio ja ruohoton. Rannoilla pyydetään valkeita karhuja, mursuja,
+hylkeitä ja vesi-lintuja Täällä majailee ainoasti metsä- ja
+kala-miehiä, eivätkä nekään kaiken vuotta. _Waigatsh ja Kalgujeva_ ovat
+yhtäläiset, kun edellinen.
+
+Etelä-osa on Venäjän väki-rikkain maa. Wolga, Okâ, Dnieper ja
+Don-virtojen varsilla tekee vilja hyvän terän, ja hedelmä- ja
+tammi-puita kasvaa metsissä. Asukkaat, joita on 20 miljonaa, ovat
+enimmiten _Venäläisiä_. Ainoasti idässä on _Suomalaisia_ ja etelässä
+vähän _Tatarilaisia_.
+
+Kaupunkia, joissa on maaherra ja lukio, on 13, nimittäin: _Jaroslavl_,
+Wolgan varrella, 30 t.a. — _Kostroma_ (lue _Kastrooma_), niinikään
+Wolgan varrella, 12 t.a. — _Nishnei-Nougorod_, Okâ-virran suussa,
+suuret markkinat, joilla vaihetaan Aasian ja Euroopan tavaroita, 27
+t.a. — _Wladimir_, Kläsmä-joen varrella, ennen ruhtinoiden asunto, 12
+t.a. — _Twêr_, Tvertsaa-virran suussa, 17 t.a. — _Moskova_, yhtänimisen
+joen varrella, perusteltu 1156, ennen Pietaria Venäjän pääkaupunki,
+jossa keisari vieläkin kruunataan, yli-opisto, metropoliita, monta
+tehdasta, hyvä vaihto-kauppa, 400 kirkkoa, 380 t.a. Sisimäinen osa on
+nimeltä _Kreml_. — _Tambova_, 13 t.a. — _Tûla_, mainio rauta-paja,
+jossa valmistetaan pyssyjä sotaväelle, 50 t.a. — _Kalûga_, Okâ-virran
+varrella, 35 t.a. — _Smolensk_, Dnieper-virran rannalla, 25 t.a. —
+_Woronesh_, lähellä Don-virtaa, vanhan aikuinen, 40 t.a. — _Kursk_,
+lähellä Desnaa, suuret markkinat, 25 t.a. — _Orel_ (lue Arjol),
+Okâ-virran varrella, 30 t.a.
+
+
+Länsi-venäjä.
+
+1. _Litauvin maa_, (Liettua) Nieman ja Wiilia-virtojen varrella, on
+hyvin metsästä ja soista maata. Maan asukkaat, Litauvilaiset, ovat
+Venäjän heimoa; mutta kaupunkien asukkaat ovat Puolalaisia, Juutalaisia
+ja Saksalaisia.
+
+Kaupunkia, jossa on maaherra, on 3: _Kowno_, Wilia-virran suussa, 7
+t.a. — _Wilno_, Wilia-virran varrella, oli ennen Litauvin ruhtinoiden
+asunto, ja on vieläkin kaunis kaupunki, jonkunlainen kauppa, lääkärien
+akatemia, 50 t.a. — _Grodno_, Niemanin varrella, verka-, silkki- ja
+sametti-tehtaita, suuret markkinat, 15 t.a.
+
+2. _Walkea-venäjä_, on, niinkuin edellinenkin metsänen ja soinen.
+Pripets-virran varrella on suurimmat suot koko Euroopassa.
+
+Maaherran kaupunkia: _Witebsk_, Dyyna-virran varrella, 15 t.a. —
+_Minsk_, 13 t.a. — _Mohilev_, Dnieper-virran varrella, katoliikiläinen
+arkkipiispa, 23 t.a.
+
+3. _Wolyynia ja Podoolia._ Maa on yhtäläistä, kun edellinen, mutta
+viljavampaa. Eloa, liinaa ja pellavaa viljellään paljon. Asukkaat ovat
+Rusniakeja eli sekaantuneita Venäläisiä ja Puolalaisia. Aatelisto ja
+porvarit ovat selviä Puolalaisia.
+
+Maaherran kaupunkia on 2: _Shitomiir_, nahka-tehtaita ja hyvä kauppa,
+95 t.a. — _Kaminiets_, vahva linnoitus 16 t.a.
+
+
+Pieni Venäjä.
+
+Asukkaat, pienet Venäläiset ja Kasakat, ovat ahkeroita karjan
+kaitsioita ja pitävät paljon mehiläisiä, mutta viljelevät myös eloa,
+pellavaa, hamppua, humaloita, tupakkaa ja hedelmä-puita. Moniain
+paikoin saavat salpetteriä maasta.
+
+Kaupunkia, joissa on kuvernöri: _Kiiew_, Dnieper-virran varrella,
+Venäjän vanha pääkaupunki, yli-opisto metropoliita, ja kuuluisa
+luostari, jonka maan alaisissa kammioissa säilytetään pyhien miehien
+ruumiita, joita jumaliset asukkaat käyvät ahkeraan kumartamassa, lavea
+kauppa ja markkinat, 44 t.a. — _Charkova_ (Harkova), Donets-virran
+varrella, yli-opisto ja suuret markkinat, 23 t.a. — _Pultava_, mäen
+kukkulalla Worskla-virran varrella, linnoitettu, kuuluisa tappelu 1709.
+Pietar ensimäisen ja Kaarle kaksitoistakymmenennen välillä, 9 t.a. —
+_Tshernigow_, Desna-virran varrella, saippua-vaaprikka, 11 t.a.
+
+
+Eteläinen Venäjä.
+
+Eteläinen Venäjä jaetaan tavallisesti kolmeen pienempään osaan:
+_Bessarâbia, Uusi Venäjä_ ja _Donskan kasakoin maa_, joista keskimäinen
+taas jaetaan myös kolmeen vielä pienempään osaan: _Cherson,
+Jekaterinoslavl ja Tauria_.
+
+Bessarâbiaksi sanotaan Dniester ja Pruth virtojen ja Mustan meren
+välillä olevata, hyvää vilja- ja viina-maata. Vanhat asukkaat puhuvat
+huonoa latinaa; mutta viime vuosina on tänne muuttanut paljon
+saksalaisia, venäläisiä ja puolalaisia maja-miehiä. Läänin kuvernöri
+asuu Kishinevan kaupungissa, 42 t.a. — _Chotim_, vahvasti varustettu,
+tappelu 1739, 15 t.a. — _Bender_, niinikään vahvoilla varustuksilla,
+15 t.a. — _Akierman_, linnoitettu, 25 t.a. ennenvanhaan ruomalainen
+maja-paikka, nimeltä Alba Julia.
+
+_Uudeksi Venäjäksi_ sanotaan ranta-maata Dniester-virran suusta
+Don-virran suuhun. Tämä Tatarilaisten asunto-maa valloitettiin
+1783. Paitsi Tatarilaisia on tänne muuttanut paljon greekalaista,
+armenilaista, venäläistä ja saksalaista maja-väkeä. Maa on, kuin
+eteläinen ranta-maa ainakin, lihavata, ja kantaa viljalta vehnää,
+pellavaa, silkkiä ja hedelmäpuita. _Krimin-niemi_ on etenkin
+mieluisa maa. Siellä kasvaa kesämaan hedelmiä, niin kuin viina-
+ja viikuna-puita. Eläimistä ovat merkittävät: kamelit ja aasit,
+hienovillaset lampaat ja silkkikarvaiset vuohet. — Kaupunkia: _Odessa_,
+paras kauppa-paikka Mustan meren rannalla, 70 t.a. — _Nikolajew_,
+sota-satama Bog-virran suussa, 30 t.a. — _Cherson_, Dnieper-virran
+suussa, sota-satama, kuvernörin asunto, lavea kauppa, 29 t.a. —
+_Jekaterinoslavl_, kuvernörin asunto, verka- ja sukka-teko, 12
+t.a. — _Simferôpol_, kuvernörin asunto, keskellä Krimin nientä, 9
+t.a. — _Taganrog_, hyvä kauppa-paikka ja sota-satama Assovan meren
+koillis-päässä. — _Sevastôpol_, vahvasti perustettu sota-satama, 40
+t.a. — _Kertsh_, ankara kauppa-paikka Krimi nniemen itä-reunalla.
+— _Baktshi-sarai_, Tatarilainen kaupunki, oli ennen omituisien
+ruhtinoiden asunto; siinä on vieläkin mahometiläinen _mufti_ eli
+ylimäinen pappi ja 31 mahometiläistä kirkkoa, 4 safjaani-, 1 pyssy-
+ja 1 veitsi-tehdas. Vaikka rakennettu ihanaan laksoon ja kauniiseen
+puistikkoon, on se kuitenkin kohin kolkko, kuin huoneiden ikkunat,
+itämaiden tavan jälkeen, ovat pihan puolella, eikä kuin muualla kadun
+puolella.
+
+_Donin Kasakain maa_, metsätöin, suola lähteillä täytetty kangas,
+jolla Kasakat ja Kalmukit kaitsevat karjojansa. Viina-puita kasvaa
+paljon. Kasakoin ataman eli päämies asuu _Novo Tsherkask_ nimellisessä
+kaupungissa, jossa on 18 t.a.
+
+
+Astrakan ja Kaukasia.
+
+Kapea maan suikale, Assovan ja Mustan meren rannoilta aina Ural-virran
+lähteille. Maa on paraaksi osaksi suolainen, tuskin, ja tokkopa
+tuskinkaan vilja-maaksi kelpaava lakeus. Etelässä kasvaa kuitenkin
+kesämaan hedelmiä, niinkuin viikunoita, oliivi-puita, mantelia,
+viina-puita ja silkki-pensaita. Seiven saalis on hyvä Wolga-virrassa.
+Sen rannoilla viljellään tupakkaa, sinappia ja muita ruohoja.
+Ural-vuoresta saadaan platinaa, rautaa ja vaskea. — Asukkaat, joiden
+paras, miltei vaan ainoa elatuskeino on karjan korjuu, ovat Mustan
+meren rannoilla _Kasakoita_, Kaspian meren rannoilla, Wolga-virran
+lounat-puolella _Kalmukkia_ eli Koirankuonolaisia, Wolga-virran
+toisella puolella niinikään Kaspian meren rannoilla _Kirgisiläisiä_ ja
+Bashkiiriä. Maata viljeleviä ovat taas seuraavaista kolme Suomalaista
+kansaa: _Watjalaiset_ Urali-virran keski varrella; _Tshuvashilaiset_
+Wolga-virran varrella, ja Tsheremissiläiset Kaaman-virran varrella.
+Moniaisiin paikkoin Wolga-virran ympäristölle ovat myöhempinä aikoina
+muuttana Venäläistä ja Saksalaista maja-väkeä, jotka ovat ahkeroita
+maan viinan viljeliöitä.
+
+Kuvernörin kaupunkia on seuraavat 5: _Stavrôpol_, kauniit kasvistot,
+viinan ja silkin viljelys, 7. t.a. — _Astrachan._ 7 peninkulmaa
+Wolga-virran suusta, käypi laveata kauppaa Aasiassa ja pyytää kaloja
+Kaspian merestä, sota-satama, 37 kristin uskoista kirkkoa, 15
+mahometin uskoista rukous-huonetta ja 1 intialainen pagodi-temppeli.
+Asukkaat, joita on 45 tuhatta, ovat monta eri kansaa, joiden joukossa
+on Intialaisia, Persialaisia ja Armenialaisia. — _Saratow_, hyvä
+kala-paikka Wolga-virran varrella, pitää vaihto-kauppaa Moskovan ja
+Astrakanin välillä, 42 t.a. — _Orenburg_, Ural-virran varrella, käypi
+kauppaa Aasiassa. Täälla asuu myös mahomettiläinen mufti eli ylimäinen
+pappi, 12 t.a. — _Samâra_, Wolga-virran varrella, myöpi paljon eläimiä
+ja sammin mätiä eli kaviaaria, 10 t.a.
+
+
+Kasan ja Permia.
+
+Kaama, Wiätkä ja Wolga-virtojen ympärillä. Ilma on kylmää ja maa
+auhtoa; mutta Urali-vuorista saadaan paljon kultaa, platinaa ja
+kalliita kiviä. Asukkaat ovat enimmäkseen Suomalaisia, niinkuin
+pohjoisessa _Syrjäniläisiä, Permiläisiä ja Woguleja_ Kaama-virran
+lähteillä, _Wotjäkejä_ Wiätkä-virran varrella, _Tsheremissejä_
+Wolga-virran pohjois-puolella ja Kaama-virran suupuolella, Tshuvasheja
+ja Mordviinejä läns-puolella Wolga-virtaa. Muu kansa on _Tatarilaisia,
+Kasakoita ja Venäläisiä_. Kuvernöriä on 5, jotka asuvat seuraavissa
+kaupungeissa: _Perm_, Kaama-virran varrella ja vaski-pajoja, 10 t.a.
+— _Wiätka_, yhtänimisen virran varrella, käypi kauppaa Arkangelissä,
+10 t.a. — _Kasan_, Kasanin joen suussa, yli-opisto, 66 kirkkoa,
+10-mahometiläistä rukous-huonetta, valmistaa saipuata, kyntilöitä,
+nahkoja, puuvilloja, lampaan villoja ja ruutia, 50 t.a. — _Simbirsk_,
+Wolga-virran varrella, 17 t.a. — _Pensa_, vuoren kiteiden eli
+kristallien hionta, 11 t. asujanta.
+
+
+
+
+Puolan maa.
+
+
+
+I. Maa.
+
+
+1. _Ala ja rajat_. Puolan maata kestää 35 puolipäivä-kaaresta 42
+saakka, ja pituudeltaan 50 tasa-ympyrästä 59:teen saakka. Nieman- ja
+Buug-virrat erottavat Puolan Venäjän maasta: etelässä on Itävalta ja
+lännessä sekä luoteessa Preussin valtakunta.
+
+2. _Mantereen muoto_. Maa on melkein tasasta: vuoria ei ole,
+tuskin sanottavaksikaan, eteläinen puoli on kuitenkin mäkistä.
+Sudeeti-vuorista alkava _Wislaa_ (saksalaisien Weiksel), on maan
+emävirta. Se juoksee ensin koilliseen, Itävallan rajaa myöten,
+käännäiksen sitten pohjoiseen, mutta mutkistuu kohta taas luoteesen
+ja laskeeksen Itämereen. Virta on sekä rajalla että maankin sisässä
+aluksilla kulettava. Sen lisävirroista ovat _Bûg_ ja sen sivuvirta
+_Narew_ oikealla ja _Pilitsa_ vasemmalla puolella, merkillisimmät.
+Äsken mainittu Nieman eli Niimen on rajana Venäjätä vasten. _Wartha_,
+josta ainoasti alkupuoli on tähän kuuluva, juoksee Oder-virtaan.
+
+3. _Maan jako_. Ennenvanhaan oli 8 lääniä eli _"voivodia"_, vaan
+nykyjään ainoasti seuraavata 5: _Augustovo_, pohjos-puoli, _Plock_,
+Wislaa-virran pohjos-puolella, _Warshau_, Weiksel-virran etelä-puolella
+Pilitsa-virtaan saakka, _Radom_, Pilitsasta Wislaan asti, ja _Lublin_,
+Weikselin ja Bûgin välillä.
+
+4. _Ilma_. Lämpymä on tasan jaettuna vuoden yli Warshaussa ja sen
+ympäristöllä 7 astetta; vaikka talvi, jota kestää 5 kuakautta, on
+useasti hyvinkin luminen ja yhtä kova, kun Suomen etelä-rannoilla.
+Tässä maassa omituinen rutto-tauti on _plica polonica_. Raavaan rutto
+on aivan tavallinen.
+
+5. _Luonnon tuotteita_. Ainoasti etelä-osassa saadaan rautaa, vaskea,
+lyjyä ja sinkkiä. Turpeita ja kivi-hiiliä poltetaan Radomin läänissä,
+jossa on huonot metsät. Suoloja ei ole omaksi tarpeeksikaan. — Vaikka
+maa on lihavata, niin on ruohosta kuitenkin huono. Eloa viljellään
+kuitenkin niin, että ruista ja vehnää viedään muille maille.
+Palko-viljoista ylettyy herneitä niinikään muille maille. Humalaa
+kasvaa Augustovon läänissä hoitamatta metsissä. — Metsää on vielä
+paljon, vaikka sitä paikka paikoin on raiskattukin. Metsät peittävät
+yhden neljänneksen maata, ja ovat paraaksi osaksi havu-puuta ja
+joillakuilla paikoilla tammeakin. Hedelmä-puita kasvatetaan ainoasti
+kaupungeissa, niiden ympäristöllä ja suuremmissa maa-kartanoissa. —
+Hevosia, lampaita ja lehmiä on paljon ja hyviä, vaikka ennenvanhaan
+kuulusa hevos-lai on hävinnyt. Mehiläisiä hoidetaan hyvin, ja hunajaa
+syödään sekä kotona, että myödään muille maille. Jänikset, metsä-siat
+ja sudet ovat tavallisia, vaan karhuja tavataan harvon. Virrat ovat
+hyvin kalasia, mutta muuten on kalan puute.
+
+
+
+II. Asukkaat.
+
+
+1. _Kansoja_. Maan viljeliät ovat kaikki Puolalaisia, ainoasti
+pohjoisessa sekotettuna Litauvilaisten ja Lublinin läänissä punasien
+Venäläisien kanssa. Suuria Venäläisiä on vähän, _Saksalaisia_ ainoasti
+porvarina suurimmissa kaupungeissa ja _Juutalaisia_ 6 sataa tuhatta,
+jotka jo vanhoista ajoista alkain ovat saaneet porvari-oikeuden.
+Yhteesen on väkeä 4 miljonaa 8 sataa tuhatta.
+
+2. _Säätyjä. Aatelis-miehiä_ on ylen paljon, yhteesen 3 sataa
+tuhatta niin, että 14 hengestä yks on aatelinen. Viimesinä aikona
+ovat kuitenkin aatelimiehet vähennyt siten, että kaikki ne, jotka
+eivat ole voinneet näyttää aateli-oikeuttansa ovat muutetut porvarin
+säädyyn. _Papit_ olivat ennen hyvinkin rikkaita, ja lahjotetut monilla
+etuoikeuksilla, joita nykysinä aikona ollaan vähän vähennetty.
+_Porvarit ja talonpojat_ ovat vapaita ja saavat hallita maata; mutta
+ovat vielä huonolla sivistyksen kannalla.
+
+3. _Keinollisuus_. Keino- ja käsitöitä oli vanhassa Puolassa tuskin
+ensinkään; mutta sittemmin kasvoi keino- ja käsityöt niin, että
+kymmenen vuoden päästä voitiin viedä verkoja Venäjälle. Sodan aikana
+1830 vaikeni kyllä keinollisuus, mutta nyt alkaa taas verka- ja
+puumuli-kankaita enetä. Muuten ovat paperin teko, nahkojen pajuttaminen
+paraita keino-töitä. Yleesen nousee keino-töiden vuotuinen arvo noin 40
+miljonaan hopea ruplaan.
+
+4. _Kauppaa_ käydään enimmäksen elolla, villa- ja puumuli-kankailla,
+laiva-aineilla, jäniksen nahoilla ja sian harjaksilla. Muualta tuodaan
+kulta-, hopea-, tina-, vaski- ja teräs-kaluja sekä viinoja. Näiden
+muualta tuotujen tavaroiden hinta nousee melkein yhtä korkealle, kun
+muualle vietyjenkin. Warshaussa, Puolan paraassa kauppa-kaupungissa, ja
+Lublinissa pidetään suuria markkinoita. Kauppaa varten on Warshauhin
+laitettu rahasto, mutta rahat ovat Venäjän ruplia. Puolan omituiset
+rahat ovat hävitetyt. Hyviä teitä on tehtynä, ja rautatie kulkee
+Warshausta nyt Itävallan alaiseen Krakaun kaupunkiin.
+
+5. _Uskonto_. Ei mitäkään valta-uskontoa ole maassa; vaikka enin osa
+asukkaita, eli likeillen 4 miljonaa tunnustavat Roomin katoliikin
+uskontoa. Niillä on vksi arkki-piispa Warshaussa ja 5 piispaa muissa
+kaupungeissa. Muiden uskontojen tunnustajoista on enin Juutalaisia,
+noin ½ miljonaa. Greekan uskolaisia ¼ milj. ja Kalviinin ja Luteruksen
+puhdistaman uskonnon tunnustajoita yhteesen, niinikään ¼ miljonaa.
+
+6. _Tieteet ja taiteet_. Puolan kielellä oli 16 ja 17 sata-luvulla
+loistava kirjallisuus, joka viime-aikona on joksenkin vähennyt siten,
+että franskan kieli on otettu puhe- ja kirja-kieleksi korkeimpien
+säätyjen parissa, ja latinan kieli on vanhuudesta ollut valta-kielenä.
+Kansan sivistvs on jo vanhoista ajoista asti ollunna takapajulla.
+Nyky-aikona on sitä toki koetettu vähän auttaa. Warshaussa oli ennen
+kuulusa yli-opisto, mutta sekin hävitettiiin, kapinan kukistettua
+vuonna 1831. Vuonna 1840 pantiin kaikki oppi-laitokset, joita, paitsi
+joitakuita eri-säätyjä varten tehtyjä laitoksia, oli 11 lukioa ja 22
+koulua, venäjän sivistys-ministeristön alle.
+
+7. _Hallitus-muoto_. Puolan kuninkaallista valtaa perustaissa,
+ruhtinoiden kokouksessa Wienin kaupungissa 1815, tehtiin siitä
+perustus-laillinen eräs-valta, jonka kuningas oli Venäjän keisari.
+Kuninkaalle annettiin täydellinen hallitus-voima; mutta lakia-laativa
+voima jaettiin kuninkaan ja säätyjen välillä. Säätyjen edus-miehet,
+jotka jaettiin kahteen kammariin, nimittäin: senaatiin ja maalaisten
+kammariin, kokoontuivat joka toinen vuosi Warshauhin lakia laatimaan.
+Ensimäisen kammarin eli senaatin jäseniä olivat kuninkaan pojat 18
+vuoden ikään tultuansa, piispat, palatiinit ja kastellaanit, sekä
+kuninkaan valitsemat elinaikuiset edus-miehet. Toisessa kammarissa
+istui 77 aatelin ja 51 talonpoikien kuudeksi vuodeksi valittua
+edus-miestä, joista kolmannes osa joka kolmas vuosi erotettiin arvan
+heitolla. Mutta vuonna 1830 nostetun kapinan kukistettua, kadotti Puola
+perustus-lakinsa, edus-miehensä ja sotavakensä. Vuonna 1832 Helmikuun
+26 päivänä annettu asetus jättää kaiken vallan _hallitus-seuralle_,
+joka hallitsee maata keisarin nimessä. Tämä seura muutettiin vuonna
+1841 _senaatiksi_, jonka esimies,_"namestnik"_, ja kaikki muutkin
+jäsenet ovat keisarin nimittämiä. Senaati jaetaan neljään osaan,
+ensimäinen pitää huolta kirkon ja koulun asioista, toinen lain
+asioista, kolmas talouden asioista ja neljäs tutkii valtakunnan tuloja
+ja menöjä.
+
+8. _Kaupunkia. Warshau_, Weiksel-virran varrella, hallituksen asunto,
+hyvä tehdas- ja kauppa-paikka, suuret markkinat, mainioita akatemioja
+ja kouluja, linnoitettu, 160 t.a. — _Plock_. Weikselin varrella,
+kohtuullinen kauppa, 10 t.a. — _Modlin_, Venäläisien _Novo Georgiewsk_,
+luja linnoitus. — _Suwalki_, Augustovon läänin maaherran asunto, 5 t.a.
+— _Lublin_, elo- ja viina-kauppa, isot markkinat, 14 t.a. — _Zamosc_,
+paras linnoitus, kaupunki on Zamoiski-nimisen ruhtina suvun oma, 5 t.a.
+— _Radom_, jonkunlainen tehdas- ja kauppa-paikka, 7 t.a. — _Kalish_,
+Prosna-virran varrella, villa-tehtaita, 12 t. asujanta.
+
+
+
+Venäläisen voittomaita.
+
+
+Aasian maa-osassa Kaukason vuorimaa aina Araratin vuoren tienolle
+saakka, ja koko Sipirian lakeus aina Beringin salmelle asti, itään
+päin, ja Altai vuoriin ja Amur virtaan asti, etelään päin, ja vielä
+Amerikan maaosasta koko luoteinen niemi ja muutamia saaria. Yleesensä
+noin 294,000 neliöpenikulmaa ja vähän yhdeksättä miljonaa asujamia.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75330 ***

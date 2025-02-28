@@ -1,11 +1,16 @@
 _repo: Yleinen-Maatiede-b-Luonnollinen-Maatide-ynna-Venajan-valtakunta-Euroopassa-olevine-alusmainee__75330
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Korander, Lavus
     gutenberg_agent_id: '57951'
     url: http://www.gutenberg.org/2009/agents/57951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75330#Yleinen-Maatiede-b-Luonnollinen-Maatide-ynna-Venajan-valtakunta-Euroopassa-olevine-alusmainee_
 gutenberg_issued: '2025-02-09'
 gutenberg_type: Text
 identifiers:
